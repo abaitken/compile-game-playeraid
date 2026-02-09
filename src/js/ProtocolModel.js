@@ -9,15 +9,16 @@ export class ProtocolModel {
         this.showCards = ko.observable(false);
 
         this.selection = selection;
-        this.selected = ko.pureComputed({
-            read: () => this.selection.items().includes(this),
-            write: (value) => {
-                if(value) {
-                    this.selection.select(this)
-                } else {
-                    this.selection.unselect(this)
-                }
+
+        this.selectionClass = ko.pureComputed(function() {
+            if(this.selection.mySelection().includes(this)) {
+                return 'my-selected-protocol';
             }
+            if(this.selection.opSelection().includes(this)) {
+                return 'op-selected-protocol';
+            }
+
+            return null;            
         }, this);
     }
 
@@ -25,7 +26,11 @@ export class ProtocolModel {
         this.showCards(!this.showCards());
     }
 
-    select() {
-        this.selected(!this.selected());
+    selectForMe() {
+        this.selection.selectForMe(this);
+    }
+
+    selectForOpponent() {
+        this.selection.selectForOpponent(this);
     }
 };

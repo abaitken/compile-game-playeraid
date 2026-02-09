@@ -21,17 +21,16 @@ ko.bindingHandlers.tooltip = {
 
 ko.bindingHandlers.applyClasses = {
     update: function (element, valueAccessor) {
-        const params = ko.unwrap(valueAccessor());
-        const condition = ko.unwrap(params.condition);
-        const classNames = params.classNames;
-        if(!classNames) {
-            throw new Error('Expected classNames property');
+        const classNames = ko.unwrap(valueAccessor());
+
+        if(element._lastApplyClass) {
+            element.classList.remove(element._lastApplyClass);
+            element._lastApplyClass = null;
         }
 
-        if(condition) {
+        if(classNames) {
             element.classList.add(classNames);
-        } else {
-            element.classList.remove(classNames);
+            element._lastApplyClass = classNames;
         }
     }
 };

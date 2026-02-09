@@ -13,17 +13,27 @@
 <body>
   <h1>Compile Player Aid</h1>
 
+  <div class="toolbar">
+    <button class="icon-button" data-bind="click: clearAllSelections, tooltip: 'Clear all selections'">
+      <i class="mdi mdi-close-circle-outline"></i>
+    </button>
+  </div>
   <div class="protocols">
     <!-- ko foreach: protocols -->
 
-    <div class="protocol-card" data-bind="applyClasses: { condition: selected, classNames: 'selected-protocol' }">
+    <div class="protocol-card" data-bind="applyClasses: selectionClass">
       <div class="protocol-set" data-bind="text: set.key, tooltip: set.name"></div>
       <div class="protocol-controls">
-        <button class="icon-button" data-bind="click: displayCards">
+        <button class="icon-button" data-bind="click: displayCards, tooltip: 'Show cards'">
           <i class="mdi mdi-cards-outline"></i>
         </button>
-        <button class="icon-button" data-bind="click: select">
+        <button class="icon-button" data-bind="click: selectForMe, tooltip: 'Pick for me'">
           <i class="mdi mdi-checkbox-marked-outline"></i>
+          <!--<i class="mdi mdi-numeric-1-circle-outline"></i>-->
+        </button>
+        <button class="icon-button" data-bind="click: selectForOpponent, tooltip: 'Pick for opponent'">
+          <i class="mdi mdi-close-box-outline"></i>
+          <!-- <i class="mdi mdi-numeric-2-circle-outline"></i> -->
         </button>
       </div>
       <div class="protocol-name" data-bind="text: name"></div>

@@ -140,7 +140,16 @@ body {
   z-index: 9999;
 }
 
-.selected-protocol {
+.my-selected-protocol {
     background-color: green;
     color: white;
+}
+
+.op-selected-protocol {
+    background-color: maroon;
+    color: white;
+}
+
+.toolbar {
+    display: flex;
 }

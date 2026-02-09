@@ -2,17 +2,32 @@ import { ProtocolModel } from "./ProtocolModel.js";
 
 class SelectionHandler {
     constructor() {
-        this.items = ko.observableArray();
+        this.mySelection = ko.observableArray();
+        this.opSelection = ko.observableArray();
+        this.selection = ko.pureComputed(function() {
+            return this.mySelection().concat(this.opSelection());
+        }, this);
     }
 
-    select(item) {
-        if (!this.items().includes(item) && this.items().length < 3) {
-            this.items.push(item);
+    selectForMe(item) {
+        if (!this.selection().includes(item) && this.mySelection().length < 3) {
+            this.mySelection.push(item);
+        } else {
+            this.mySelection.remove(item);
         }
     }
 
-    unselect(item) {
-        this.items.remove(item);
+    selectForOpponent(item) {
+        if (!this.selection().includes(item) && this.opSelection().length < 3) {
+            this.opSelection.push(item);
+        } else {
+            this.opSelection.remove(item);
+        }
+    }
+
+    clear() {
+        this.mySelection.removeAll();
+        this.opSelection.removeAll();
     }
 }
 
@@ -29,6 +44,10 @@ export class ViewModel {
 
             return data.protocols.map(item => new ProtocolModel(item, data.sets, this.selectionHandler));
         }, this);
+    }
+
+    clearAllSelections() {
+        this.selectionHandler.clear();
     }
 
     init() {
