@@ -14,11 +14,14 @@
   <h1>Compile Player Aid</h1>
 
   <div class="toolbar">
+    <button class="icon-button" data-bind="click: hideAllCards, tooltip: 'Hide all cards'">
+      <i class="mdi mdi-eye-off-outline"></i>
+    </button>
     <button class="icon-button" data-bind="click: clearAllSelections, tooltip: 'Clear all selections'">
       <i class="mdi mdi-close-circle-outline"></i>
     </button>
-    <button class="icon-button" data-bind="click: hideAllCards, tooltip: 'Hide all cards'">
-      <i class="mdi mdi-eye-off-outline"></i>
+    <button class="icon-button" data-bind="click: pickRandomly, tooltip: 'Pick randomly'">
+      <i class="mdi mdi-dice-multiple"></i>
     </button>
   </div>
   <div class="protocols">

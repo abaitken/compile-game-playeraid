@@ -4,13 +4,21 @@ class SelectionHandler {
     constructor() {
         this.mySelection = ko.observableArray();
         this.opSelection = ko.observableArray();
-        this.selection = ko.pureComputed(function() {
+        this.selection = ko.pureComputed(function () {
             return this.mySelection().concat(this.opSelection());
+        }, this);
+
+        this.count = ko.pureComputed(function () {
+            return this.selection().length;
         }, this);
     }
 
+    includes(item) {
+        return this.selection().includes(item);
+    }
+
     selectForMe(item) {
-        if (!this.selection().includes(item) && this.mySelection().length < 3) {
+        if (!this.includes(item) && this.mySelection().length < 3) {
             this.mySelection.push(item);
         } else {
             this.mySelection.remove(item);
@@ -18,7 +26,7 @@ class SelectionHandler {
     }
 
     selectForOpponent(item) {
-        if (!this.selection().includes(item) && this.opSelection().length < 3) {
+        if (!this.includes(item) && this.opSelection().length < 3) {
             this.opSelection.push(item);
         } else {
             this.opSelection.remove(item);
@@ -54,6 +62,30 @@ export class ViewModel {
         for (let index = 0; index < this.protocols().length; index++) {
             const protocol = this.protocols()[index];
             protocol.hideCards();
+        }
+    }
+
+    pickRandomly() {
+
+        if (this.selectionHandler.count() >= 6) {
+            return;
+        }
+
+        const shuffled = [...this.protocols()].sort(() => Math.random() - 0.5);
+        let index = 0;
+
+        while (this.selectionHandler.count() <= 6 && index < shuffled.length) {
+            const item = shuffled[index];
+
+            if (!this.selectionHandler.includes(item)) {
+                if (this.selectionHandler.mySelection().length < 3) {
+                    this.selectionHandler.selectForMe(item);
+                } else if (this.selectionHandler.opSelection().length < 3) {
+                    this.selectionHandler.selectForOpponent(item);
+                }
+            }
+
+            index++;
         }
     }
 
