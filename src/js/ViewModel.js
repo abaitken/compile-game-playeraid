@@ -5,12 +5,11 @@ class SelectionHandler {
         this.mySelection = ko.observableArray();
         this.opSelection = ko.observableArray();
         this.excluded = ko.observableArray();
-        this.selection = ko.pureComputed(function () {
-            return this.mySelection().concat(this.opSelection()).concat(this.excluded());
+        this.included = ko.pureComputed(function () {
+            return this.mySelection().concat(this.opSelection());
         }, this);
-
-        this.count = ko.pureComputed(function () {
-            return this.selection().length;
+        this.selection = ko.pureComputed(function () {
+            return this.included().concat(this.excluded());
         }, this);
     }
 
@@ -76,14 +75,14 @@ export class ViewModel {
 
     pickRandomly() {
 
-        if (this.selectionHandler.count() >= 6) {
+        if (this.selectionHandler.included().length >= 6) {
             return;
         }
 
         const shuffled = [...this.protocols()].sort(() => Math.random() - 0.5);
         let index = 0;
 
-        while (this.selectionHandler.count() <= 6 && index < shuffled.length) {
+        while (this.selectionHandler.included().length <= 6 && index < shuffled.length) {
             const item = shuffled[index];
 
             if (!this.selectionHandler.includes(item)) {
