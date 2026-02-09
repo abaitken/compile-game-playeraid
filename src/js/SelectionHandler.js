@@ -43,4 +43,14 @@ export class SelectionHandler {
         this.mySelection.removeAll();
         this.opSelection.removeAll();
     }
+
+    serialize() {
+        const result = {
+            my: this.mySelection().map(item => item.key),
+            op: this.opSelection().map(item => item.key),
+            ex: this.excluded().map(item => item.key)
+        };
+
+        return result;
+    }
 }

@@ -1,10 +1,15 @@
 import { ProtocolModel } from "./ProtocolModel.js";
 import { SelectionHandler } from "./SelectionHandler.js";
+import { StorageManager } from "./StorageManager.js";
 
 export class ViewModel {
     constructor() {
+        this.store = new StorageManager();
         this.data = ko.observable(null);
         this.selectionHandler = new SelectionHandler();
+        this.selectionHandler.selection.subscribe(function() {
+            this.store.storeSelections(this.selectionHandler.serialize());
+        }, this);
         this.protocols = ko.computed(function () {
             const data = this.data();
 
@@ -51,6 +56,36 @@ export class ViewModel {
         }
     }
 
+    restoreData() {
+        const data = this.store.fetchSelections();
+
+        if(!data) {
+            return;
+        }
+
+        this.store.suspendSave();
+        const protocols = this.protocols();
+        for (let index = 0; index < protocols.length; index++) {
+            const protocol = protocols[index];
+            
+            if(data.my.includes(protocol.key)) {
+                protocol.selectForMe();
+                continue;
+            }
+            
+            if(data.op.includes(protocol.key)) {
+                protocol.selectForOpponent();
+                continue;
+            }
+            
+            if(data.ex.includes(protocol.key)) {
+                protocol.selectExclude();
+                continue;
+            }
+        }
+        this.store.resumeSave();
+    }
+
     init() {
         ko.applyBindings(this);
 
@@ -63,6 +98,7 @@ export class ViewModel {
             })
             .then(data => {
                 this.data(data);
+                this.restoreData();
             })
             .catch(err => {
                 console.error('Failed to load JSON:', err);

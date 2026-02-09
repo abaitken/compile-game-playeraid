@@ -1,6 +1,7 @@
 export class ProtocolModel {
     constructor(protocol, sets, selection) {
 
+        this.key = protocol.key;
         this.set = sets.find(item => item.key === protocol.set);
         this.name = protocol.name;
         this.keywords = protocol.keywords.join(', ');
