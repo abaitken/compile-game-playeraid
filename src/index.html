@@ -17,6 +17,9 @@
     <button class="icon-button" data-bind="click: clearAllSelections, tooltip: 'Clear all selections'">
       <i class="mdi mdi-close-circle-outline"></i>
     </button>
+    <button class="icon-button" data-bind="click: hideAllCards, tooltip: 'Hide all cards'">
+      <i class="mdi mdi-eye-off-outline"></i>
+    </button>
   </div>
   <div class="protocols">
     <!-- ko foreach: protocols -->
@@ -46,6 +49,11 @@
         <div class="card-header">
           <div class="card-protocol" data-bind="text: $parent.name"></div>
           <div class="card-value" data-bind="text:value"></div>
+          <!-- ko if: !!($data.faq) -->
+          <button class="icon-button" data-bind="click: () => $parent.showFAQ($data), tooltip: 'FAQ'">
+            <i class="mdi mdi-alert-outline"></i>
+          </button>
+          <!-- /ko -->
         </div>
         <div class="card-body">
           <div class="card-text" data-bind="markdown: text.top"></div>

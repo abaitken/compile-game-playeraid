@@ -26,11 +26,19 @@ export class ProtocolModel {
         this.showCards(!this.showCards());
     }
 
+    hideCards() {
+        this.showCards(false);
+    }
+
     selectForMe() {
         this.selection.selectForMe(this);
     }
 
     selectForOpponent() {
         this.selection.selectForOpponent(this);
+    }
+
+    showFAQ(card) {
+        console.log(card.faq);
     }
 };

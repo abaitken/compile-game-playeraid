@@ -50,6 +50,13 @@ export class ViewModel {
         this.selectionHandler.clear();
     }
 
+    hideAllCards() {
+        for (let index = 0; index < this.protocols().length; index++) {
+            const protocol = this.protocols()[index];
+            protocol.hideCards();
+        }
+    }
+
     init() {
         ko.applyBindings(this);
 
