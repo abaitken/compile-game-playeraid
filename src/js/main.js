@@ -1,5 +1,5 @@
 import { ViewModel } from './ViewModel.js';
-import { marked } from '../node_modules/marked/lib/marked.esm.js';
+import { marked } from 'https://cdnjs.cloudflare.com/ajax/libs/marked/16.3.0/lib/marked.esm.min.js';
 import { TooltipHandler } from './TooltipHandler.js';
 
 ko.bindingHandlers.markdown = {
@@ -35,5 +35,8 @@ ko.bindingHandlers.applyClasses = {
     }
 };
 
+
 var root = new ViewModel();
-root.init();
+document.addEventListener("DOMContentLoaded", function(event) {
+    root.init();
+});
