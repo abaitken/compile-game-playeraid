@@ -50,7 +50,7 @@
                     "text": {
                         "top": "Ignore all middle commands of cards in this line.",
                         "middle": "",
-                        "bottom": "*When this card would be covered:* First, flip this card."
+                        "bottom": "**When this card would be covered:** First, flip this card."
                     },
                     "keywords": [
                         "flip"
@@ -115,7 +115,7 @@
                     "text": {
                         "top": "",
                         "middle": "Discard 1 card. Refresh.",
-                        "bottom": "*After a player refreshes:* Draw the top card of your opponent's deck. Discard 1 card into their trash."
+                        "bottom": "**After a player refreshes:** Draw the top card of your opponent's deck. Discard 1 card into their trash."
                     },
                     "keywords": [
                         "discard",
@@ -128,7 +128,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*End:* Play the top card of your opponent's deck face down in this stack.  "
+                        "bottom": "**End:** Play the top card of your opponent's deck face down in this stack.  "
                     },
                     "keywords": []
                 },
@@ -159,7 +159,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*End:* Play the top card of your deck face-down on your opponent's side."
+                        "bottom": "**End:** Play the top card of your deck face-down on your opponent's side."
                     },
                     "keywords": []
                 }
@@ -179,7 +179,7 @@
                     "text": {
                         "top": "",
                         "middle": "In each line, flip 1 covered card.",
-                        "bottom": "*Start:* Draw the top card of your opponent's deck. Your opponent draws the top card of your deck."
+                        "bottom": "**Start:** Draw the top card of your opponent's deck. Your opponent draws the top card of your deck."
                     },
                     "keywords": [
                         "flip",
@@ -224,7 +224,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*End:* Discard your hand. Draw that many cards."
+                        "bottom": "**End:** Discard your hand. Draw that many cards."
                     },
                     "keywords": [
                         "discard",
@@ -266,9 +266,9 @@
                 {
                     "value": 1,
                     "text": {
-                        "top": "*Start:* Reveal the top card of your deck. You may discard the top card of your deck.",
+                        "top": "**Start:** Reveal the top card of your deck. You may discard the top card of your deck.",
                         "middle": "Your opponent reveals their hand.",
-                        "bottom": "*When this card would be covered:* First, draw 3 cards."
+                        "bottom": "**When this card would be covered:** First, draw 3 cards."
                     },
                     "keywords": [
                         "discard",
@@ -335,7 +335,7 @@
                 {
                     "value": 0,
                     "text": {
-                        "top": "*Start:* Flip 1 face-up covered or uncovered card in this stack other than this card.",
+                        "top": "**Start:** Flip 1 face-up covered or uncovered card in this stack other than this card.",
                         "middle": "",
                         "bottom": "You may play this card in any line on either player's side."
                     },
@@ -349,7 +349,7 @@
                     "text": {
                         "top": "",
                         "middle": "Return 1 card.",
-                        "bottom": "*When a card would be returned to your opponent's hand:* Put that card on top of their deck face-down instead."
+                        "bottom": "**When a card would be returned to your opponent's hand:** Put that card on top of their deck face-down instead."
                     },
                     "keywords": [
                         "return"
@@ -358,7 +358,7 @@
                 {
                     "value": 2,
                     "text": {
-                        "top": "*After you discard cards:* Your opponent discards 1 card.",
+                        "top": "**After you discard cards:** Your opponent discards 1 card.",
                         "middle": "Draw 1 card. Discard 1 card.",
                         "bottom": ""
                     },
@@ -392,7 +392,7 @@
                 {
                     "value": 6,
                     "text": {
-                        "top": "*End:* Either discard 1 card or delete this card.",
+                        "top": "**End:** Either discard 1 card or delete this card.",
                         "middle": "",
                         "bottom": ""
                     },
@@ -415,9 +415,9 @@
                 {
                     "value": 0,
                     "text": {
-                        "top": "*Start:* If you have no cards in hand, draw 1 card.",
+                        "top": "**Start:** If you have no cards in hand, draw 1 card.",
                         "middle": "Draw 1 card.",
-                        "bottom": "*End:* You may discard 1 card. If you do, your opponent discards 1 card."
+                        "bottom": "**End:** You may discard 1 card. If you do, your opponent discards 1 card."
                     },
                     "keywords": [
                         "draw",
@@ -440,7 +440,7 @@
                     "text": {
                         "top": "",
                         "middle": "Draw 1 card.",
-                        "bottom": "*End:* If your opponent has a highter total value than you do in this line, draw 1 card."
+                        "bottom": "**End:** If your opponent has a highter total value than you do in this line, draw 1 card."
                     },
                     "keywords": [
                         "draw"
@@ -451,7 +451,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*End:* You may shift this card to the line where your opponent has their highest total value. "
+                        "bottom": "**End:** You may shift this card to the line where your opponent has their highest total value. "
                     },
                     "keywords": [
                         "shift"
@@ -471,7 +471,7 @@
                 {
                     "value": 6,
                     "text": {
-                        "top": "*End:* If your opponent has a higher value in this line than you do, flip this card.",
+                        "top": "**End:** If your opponent has a higher value in this line than you do, flip this card.",
                         "middle": "",
                         "bottom": ""
                     },
@@ -585,7 +585,7 @@
                 {
                     "value": 1,
                     "text": {
-                        "top": "*Start:* You may draw 1 card. If you do, delete 1 other card. Then delete this card.",
+                        "top": "**Start:** You may draw 1 card. If you do, delete 1 other card. Then delete this card.",
                         "middle": "",
                         "bottom": ""
                     },
@@ -655,7 +655,7 @@
                     "text": {
                         "top": "",
                         "middle": "If there are 6 different protocols on cards in the field, flip the Diversity protocol to the compiled side.",
-                        "bottom": "*End:* You may play 1 non-Diversity card in this line."
+                        "bottom": "**End:** You may play 1 non-Diversity card in this line."
                     },
                     "keywords": []
                 },
@@ -702,7 +702,7 @@
                 {
                     "value": 6,
                     "text": {
-                        "top": "*End:* If there are not at least 3 different protocols on cards in the field, delete this card.",
+                        "top": "**End:** If there are not at least 3 different protocols on cards in the field, delete this card.",
                         "middle": "",
                         "bottom": ""
                     },
@@ -804,7 +804,7 @@
                     "text": {
                         "top": "",
                         "middle": "Flip 1 other card. Draw 2 cards.",
-                        "bottom": "*When this card would be covered:* First, draw 1 card.Then, flip 1 other card."
+                        "bottom": "**When this card would be covered:** First, draw 1 card.Then, flip 1 other card."
                     },
                     "keywords": [
                         "draw",
@@ -840,7 +840,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*End:* You may discard 1 card. If you do, flip 1 card."
+                        "bottom": "**End:** You may discard 1 card. If you do, flip 1 card."
                     },
                     "keywords": [
                         "discard",
@@ -1000,7 +1000,7 @@
                 {
                     "value": 3,
                     "text": {
-                        "top": "*After you delete cards:* Draw 1 card.",
+                        "top": "**After you delete cards:** Draw 1 card.",
                         "middle": "",
                         "bottom": ""
                     },
@@ -1013,7 +1013,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*When this card would be covered:* First, delete the lowest value covered card in this line."
+                        "bottom": "**When this card would be covered:** First, delete the lowest value covered card in this line."
                     },
                     "keywords": [
                         "delete"
@@ -1045,7 +1045,7 @@
                     "text": {
                         "top": "",
                         "middle": "You may shift this card.",
-                        "bottom": "*After your opponent plays a card in this line:* Your opponent discards 1 card."
+                        "bottom": "**After your opponent plays a card in this line:** Your opponent discards 1 card."
                     },
                     "keywords": [
                         "shift",
@@ -1067,7 +1067,7 @@
                 {
                     "value": 3,
                     "text": {
-                        "top": "*End:* If this card is covered, you may shift it.",
+                        "top": "**End:** If this card is covered, you may shift it.",
                         "middle": "",
                         "bottom": ""
                     },
@@ -1120,7 +1120,7 @@
                 {
                     "value": 0,
                     "text": {
-                        "top": "*End:* If this card is covered, delete this card.",
+                        "top": "**End:** If this card is covered, delete this card.",
                         "middle": "Play the top card of your deck face-down in each line where you have a card.",
                         "bottom": ""
                     },
@@ -1159,7 +1159,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*When this card would be covered:* First, play the top card of your deck face-down in another line."
+                        "bottom": "**When this card would be covered:** First, play the top card of your deck face-down in another line."
                     },
                     "keywords": [
                         "play",
@@ -1217,7 +1217,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*End:* Draw 1 card."
+                        "bottom": "**End:** Draw 1 card."
                     },
                     "keywords": [
                         "draw"
@@ -1289,7 +1289,7 @@
                     "text": {
                         "top": "",
                         "middle": "Draw the top card of your opponent's deck.",
-                        "bottom": "*End:* You may give 1 card from your hand to your opponent. If you do, draw 2 cards."
+                        "bottom": "**End:** You may give 1 card from your hand to your opponent. If you do, draw 2 cards."
                     },
                     "keywords": [
                         "draw",
@@ -1510,7 +1510,7 @@
                 {
                     "value": 6,
                     "text": {
-                        "top": "*When this card would be covered or flipped:* First, delete this card.",
+                        "top": "**When this card would be covered or flipped:** First, delete this card.",
                         "middle": "",
                         "bottom": ""
                     },
@@ -1544,7 +1544,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*End:* You may resolve the middle command of 1 of your opponent's cards as if it were on this card."
+                        "bottom": "**End:** You may resolve the middle command of 1 of your opponent's cards as if it were on this card."
                     },
                     "keywords": []
                 },
@@ -1575,7 +1575,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*After your opponent draws cards:* Draw 1 card."
+                        "bottom": "**After your opponent draws cards:** Draw 1 card."
                     },
                     "keywords": [
                         "draw"
@@ -1608,7 +1608,7 @@
                     "text": {
                         "top": "",
                         "middle": "Both players discard their hand.",
-                        "bottom": "*End:* If your hand is empty, draw 1 card."
+                        "bottom": "**End:** If your hand is empty, draw 1 card."
                     },
                     "keywords": [
                         "discard",
@@ -1644,7 +1644,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*After you discard cards during your opponent's turn:* Draw 1 card."
+                        "bottom": "**After you discard cards during your opponent's turn:** Draw 1 card."
                     },
                     "keywords": [
                         "discard",
@@ -1698,7 +1698,7 @@
                 {
                     "value": 1,
                     "text": {
-                        "top": "*After your opponent discards cards:* Draw 1 card.",
+                        "top": "**After your opponent discards cards:** Draw 1 card.",
                         "middle": "Your opponent discards 1 card.",
                         "bottom": ""
                     },
@@ -1734,7 +1734,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*End:* Your opponent deletes 1 of their face-down cards. You may flip this card."
+                        "bottom": "**End:** Your opponent deletes 1 of their face-down cards. You may flip this card."
                     },
                     "keywords": [
                         "delete",
@@ -1782,7 +1782,7 @@
                     "text": {
                         "top": "Your opponent can only play cards face-down.",
                         "middle": "",
-                        "bottom": "*Start:* Flip this card."
+                        "bottom": "**Start:** Flip this card."
                     },
                     "keywords": [
                         "flip",
@@ -1818,7 +1818,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*End:* You may return 1 of your opponent's cards. If you do, flip this card."
+                        "bottom": "**End:** You may return 1 of your opponent's cards. If you do, flip this card."
                     },
                     "keywords": [
                         "flip",
@@ -1943,7 +1943,7 @@
                 {
                     "value": 1,
                     "text": {
-                        "top": "*After you clear cache:* Draw 1 card.",
+                        "top": "**After you clear cache:** Draw 1 card.",
                         "middle": "Draw 2 cards.",
                         "bottom": ""
                     },
@@ -1954,7 +1954,7 @@
                 {
                     "value": 2,
                     "text": {
-                        "top": "*When this card would be deleted by compiling:* Shift this card, even if this card is covered.",
+                        "top": "**When this card would be deleted by compiling:** Shift this card, even if this card is covered.",
                         "middle": "",
                         "bottom": ""
                     },
@@ -1967,7 +1967,7 @@
                     "text": {
                         "top": "",
                         "middle": "Shift 1 of your other cards.",
-                        "bottom": "*End:* You may shift 1 of your cards. If you do, flip this card."
+                        "bottom": "**End:** You may shift 1 of your cards. If you do, flip this card."
                     },
                     "keywords": [
                         "flip",
@@ -2026,7 +2026,7 @@
                     "text": {
                         "top": "When you play cards face-up, they may be played without matching protocols.",
                         "middle": "Draw 2 cards.",
-                        "bottom": "*Start:* Either discard 1 card or flip this card."
+                        "bottom": "**Start:** Either discard 1 card or flip this card."
                     },
                     "keywords": [
                         "discard",
@@ -2048,7 +2048,7 @@
                 {
                     "value": 3,
                     "text": {
-                        "top": "*After you draw cards:* You may shift this card, even if this card is covered.",
+                        "top": "**After you draw cards:** You may shift this card, even if this card is covered.",
                         "middle": "",
                         "bottom": ""
                     },
@@ -2116,7 +2116,7 @@
                 {
                     "value": 2,
                     "text": {
-                        "top": "*After you shuffle your deck:* Draw 1 card and you may shift this card.",
+                        "top": "**After you shuffle your deck:** Draw 1 card and you may shift this card.",
                         "middle": "If there are any cards in your trash, you may shuffle your trash into your deck.",
                         "bottom": ""
                     },
@@ -2176,7 +2176,7 @@
                     "text": {
                         "top": "",
                         "middle": "If there is another Unity card in the field, either flip 1 card or draw 1 card.",
-                        "bottom": "*When this card would be covered by a Unity card:* First, either flip 1 card or draw 1 card."
+                        "bottom": "**When this card would be covered by a Unity card:** First, either flip 1 card or draw 1 card."
                     },
                     "keywords": [
                         "discard",
@@ -2186,7 +2186,7 @@
                 {
                     "value": 1,
                     "text": {
-                        "top": "*Start:* If this card is covered, you may shift this card.",
+                        "top": "**Start:** If this card is covered, you may shift this card.",
                         "middle": "If there are 5 or more Unity cards in the field, flip the Unity protocol to the compiled side and delete all cards in that line.",
                         "bottom": "Unity cards may be played face-up in this line."
                     },
@@ -2219,7 +2219,7 @@
                 {
                     "value": 4,
                     "text": {
-                        "top": "*Start:* If you hand is empty, reveal your deck, draw all Unity cards from it, and shuffle your deck.",
+                        "top": "**Start:** If you hand is empty, reveal your deck, draw all Unity cards from it, and shuffle your deck.",
                         "middle": "",
                         "bottom": ""
                     },
@@ -2251,9 +2251,9 @@
                 {
                     "value": 0,
                     "text": {
-                        "top": "*After you refresh:* You may flip this card.",
+                        "top": "**After you refresh:** You may flip this card.",
                         "middle": "",
-                        "bottom": "*After your opponent draws cards:* You may delete 1 card."
+                        "bottom": "**After your opponent draws cards:** You may delete 1 card."
                     },
                     "keywords": [
                         "refresh",
@@ -2267,7 +2267,7 @@
                     "text": {
                         "top": "",
                         "middle": "",
-                        "bottom": "*After your opponent refreshes:* Discard any number of cards. Refresh."
+                        "bottom": "**After your opponent refreshes:** Discard any number of cards. Refresh."
                     },
                     "keywords": [
                         "discard",
@@ -2279,7 +2279,7 @@
                     "text": {
                         "top": "",
                         "middle": "Flip 1 card.",
-                        "bottom": "*After your opponent compiles:* Your opponent discards their hand."
+                        "bottom": "**After your opponent compiles:** Your opponent discards their hand."
                     },
                     "keywords": [
                         "flip",
@@ -2292,7 +2292,7 @@
                     "text": {
                         "top": "",
                         "middle": "Draw 1 card.",
-                        "bottom": "*After your opponent discards cards:* You may play 1 card face-down."
+                        "bottom": "**After your opponent discards cards:** You may play 1 card face-down."
                     },
                     "keywords": [
                         "discard",
