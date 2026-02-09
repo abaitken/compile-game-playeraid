@@ -17,6 +17,9 @@ export class ProtocolModel {
             if(this.selection.opSelection().includes(this)) {
                 return 'op-selected-protocol';
             }
+            if(this.selection.excluded().includes(this)) {
+                return 'excluded-protocol';
+            }
 
             return null;            
         }, this);
@@ -36,6 +39,10 @@ export class ProtocolModel {
 
     selectForOpponent() {
         this.selection.selectForOpponent(this);
+    }
+
+    selectExclude() {
+        this.selection.selectExclude(this);
     }
 
     showFAQ(card) {

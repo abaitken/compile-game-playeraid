@@ -150,6 +150,11 @@ body {
     color: white;
 }
 
+.excluded-protocol {
+    background-color: #eee;
+    color: grey;
+}
+
 .toolbar {
     display: flex;
 }

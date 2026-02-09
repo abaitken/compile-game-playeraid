@@ -4,8 +4,9 @@ class SelectionHandler {
     constructor() {
         this.mySelection = ko.observableArray();
         this.opSelection = ko.observableArray();
+        this.excluded = ko.observableArray();
         this.selection = ko.pureComputed(function () {
-            return this.mySelection().concat(this.opSelection());
+            return this.mySelection().concat(this.opSelection()).concat(this.excluded());
         }, this);
 
         this.count = ko.pureComputed(function () {
@@ -30,6 +31,14 @@ class SelectionHandler {
             this.opSelection.push(item);
         } else {
             this.opSelection.remove(item);
+        }
+    }
+
+    selectExclude(item) {
+        if (!this.includes(item)) {
+            this.excluded.push(item);
+        } else {
+            this.excluded.remove(item);
         }
     }
 
