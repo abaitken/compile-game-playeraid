@@ -7,32 +7,49 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>Compile Player Aid</title>
   <link rel="stylesheet" href="style/shared.css" media="screen">
+  <link rel="stylesheet" href="node_modules/mdi/css/materialdesignicons.min.css" media="screen,print">
 </head>
 
 <body>
   <h1>Compile Player Aid</h1>
-  
-  <!-- ko foreach: protocols -->
 
-  <div class="protocol">
+  <div class="protocols">
+    <!-- ko foreach: protocols -->
 
-    <!-- ko foreach: cards -->
-    <div class="card">
-      <div class="card-header">
-        <div class="card-protocol" data-bind="text: $parent.name"></div>
-        <div class="card-value" data-bind="text:value"></div>
+    <div class="protocol-card" data-bind="applyClasses: { condition: selected, classNames: 'selected-protocol' }">
+      <div class="protocol-set" data-bind="text: set.key, tooltip: set.name"></div>
+      <div class="protocol-controls">
+        <button class="icon-button" data-bind="click: displayCards">
+          <i class="mdi mdi-cards-outline"></i>
+        </button>
+        <button class="icon-button" data-bind="click: select">
+          <i class="mdi mdi-checkbox-marked-outline"></i>
+        </button>
       </div>
-      <div class="card-body">
-        <div class="card-text" data-bind="markdown: text.top"></div>
-        <div class="card-text" data-bind="markdown: text.middle"></div>
-        <div class="card-text" data-bind="markdown: text.bottom"></div>
-      </div>
+      <div class="protocol-name" data-bind="text: name"></div>
+      <div class="protocol-keywords" data-bind="text: keywords"></div>
     </div>
+
+    <div class="protocol-cards" data-bind="if: showCards">
+      <!-- ko foreach: cards -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-protocol" data-bind="text: $parent.name"></div>
+          <div class="card-value" data-bind="text:value"></div>
+        </div>
+        <div class="card-body">
+          <div class="card-text" data-bind="markdown: text.top"></div>
+          <div class="card-text" data-bind="markdown: text.middle"></div>
+          <div class="card-text" data-bind="markdown: text.bottom"></div>
+        </div>
+      </div>
+      <!-- /ko -->
+    </div>
+
     <!-- /ko -->
   </div>
 
-  <!-- /ko -->
-
+  <div id="tooltip"></div>
   <script src="node_modules/knockout/build/output/knockout-latest.js" type="text/javascript"></script>
   <script src="js/main.js" type="module"></script>
 </body>

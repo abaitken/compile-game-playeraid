@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "knockout": "^3.5.1",
-    "marked": "^17.0.1"
+    "marked": "^17.0.1",
+    "mdi": "^2.2.43"
   }
 }

@@ -1,10 +1,13 @@
 body {
     font-family: Consolas;
     margin: 10px;
+    font-variant: small-caps;
 }
 
-.protocol {
+.protocol-cards {
     display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 .card {
@@ -16,19 +19,21 @@ body {
 
 .card-header {
     display: flex;
+    justify-content: center;
 }
 
-.card-protocol {
-
-}
+.card-protocol {}
 
 .card-value {
     font-size: 2rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .card-body {
     display: flex;
     flex-direction: column;
+    gap: 2px;
 }
 
 .card-text {
@@ -40,4 +45,102 @@ body {
 .card-text p {
     margin: 0;
     padding: 0;
+}
+
+
+
+.protocols {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.protocol-card {
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.protocol-name {
+    margin-top: 5px;
+    margin-bottom: 30px;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.protocol-keywords {
+    width: 100%;
+    text-align: center;
+}
+
+.protocol-set {
+    width: 100%;
+    text-align: right;
+    font-size: 0.75rem;
+}
+
+
+.protocol-card:hover .protocol-controls {
+    visibility: visible;
+}
+
+.protocol-controls {
+    visibility: hidden;
+}
+
+
+
+
+.icon-button {
+    background: none;
+    /* remove default background */
+    border: none;
+    /* remove border */
+    padding: 0;
+    /* remove default padding */
+    margin: 0;
+    /* optional: remove margin */
+    cursor: pointer;
+    /* keep it clickable */
+    display: inline-flex;
+    /* keeps icon nicely centered */
+    align-items: center;
+    justify-content: center;
+    color: inherit;
+    /* icon inherits text color */
+}
+
+.icon-button:focus {
+    outline: none;
+    /* remove focus ring */
+}
+
+.icon-button:focus-visible {
+    outline: 2px solid #0078d4;
+    /* accessible focus style */
+}
+
+.icon-button i {
+    font-size: 24px;
+}
+
+#tooltip {
+  position: fixed;
+  pointer-events: none;
+  background: #333;
+  color: white;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  display: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  z-index: 9999;
+}
+
+.selected-protocol {
+    background-color: green;
+    color: white;
 }
