@@ -11,6 +11,27 @@
 
 <body>
 
+  <!-- ko foreach: protocols -->
+
+  <div class="protocol">
+
+    <!-- ko foreach: cards -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-protocol" data-bind="text: $parent.name"></div>
+        <div class="card-value" data-bind="text:value"></div>
+      </div>
+      <div class="card-body">
+        <div class="card-text" data-bind="text: text.top"></div>
+        <div class="card-text" data-bind="text: text.middle"></div>
+        <div class="card-text" data-bind="text: text.bottom"></div>
+      </div>
+    </div>
+    <!-- /ko -->
+  </div>
+
+  <!-- /ko -->
+
   <script src="bower_components/knockout/dist/knockout.js" type="text/javascript"></script>
   <script src="js/main.js" type="module"></script>
 </body>
