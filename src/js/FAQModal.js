@@ -1,7 +1,7 @@
 import { Modal } from "./Modal.js";
 
 export class FAQModal extends Modal {
-    constructor() {
+    constructor(data) {
         super("faq-modal");
         this.card = ko.observable(null);
         this.protocol = ko.observable(null);
@@ -16,6 +16,11 @@ export class FAQModal extends Modal {
             return `FAQ - ${protocol.name} ${card.value}`;
         }, this);
 
+        this.rules = ko.pureComputed(function(){
+            const rules = ko.unwrap(data).rules;
+
+            return rules;
+        }, this);
         this.faq = ko.pureComputed(function () {
             const card = this.card();
 
@@ -23,7 +28,13 @@ export class FAQModal extends Modal {
                 return [];
             }
 
-            return card.faq;
+            if(!card.faq) {
+                return [];
+            }
+
+            const rules = ko.unwrap(this.rules);
+
+            return card.faq.map(item => rules[item]);
         }, this);
     }
 

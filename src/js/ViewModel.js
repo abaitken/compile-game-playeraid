@@ -21,7 +21,7 @@ export class ViewModel {
             return data.protocols.map(item => new ProtocolModel(item, data.sets, this.selectionHandler));
         }, this);
 
-        this.faqModal = new FAQModal();
+        this.faqModal = new FAQModal(this.data);
     }
 
     showFAQ(args) {
