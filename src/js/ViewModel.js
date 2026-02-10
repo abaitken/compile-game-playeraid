@@ -45,18 +45,18 @@ export class ViewModel {
             return;
         }
 
-        const shuffled = [...this.protocols()].sort(() => Math.random() - 0.5);
+        const shuffled = this.protocols()
+            .filter(item => !this.selectionHandler.includes(item))
+            .sort(() => Math.random() - 0.5);
         let index = 0;
 
         while (this.selectionHandler.included().length <= 6 && index < shuffled.length) {
             const item = shuffled[index];
 
-            if (!this.selectionHandler.includes(item)) {
-                if (this.selectionHandler.mySelection().length < 3) {
-                    this.selectionHandler.selectForMe(item);
-                } else if (this.selectionHandler.opSelection().length < 3) {
-                    this.selectionHandler.selectForOpponent(item);
-                }
+            if (this.selectionHandler.mySelection().length < 3) {
+                this.selectionHandler.selectForMe(item);
+            } else if (this.selectionHandler.opSelection().length < 3) {
+                this.selectionHandler.selectForOpponent(item);
             }
 
             index++;
