@@ -47,6 +47,11 @@ export class ProtocolModel {
     }
 
     showFAQ(card) {
-        console.log(card.faq);
+        commandRouter.showFAQ({
+            card: card,
+            protocol: {
+                name : this.name
+            }
+        });
     }
 };

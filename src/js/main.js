@@ -37,6 +37,8 @@ ko.bindingHandlers.applyClasses = {
 
 
 var root = new ViewModel();
+window.root = root;
+window.commandRouter = root;
 document.addEventListener("DOMContentLoaded", function(event) {
     root.init();
 });

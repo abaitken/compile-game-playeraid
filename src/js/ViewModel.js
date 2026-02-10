@@ -1,3 +1,4 @@
+import { FAQModal } from "./FAQModal.js";
 import { ProtocolModel } from "./ProtocolModel.js";
 import { SelectionHandler } from "./SelectionHandler.js";
 import { StorageManager } from "./StorageManager.js";
@@ -7,7 +8,7 @@ export class ViewModel {
         this.store = new StorageManager();
         this.data = ko.observable(null);
         this.selectionHandler = new SelectionHandler();
-        this.selectionHandler.selection.subscribe(function() {
+        this.selectionHandler.selection.subscribe(function () {
             this.store.storeSelections(this.selectionHandler.serialize());
         }, this);
         this.protocols = ko.computed(function () {
@@ -19,6 +20,12 @@ export class ViewModel {
 
             return data.protocols.map(item => new ProtocolModel(item, data.sets, this.selectionHandler));
         }, this);
+
+        this.faqModal = new FAQModal();
+    }
+
+    showFAQ(args) {
+        this.faqModal.open(args);
     }
 
     clearAllSelections() {
@@ -59,7 +66,7 @@ export class ViewModel {
     restoreData() {
         const data = this.store.fetchSelections();
 
-        if(!data) {
+        if (!data) {
             return;
         }
 
@@ -67,18 +74,18 @@ export class ViewModel {
         const protocols = this.protocols();
         for (let index = 0; index < protocols.length; index++) {
             const protocol = protocols[index];
-            
-            if(data.my.includes(protocol.key)) {
+
+            if (data.my.includes(protocol.key)) {
                 protocol.selectForMe();
                 continue;
             }
-            
-            if(data.op.includes(protocol.key)) {
+
+            if (data.op.includes(protocol.key)) {
                 protocol.selectForOpponent();
                 continue;
             }
-            
-            if(data.ex.includes(protocol.key)) {
+
+            if (data.ex.includes(protocol.key)) {
                 protocol.selectExclude();
                 continue;
             }
