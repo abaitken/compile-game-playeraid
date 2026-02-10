@@ -7,110 +7,16 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>Compile Player Aid</title>
   <link rel="stylesheet" href="style/shared.css" media="screen,print">
-  <link rel="stylesheet" href="style/modal.css" media="screen">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
-    media="screen,print">
 </head>
 
 <body>
   <h1>Compile Player Aid</h1>
 
-  <div class="toolbar">
-    <button class="icon-button" data-bind="click: hideAllCards, tooltip: 'Hide all cards'">
-      <i class="mdi mdi-eye-off-outline"></i>
-    </button>
-    <button class="icon-button" data-bind="click: clearAllSelections, tooltip: 'Clear all selections'">
-      <i class="mdi mdi-close-circle-outline"></i>
-    </button>
-    <button class="icon-button" data-bind="click: pickRandomly, tooltip: 'Pick randomly'">
-      <i class="mdi mdi-dice-multiple"></i>
-    </button>
-  </div>
-  <div class="protocols">
-    <!-- ko foreach: protocols -->
-
-    <div class="protocol-card" data-bind="applyClasses: selectionClass">
-      <div class="protocol-set" data-bind="text: set.key, tooltip: set.name"></div>
-      <div class="protocol-controls">
-        <button class="icon-button" data-bind="click: displayCards, tooltip: 'Show cards'">
-          <i class="mdi mdi-cards-outline"></i>
-        </button>
-        <button class="icon-button" data-bind="click: selectForMe, tooltip: 'Pick for me'">
-          <i class="mdi mdi-checkbox-marked-outline"></i>
-          <!--<i class="mdi mdi-numeric-1-circle-outline"></i>-->
-        </button>
-        <button class="icon-button" data-bind="click: selectForOpponent, tooltip: 'Pick for opponent'">
-          <i class="mdi mdi-close-box-outline"></i>
-          <!-- <i class="mdi mdi-numeric-2-circle-outline"></i> -->
-        </button>
-        <button class="icon-button" data-bind="click: selectExclude, tooltip: 'Exclude'">
-          <i class="mdi mdi-minus-box-outline"></i>
-        </button>
-      </div>
-      <div class="protocol-name" data-bind="text: name"></div>
-      <div class="protocol-keywords" data-bind="text: keywords"></div>
-    </div>
-
-    <div class="protocol-cards" data-bind="if: showCards">
-      <!-- ko foreach: cards -->
-      <div class="card">
-        <div class="card-header">
-          <div class="card-protocol" data-bind="text: $parent.name"></div>
-          <div class="card-value" data-bind="text:value"></div>
-          <!-- ko if: !!($data.faq) -->
-          <button class="icon-button" data-bind="click: () => $parent.showFAQ($data), tooltip: 'FAQ'">
-            <i class="mdi mdi-alert-outline"></i>
-          </button>
-          <!-- /ko -->
-        </div>
-        <div class="card-body">
-          <div class="card-text" data-bind="markdown: text.top"></div>
-          <div class="card-text" data-bind="markdown: text.middle"></div>
-          <div class="card-text" data-bind="markdown: text.bottom"></div>
-        </div>
-      </div>
-      <!-- /ko -->
-    </div>
-
-    <!-- /ko -->
-  </div>
-
-  <div id="tooltip"></div>
-
-
-  <div id="faq-modal" class="modal" data-bind="with: faqModal">
-    <div class="modal-content">
-      <div class="modal-header">
-        <span class="modal-close" data-bind="click: close">&times;</span>
-        <h2 data-bind="text: title"></h2>
-      </div>
-      <div class="modal-body">
-        <div class="protocol-cards">
-          <div class="card" data-bind="with: card">
-            <div class="card-header">
-              <div class="card-protocol" data-bind="text: $parent.protocol()?.name"></div>
-              <div class="card-value" data-bind="text:value"></div>
-            </div>
-            <div class="card-body">
-              <div class="card-text" data-bind="markdown: text.top"></div>
-              <div class="card-text" data-bind="markdown: text.middle"></div>
-              <div class="card-text" data-bind="markdown: text.bottom"></div>
-            </div>
-          </div>
-        </div>
-        <div class="faq-lines">
-          <!-- ko foreach: faq -->
-          <div class="faq" data-bind="markdown: $data"></div>
-          <!-- /ko -->
-        </div>
-      </div>
-      <div class="modal-footer">
-      </div>
-    </div>
-  </div>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js" type="text/javascript"></script>
-  <script src="js/main.js" type="module"></script>
+  <ul>
+    <li><a href="faq.html">FAQ</a></li>
+    <li><a href="card-list.html">Card list</a></li>
+    <li><a href="random-protocol.html">Protocol Picker</a></li>
+  </ul>
 </body>
 
 

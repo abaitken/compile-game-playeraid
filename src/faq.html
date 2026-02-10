@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Compile Player Aid</title>
+  <link rel="stylesheet" href="style/shared.css" media="screen,print">
+  <link rel="stylesheet" href="style/modal.css" media="screen">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
+    media="screen,print">
+</head>
+
+<body>
+  <h1>Compile Player Aid - FAQ</h1>
+
+
+  <!-- ko foreach: cards -->
+  <div class="card-faq">
+    <h2 data-bind="text: protocol.name + ' ' + card.value"></h2>
+
+    <div class="faq-lines">
+      <!-- ko if: card.text.top -->
+      <div class="card-text">top: <span data-bind="markdown: card.text.top"></span></div>
+      <!-- /ko -->
+      <!-- ko if: card.text.middle -->
+      <div class="card-text">middle: <span data-bind="markdown: card.text.middle"></span></div>
+      <!-- /ko -->
+      <!-- ko if: card.text.bottom -->
+      <div class="card-text">bottom: <span data-bind="markdown: card.text.bottom"></span></div>
+      <!-- /ko -->
+      <!-- ko foreach: faq -->
+      <div class="faq" data-bind="markdown: $data"></div>
+      <!-- /ko -->
+    </div>
+  </div>
+  <!-- /ko -->
+
+  <div id="tooltip"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js" type="text/javascript"></script>
+  <script src="js/faq-main.js" type="module"></script>
+</body>
+
+
+</html>

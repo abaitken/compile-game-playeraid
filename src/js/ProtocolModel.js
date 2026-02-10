@@ -7,8 +7,6 @@ export class ProtocolModel {
         this.keywords = protocol.keywords.join(', ');
         this.cards = protocol.cards;
 
-        this.showCards = ko.observable(false);
-
         this.selection = selection;
 
         this.selectionClass = ko.pureComputed(function() {
@@ -24,10 +22,6 @@ export class ProtocolModel {
 
             return null;            
         }, this);
-    }
-
-    displayCards() {
-        this.showCards(!this.showCards());
     }
 
     hideCards() {

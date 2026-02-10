@@ -36,7 +36,7 @@ body {
     gap: 2px;
 }
 
-.card-text {
+.card-body .card-text {
     height: 75px;
     border: 1px solid black;
     align-items: center;

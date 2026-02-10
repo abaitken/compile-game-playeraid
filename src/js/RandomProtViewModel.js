@@ -3,7 +3,7 @@ import { ProtocolModel } from "./ProtocolModel.js";
 import { SelectionHandler } from "./SelectionHandler.js";
 import { StorageManager } from "./StorageManager.js";
 
-export class ViewModel {
+export class RandomProtViewModel {
     constructor() {
         this.store = new StorageManager();
         this.data = ko.observable(null);

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Compile Player Aid</title>
+  <link rel="stylesheet" href="style/shared.css" media="screen,print">
+  <link rel="stylesheet" href="style/modal.css" media="screen">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
+    media="screen,print">
+</head>
+
+<body>
+  <h1>Compile Player Aid - Card List</h1>
+
+  <!-- ko foreach: protocols -->
+  <div class="protocol-cards">
+    <!-- ko foreach: cards -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-protocol" data-bind="text: $parent.name"></div>
+        <div class="card-value" data-bind="text:value"></div>
+        <!-- ko if: !!($data.faq) -->
+        <button class="icon-button" data-bind="click: () => $parent.showFAQ($data), tooltip: 'FAQ'">
+          <i class="mdi mdi-alert-outline"></i>
+        </button>
+        <!-- /ko -->
+      </div>
+      <div class="card-body">
+        <div class="card-text" data-bind="markdown: text.top"></div>
+        <div class="card-text" data-bind="markdown: text.middle"></div>
+        <div class="card-text" data-bind="markdown: text.bottom"></div>
+      </div>
+    </div>
+    <!-- /ko -->
+  </div>
+  <!-- /ko -->
+
+
+  <div id="faq-modal" class="modal" data-bind="with: faqModal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <span class="modal-close" data-bind="click: close">&times;</span>
+        <h2 data-bind="text: title"></h2>
+      </div>
+      <div class="modal-body">
+        <div class="protocol-cards">
+          <div class="card" data-bind="with: card">
+            <div class="card-header">
+              <div class="card-protocol" data-bind="text: $parent.protocol()?.name"></div>
+              <div class="card-value" data-bind="text:value"></div>
+            </div>
+            <div class="card-body">
+              <div class="card-text" data-bind="markdown: text.top"></div>
+              <div class="card-text" data-bind="markdown: text.middle"></div>
+              <div class="card-text" data-bind="markdown: text.bottom"></div>
+            </div>
+          </div>
+        </div>
+        <div class="faq-lines">
+          <!-- ko foreach: faq -->
+          <div class="faq" data-bind="markdown: $data"></div>
+          <!-- /ko -->
+        </div>
+      </div>
+      <div class="modal-footer">
+      </div>
+    </div>
+  </div>
+
+  <div id="tooltip"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js" type="text/javascript"></script>
+  <script src="js/card-list-main.js" type="module"></script>
+</body>
+
+
+</html>

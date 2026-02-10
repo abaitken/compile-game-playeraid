@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Compile Player Aid</title>
+  <link rel="stylesheet" href="style/shared.css" media="screen,print">
+  <link rel="stylesheet" href="style/modal.css" media="screen">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
+    media="screen,print">
+</head>
+
+<body>
+  <h1>Compile Player Aid - Random Protocol</h1>
+
+    <button class="icon-button" data-bind="click: clearAllSelections, tooltip: 'Clear all selections'">
+      <i class="mdi mdi-close-circle-outline"></i>
+    </button>
+    <button class="icon-button" data-bind="click: pickRandomly, tooltip: 'Pick randomly'">
+      <i class="mdi mdi-dice-multiple"></i>
+    </button>
+  </div>
+  <div class="protocols">
+    <!-- ko foreach: protocols -->
+
+    <div class="protocol-card" data-bind="applyClasses: selectionClass">
+      <div class="protocol-set" data-bind="text: set.key, tooltip: set.name"></div>
+      <div class="protocol-controls">
+        <button class="icon-button" data-bind="click: selectForMe, tooltip: 'Pick for me'">
+          <i class="mdi mdi-checkbox-marked-outline"></i>
+          <!--<i class="mdi mdi-numeric-1-circle-outline"></i>-->
+        </button>
+        <button class="icon-button" data-bind="click: selectForOpponent, tooltip: 'Pick for opponent'">
+          <i class="mdi mdi-close-box-outline"></i>
+          <!-- <i class="mdi mdi-numeric-2-circle-outline"></i> -->
+        </button>
+        <button class="icon-button" data-bind="click: selectExclude, tooltip: 'Exclude'">
+          <i class="mdi mdi-minus-box-outline"></i>
+        </button>
+      </div>
+      <div class="protocol-name" data-bind="text: name"></div>
+      <div class="protocol-keywords" data-bind="text: keywords"></div>
+    </div>
+    <!-- /ko -->
+  </div>
+
+  <div id="tooltip"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js" type="text/javascript"></script>
+  <script src="js/random-protocol-main.js" type="module"></script>
+</body>
+
+
+</html>
