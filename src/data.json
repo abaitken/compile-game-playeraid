@@ -938,6 +938,9 @@
                     "keywords": [
                         "play",
                         "facedown"
+                    ],
+                    "faq": [
+                        "gravity_0"
                     ]
                 },
                 {
@@ -2612,6 +2615,7 @@
         "clari_spirit_0": "**CLARIFICATION:** When you refresh as instructed, it is a normal refresh action, including spending the control component, if applicable.",
         "clari_water_1_0": "**CLARIFICATION:** When Water 1's middle command triggers, the owner notes the lines that need to be acted in. Then, they choose which line to process, one at a time. For each line, they play the top card of their deck face-down, processing the consequences of that card play before addressing the next line.",
         "clari_water_1_1": "**CLARIFICATION:** Playing cards from the top of a deck does not force a shuffle if that deck is empty.",
-        "you_discard": "When played or uncovered, the owner of the stack this card is in must discard a card if possible."
+        "you_discard": "When played or uncovered, the owner of the stack this card is in must discard a card if possible.",
+        "gravity_0": "First, determine how many cards will be played, then play each card face down under Gravity 0. These cards get added to the stack and count towards the total. Once played you may look at the cards as normal."
     }
 }
