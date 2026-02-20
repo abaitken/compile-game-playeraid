@@ -1,19 +1,19 @@
 {
     "sets": [
         {
-            "key": "CM1",
+            "key": "MN01",
             "name": "Compile Main 1"
         },
         {
-            "key": "CA1",
+            "key": "AX01",
             "name": "Compile AUX 01"
         },
         {
-            "key": "CM2",
+            "key": "MN02",
             "name": "Compile Main 2"
         },
         {
-            "key": "CA2",
+            "key": "AX02",
             "name": "Compile AUX 02"
         }
     ],
@@ -21,7 +21,7 @@
         {
             "key": "apathy",
             "name": "Apathy",
-            "set": "CA1",
+            "set": "AX01",
             "cards": [
                 {
                     "value": 0,
@@ -100,7 +100,7 @@
         {
             "key": "assimilation",
             "name": "Assimilation",
-            "set": "CA2",
+            "set": "AX02",
             "cards": [
                 {
                     "value": 0,
@@ -178,7 +178,7 @@
         {
             "key": "chaos",
             "name": "Chaos",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 0,
@@ -267,7 +267,7 @@
         {
             "key": "clarity",
             "name": "Clarity",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 0,
@@ -348,7 +348,7 @@
         {
             "key": "corruption",
             "name": "Corruption",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 0,
@@ -434,7 +434,7 @@
         {
             "key": "courage",
             "name": "Courage",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 0,
@@ -516,7 +516,7 @@
         {
             "key": "darkness",
             "name": "Darkness",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -602,7 +602,7 @@
         {
             "key": "death",
             "name": "Death",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -687,7 +687,7 @@
         {
             "key": "diversity",
             "name": "Diversity",
-            "set": "CA2",
+            "set": "AX02",
             "cards": [
                 {
                     "value": 0,
@@ -762,7 +762,7 @@
         {
             "key": "fear",
             "name": "Fear",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 0,
@@ -842,7 +842,7 @@
         {
             "key": "fire",
             "name": "Fire",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -926,7 +926,7 @@
         {
             "key": "gravity",
             "name": "Gravity",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -1018,7 +1018,7 @@
         {
             "key": "hate",
             "name": "Hate",
-            "set": "CA1",
+            "set": "AX01",
             "cards": [
                 {
                     "value": 0,
@@ -1102,7 +1102,7 @@
         {
             "key": "ice",
             "name": "Ice",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 1,
@@ -1185,7 +1185,7 @@
         {
             "key": "life",
             "name": "Life",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -1275,7 +1275,7 @@
         {
             "key": "light",
             "name": "Light",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -1369,7 +1369,7 @@
         {
             "key": "love",
             "name": "Love",
-            "set": "CA1",
+            "set": "AX01",
             "cards": [
                 {
                     "value": 1,
@@ -1454,7 +1454,7 @@
         {
             "key": "luck",
             "name": "Luck",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 0,
@@ -1547,7 +1547,7 @@
         {
             "key": "metal",
             "name": "Metal",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -1637,7 +1637,7 @@
         {
             "key": "mirror",
             "name": "Mirror",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 0,
@@ -1722,7 +1722,7 @@
         {
             "key": "peace",
             "name": "Peace",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 1,
@@ -1809,7 +1809,7 @@
         {
             "key": "plague",
             "name": "Plague",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -1896,7 +1896,7 @@
         {
             "key": "psychic",
             "name": "Psychic",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -1983,7 +1983,7 @@
         {
             "key": "smoke",
             "name": "Smoke",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 0,
@@ -2073,7 +2073,7 @@
         {
             "key": "speed",
             "name": "Speed",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -2159,7 +2159,7 @@
         {
             "key": "spirit",
             "name": "Spirit",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
@@ -2246,7 +2246,7 @@
         {
             "key": "time",
             "name": "Time",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 0,
@@ -2330,7 +2330,7 @@
         {
             "key": "unity",
             "name": "Unity",
-            "set": "CA2",
+            "set": "AX02",
             "cards": [
                 {
                     "value": 0,
@@ -2410,7 +2410,7 @@
         {
             "key": "war",
             "name": "War",
-            "set": "CM2",
+            "set": "MN02",
             "cards": [
                 {
                     "value": 0,
@@ -2498,7 +2498,7 @@
         {
             "key": "water",
             "name": "Water",
-            "set": "CM1",
+            "set": "MN01",
             "cards": [
                 {
                     "value": 0,
