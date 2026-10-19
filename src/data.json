@@ -15,6 +15,14 @@
         {
             "key": "AX02",
             "name": "Compile AUX 02"
+        },
+        {
+            "key": "MN03",
+            "name": "Compile Main 3"
+        },
+        {
+            "key": "AX03",
+            "name": "Compile AUX 03"
         }
     ],
     "protocols": [
@@ -2580,6 +2588,1220 @@
                 "return",
                 "draw",
                 "flip"
+            ]
+        },
+        {
+            "key": "greed",
+            "name": "Greed",
+            "tagline": "I deserve that",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard your hand. Delete 1 card.",
+                        "bottom": "**After you delete cards:** Draw 1 card."
+                    },
+                    "keywords": [
+                        "discard",
+                        "delete",
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "",
+                        "bottom": "**End:** Compile a line where you have at least 10 value and a higher total value than your opponent."
+                    },
+                    "keywords": [
+                        "compile"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "Your opponent discards 1 card.",
+                        "bottom": "**Start:** You may return 1 of your cards."
+                    },
+                    "keywords": [
+                        "discard",
+                        "return"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Shift 1 of your covered cards in this stack.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "shift"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "You may discard your hand. If you did, flip 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard",
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                }
+            ],
+            "keywords": [
+                "discard",
+                "repeating effects"
+            ]
+        },
+        {
+            "key": "lust",
+            "name": "Lust",
+            "tagline": "Come here",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "Each player's total value in this line is increased by 10.",
+                        "middle": "Gain control.",
+                        "bottom": "Your opponent can't compile if you have control."
+                    },
+                    "keywords": [
+                        "control"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "You may shift 1 of your opponent's covered cards to this line.",
+                        "bottom": "Your cards may be played in this stack without matching protocols."
+                    },
+                    "keywords": [
+                        "shift"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Your opponent revels 1 random card from this hand. Play that card face-down on thier side.",
+                        "bottom": "**End:** You may lose control. If you did, flip 1 card."
+                    },
+                    "keywords": [
+                        "play",
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "Reveal your hand. Your opponent loses control.",
+                        "bottom": "**After your opponent gains control:** Draw 1 card."
+                    },
+                    "keywords": [
+                        "control",
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                },
+                {
+                    "value": 6,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card. Your opponent plays 1 card face-down in this line.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard",
+                        "play"
+                    ]
+                }
+            ],
+            "keywords": [
+                "forced play",
+                "control"
+            ]
+        },
+        {
+            "key": "sloth",
+            "name": "Sloth",
+            "tagline": "Maybe later",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "Your total value in this line is increased by 5 if this card is covered by a Sloth card.",
+                        "middle": "Draw cards equal to the number of lines where you have a lower total value than your opponent.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "Return 1 other card. If the returned card is one of your cards, refresh.",
+                        "bottom": "**After you refresh:** Play the top card of your deck face-down in this stack."
+                    },
+                    "keywords": [
+                        "return",
+                        "play"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip 1 of your covered cards.",
+                        "bottom": "**Start:** You may put 1 card from your hand on the bottom of your deck."
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Your opponent dicards 2 cards.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "",
+                        "bottom": "**When this card would be covered:** First, flip 1 face-up card."
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                }
+            ],
+            "keywords": [
+                "discard",
+                "flip"
+            ]
+        },
+        {
+            "key": "gluttony",
+            "name": "Gluttony",
+            "tagline": "More!",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "**After you clear cache:** Play the top card of your deck face-down.",
+                        "middle": "Return 1 other card. Draw 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "return",
+                        "draw",
+                        "play"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "Draw 2 cards.",
+                        "bottom": "**After a player clears cache:** Delete 1 card."
+                    },
+                    "keywords": [
+                        "draw",
+                        "delete"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "Draw cards equal to the number of cards in your hand.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "**End:** If this card is covered by a face-up card, delete that card.",
+                        "middle": "Draw 2 cards.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw",
+                        "delete"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "",
+                        "bottom": "**After you refresh:** Draw 1 card."
+                    },
+                    "keywords": [
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                }
+            ],
+            "keywords": [
+                "draw",
+                "clear cache",
+                "delete"
+            ]
+        },
+        {
+            "key": "fulcrum",
+            "name": "Fulcrum",
+            "tagline": "Balanced on a point",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "**Start:** IF you have exactly 0 cards in hand, your opponent discards 2 cards.",
+                        "middle": "If you have exactly 0 cards in hand, your opponent discards 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip each other face-up card. Swap your left stack with your right stack.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip",
+                        "swap"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "If you have exactly 2 cards in hand, delete 1 of your opponent's cards.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "delete"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Draw 1 card. Swap the positions of your left and right protocols.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw",
+                        "swap"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "If you have exactly 4 cards in hand, draw 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                }
+            ],
+            "keywords": [
+                "draw",
+                "swap",
+                "cards in hand"
+            ]
+        },
+        {
+            "key": "pride",
+            "name": "Pride",
+            "tagline": "Only the best",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "**After you compile:** Refresh",
+                        "middle": "If you have control, shift 1 other card. Else, shift 1 of your cards",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "shift",
+                        "refresh"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "Draw cards equal to the number of lines where you have a total value that your opponent.",
+                        "bottom": "**Start:** If you have a higher total value than your opponent in this line, draw 1 card"
+                    },
+                    "keywords": [
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip 1 of your face-down cards.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "If you have control, you may shift 1 of your opponent's cards to this line.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "shift",
+                        "control"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                },
+                {
+                    "value": 6,
+                    "text": {
+                        "top": "**After your opponent gains control:** Flip this card",
+                        "middle": "If your opponent has control, flip this card",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                }
+            ],
+            "keywords": [
+                "stay ahead",
+                "shift",
+                "draw"
+            ]
+        },
+        {
+            "key": "nova",
+            "name": "Nova",
+            "tagline": "Devastating critical mass",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "**Start:** Delete all face-up cards in a line where you have exactly 5 cards.",
+                        "middle": "The player with control swaps the positions of 2 of your protocols.",
+                        "bottom": "**End:** Play the top card of your deck face-down under an uncovered Nova card."
+                    },
+                    "keywords": [
+                        "delete",
+                        "swap",
+                        "play"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "Your opponent discards cards equal to the number of cards in this stack.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "If this card is covering a Nova card, you may rearrange your protocols. Else, game control.",
+                        "bottom": "**After you rearrange protocols:** You may shift 1 face-down card."
+                    },
+                    "keywords": [
+                        "rearrange",
+                        "shift"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Shift 1 card with a value less than the number of cards in this stack.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "shift"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip 1 card with a value less than the number of cards in this stack.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                }
+            ],
+            "keywords": [
+                "stack size",
+                "shift",
+                "rearrange"
+            ]
+        },
+        {
+            "key": "inert",
+            "name": "Inert",
+            "tagline": "Is this thing on?",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "All other cards in this line have no top commands.",
+                        "middle": "Flip 1 covered or uncovered face-up card in a different line.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "Your opponent discards 2 cards.",
+                        "bottom": "All other cards in this line have no bottom command."
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip all face-up cards in a line that have the highest value in that line.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Play 1 card face-down in each other line. Your opponent plays 1 card face-down in this line.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "play"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard your deck. Your opponent discards thier deck.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                }
+            ],
+            "keywords": [
+                "negate face-up",
+                "symmetrical"
+            ]
+        },
+        {
+            "key": "momentum",
+            "name": "Momentum",
+            "tagline": "P = mass * velocity",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "",
+                        "middle": "Play the top card of your deck face-down in each line with a compiled protocol.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "play"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "**After a player compiles:** Play the top card of your deck face-down in this stack.",
+                        "middle": "",
+                        "bottom": "**After a player rearranges protocols:** Discard 1 card. Draw 1 card."
+                    },
+                    "keywords": [
+                        "discard",
+                        "draw",
+                        "play"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Draw 2 cards.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "Rearrange your protocols.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "rearrange"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                },
+                {
+                    "value": 6,
+                    "text": {
+                        "top": "**After a player compiles:** Delete this card.",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard",
+                        "delete"
+                    ]
+                }
+            ],
+            "keywords": [
+                "after compile",
+                "draw"
+            ]
+        },
+        {
+            "key": "wrath",
+            "name": "Wrath",
+            "tagline": "Vengeful anger",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "All cards with the highest value in this line do not add to a player's total value in this line.",
+                        "middle": "Play the top card of your deck face-down in this stack.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "play"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "Draw 1 card.",
+                        "bottom": "**End:** Lose control. If you did, delete 1 face-up card."
+                    },
+                    "keywords": [
+                        "draw",
+                        "control",
+                        "delete"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip all face-up cards in a line with the most cards.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip 1 face-up card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "Lose control. If you did, your opponent discards 2 cards.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard",
+                        "control"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                }
+            ],
+            "keywords": [
+                "delete",
+                "face-down"
+            ]
+        },
+        {
+            "key": "overwhelm",
+            "name": "Overwhelm",
+            "tagline": "Everything everywhere all at once",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "Play the top card of your deck face-down in each line where you have a higher total value then your opponent.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "play"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "**End:** Play the top card of your deck face-down in each line. Flip this card.",
+                        "middle": "Your opponent plays the top card of thier deck face-down in each line.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "play"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "",
+                        "bottom": "**End:** If you have 5 or more cards in your hand, play the top card of your deck face-down in this stack."
+                    },
+                    "keywords": [
+                        "play"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "If you have more cards in play than your opponent, delete your opponent's lowest value covered card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "delete"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                },
+                {
+                    "value": 6,
+                    "text": {
+                        "top": "**Start:** If your opponent has a higher total value in this line than you do, flip this card.",
+                        "middle": "",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                }
+            ],
+            "keywords": [
+                "play face-down",
+                "win more"
+            ]
+        },
+        {
+            "key": "rigid",
+            "name": "Rigid",
+            "tagline": "Stiff and uncompromising",
+            "set": "AX03",
+            "cards": [
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip 1 of your opponent's face-up cards.",
+                        "bottom": "**End:** Play 1 card face-down in each other line where your opponent's uncovered card is face-down."
+                    },
+                    "keywords": [
+                        "flip",
+                        "play"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "",
+                        "bottom": "**After you use your action to play a card face-down:** Play the top card of your deck face-down in the same stack."
+                    },
+                    "keywords": [
+                        "play"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Play 1 card face-down directly under this card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "play"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "",
+                        "bottom": "**When this card would be covered by a face-down card:** First, draw 1 card."
+                    },
+                    "keywords": [
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                },
+                {
+                    "value": 7,
+                    "text": {
+                        "top": "**End:** Your opponent chooses to draw 1 card or play 1 card.",
+                        "middle": "Discard 1 card.",
+                        "bottom": "This card cannot be flipped or shifted."
+                    },
+                    "keywords": [
+                        "discard",
+                        "play"
+                    ]
+                }
+            ],
+            "keywords": [
+                "play face-down",
+                "prevent"
+            ]
+        },
+        {
+            "key": "envy",
+            "name": "Envy",
+            "tagline": "I want what you have",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "You total value in this line is increased by the value of your opponent's highest value card in this line.",
+                        "middle": "",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "opponent"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "If your opponent has control, you may flip 1 card.",
+                        "bottom": "**Start:** If your opponent has control, gain control."
+                    },
+                    "keywords": [
+                        "control",
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "Draw cards equal to the number of cards in your opponent's hand.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "",
+                        "bottom": "**After your opponent plays a card in this line:** Play the top card of your deck face-down in this line."
+                    },
+                    "keywords": [
+                        "play"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "If your opponent has more compiled protocols than you do, flip 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                }
+            ],
+            "keywords": [
+                "catch up",
+                "flip"
+            ]
+        },
+        {
+            "key": "flexible",
+            "name": "Flexible",
+            "tagline": "Always fitting",
+            "set": "AX03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "",
+                        "middle": "Return or shift 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "return",
+                        "shift"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip or shift 1 of your cards",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip",
+                        "shift"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "**End:** If this is covered by a face-down card, you may shift that card.",
+                        "middle": "Draw 1 card",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Shift 1 of your opponent's cards or swap 2 of your protocols.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "shift",
+                        "swap"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "",
+                        "bottom": "**End:** You may draw 2 cards. If you do, flip this card."
+                    },
+                    "keywords": [
+                        "draw"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                }
+            ],
+            "keywords": [
+                "choice",
+                "shift",
+                "draw"
+            ]
+        },
+        {
+            "key": "ambush",
+            "name": "Ambush",
+            "tagline": "From the shadows",
+            "set": "MN03",
+            "cards": [
+                {
+                    "value": 0,
+                    "text": {
+                        "top": "",
+                        "middle": "Draw 3 cards. Flip 1 of your face-down cards.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw",
+                        "flip",
+                        "face-down"
+                    ]
+                },
+                {
+                    "value": 1,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip all of your other cards with a value of 0 and 1. Draw 1 card for each card flipped.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw",
+                        "flip"
+                    ]
+                },
+                {
+                    "value": 2,
+                    "text": {
+                        "top": "",
+                        "middle": "Shift your lowest value covered card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "shift"
+                    ]
+                },
+                {
+                    "value": 3,
+                    "text": {
+                        "top": "",
+                        "middle": "Flip your opponent's highest value face-up covered card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "flip",
+                        "opponent",
+                        "face-up"
+                    ]
+                },
+                {
+                    "value": 4,
+                    "text": {
+                        "top": "",
+                        "middle": "Draw 1 card if you have an uncovered face-down card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "draw",
+                        "uncovered",
+                        "face-down"
+                    ]
+                },
+                {
+                    "value": 5,
+                    "text": {
+                        "top": "",
+                        "middle": "Discard 1 card.",
+                        "bottom": ""
+                    },
+                    "keywords": [
+                        "discard"
+                    ]
+                }
+            ],
+            "keywords": [
+                "flip",
+                "draw",
+                "face-down"
             ]
         }
     ],
