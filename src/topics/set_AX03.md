@@ -2,6 +2,6 @@
 
 ## Protocols
 
-- [Inert](protocol_inert.md.md)
-- [Rigid](protocol_rigid.md.md)
-- [Flexible](protocol_flexible.md.md)
+- [Inert](protocol_inert.md)
+- [Rigid](protocol_rigid.md)
+- [Flexible](protocol_flexible.md)
