@@ -1,4 +1,3 @@
-import { FAQModal } from "./FAQModal.js";
 import { ProtocolModel } from "./ProtocolModel.js";
 import { SelectionHandler } from "./SelectionHandler.js";
 import { StorageManager } from "./StorageManager.js";
@@ -20,12 +19,6 @@ export class RandomProtViewModel {
 
             return data.protocols.map(item => new ProtocolModel(item, data.sets, this.selectionHandler));
         }, this);
-
-        this.faqModal = new FAQModal(this.data);
-    }
-
-    showFAQ(args) {
-        this.faqModal.open(args);
     }
 
     clearAllSelections() {

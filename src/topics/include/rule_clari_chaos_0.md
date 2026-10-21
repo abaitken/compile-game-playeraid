@@ -1,0 +1,1 @@
+**CLARIFICATION:** When Chaos 0's middle command triggers, the owner notes each line that needs to be acted in. Then, they choose which line to process, one at a time. For each line, they select a covered card to flip, processing the consequences of that flip before addressing the next line. Covered cards never activate their middle command when flipped.

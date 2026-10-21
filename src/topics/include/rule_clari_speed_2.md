@@ -1,0 +1,1 @@
+**CLARIFICATION:** When compiling, all cards in the line are deleted at the same time. When Speed 2 would be deleted this way, instead, you shift it to another line, preventing the delete of Speed 2 only, and not altering the compile.

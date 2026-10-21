@@ -1,6 +1,10 @@
 export class TooltipHandler {
     constructor(elementId) {
         this.element = document.getElementById(elementId);
+        
+        if(!this.element) {
+            return false;
+        }
         this.element.style.display = 'none';
     }
 

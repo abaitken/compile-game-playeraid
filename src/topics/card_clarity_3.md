@@ -1,0 +1,28 @@
+# Card: Clarity 3
+
+## Top
+
+```
+
+```
+
+## Middle
+
+```
+Reveal your deck. Draw 1 card with a value of 5 revealed this way. Shuffle your deck.
+```
+
+## Bottom
+
+```
+
+```
+
+## Reference
+
+- [Protocol: Clarity](protocol_clarity.md)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: reveal](keyword_reveal.md)
+- [Keyword: draw](keyword_draw.md)
+
+

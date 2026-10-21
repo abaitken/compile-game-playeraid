@@ -1,0 +1,1 @@
+First, determine how many cards will be played, then play each card face down under Gravity 0. These cards get added to the stack and count towards the total. Once played you may look at the cards as normal.

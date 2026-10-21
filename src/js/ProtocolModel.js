@@ -39,13 +39,4 @@ export class ProtocolModel {
     selectExclude() {
         this.selection.selectExclude(this);
     }
-
-    showFAQ(card) {
-        commandRouter.showFAQ({
-            card: card,
-            protocol: {
-                name : this.name
-            }
-        });
-    }
 };

@@ -1,0 +1,1 @@
+**CLARIFICATION:** Mirror 1's bottom text is blocked by Fear 0 because the text is treated "as if it were on this card" but there's no text to copy because Fear 0 says the "cards do not have middle commands"

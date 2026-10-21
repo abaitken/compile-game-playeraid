@@ -5,6 +5,9 @@ var root = new FAQViewModel();
 window.root = root;
 
 document.addEventListener("DOMContentLoaded", function(event) {
-    new BindingHandlers().apply();
     root.init();
 });
+
+window.onhashchange = function () {
+    root.navigationChanged(window.location.hash);
+};
