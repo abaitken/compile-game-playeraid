@@ -18,6 +18,10 @@ Discard 1 card.
 
 ```
 
+## Rules/FAQ
+
+{%include/rule_you_discard.md%}
+
 ## Reference
 
 - [Protocol: Overwhelm](protocol_overwhelm.md)

@@ -18,6 +18,10 @@ Discard 1 card.
 
 ```
 
+## Rules/FAQ
+
+{%include/rule_you_discard.md%}
+
 ## Reference
 
 - [Protocol: Lust](protocol_lust.md)
