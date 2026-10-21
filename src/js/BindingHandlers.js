@@ -13,12 +13,14 @@ export class BindingHandlers {
 
         const tooltip = new TooltipHandler("tooltip");
 
-        ko.bindingHandlers.tooltip = {
-            update: function (element, valueAccessor) {
-                const value = ko.unwrap(valueAccessor());
-                tooltip.subscribe(element, value);
-            }
-        };
+        if(tooltip) {
+            ko.bindingHandlers.tooltip = {
+                update: function (element, valueAccessor) {
+                    const value = ko.unwrap(valueAccessor());
+                    tooltip.subscribe(element, value);
+                }
+            };
+        }
 
         ko.bindingHandlers.applyClasses = {
             update: function (element, valueAccessor) {
