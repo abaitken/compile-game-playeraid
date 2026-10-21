@@ -1,0 +1,26 @@
+# Card: Spirit 1
+
+## Top
+
+```
+When you play cards face-up, they may be played without matching protocols.
+```
+
+## Middle
+
+```
+Draw 2 cards.
+```
+
+## Bottom
+
+```
+**Start:** Either discard 1 card or flip this card.
+```
+
+## Keywords
+
+discard,draw,flip,
+
+Protocol: [Spirit](protocol_spirit)
+Set: [Compile Main 1](set_MN01.md)

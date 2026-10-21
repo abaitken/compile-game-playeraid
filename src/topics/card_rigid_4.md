@@ -1,0 +1,26 @@
+# Card: Rigid 4
+
+## Top
+
+```
+
+```
+
+## Middle
+
+```
+
+```
+
+## Bottom
+
+```
+**When this card would be covered by a face-down card:** First, draw 1 card.
+```
+
+## Keywords
+
+draw,
+
+Protocol: [Rigid](protocol_rigid)
+Set: [Compile AUX 03](set_AX03.md)

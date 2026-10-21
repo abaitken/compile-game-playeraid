@@ -1,0 +1,1 @@
+**CLARIFICATION:** When Metal 6 deletes itself as a result of being flipped, the "flip" command is used up and cannot be used on another card, nor can it be used on Metal 6 in the trash, as cards in the trash can't be flipped.

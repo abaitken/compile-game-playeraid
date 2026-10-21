@@ -1,0 +1,1 @@
+**CLARIFICATION:** When Plague 3's middle command triggers, the owner notes each uncovered face-up card. Then, they choose which card to process, one at a time. For each card, they flip it and process any consequences before addressing the next card.
