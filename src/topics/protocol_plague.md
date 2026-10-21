@@ -17,5 +17,5 @@ forced discard,flip,
 ## Reference
 
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
-- [Keyword: forced discard](keyword_forced discard.md)
+- [Keyword: forced discard](keyword_forced_discard.md)
 - [Keyword: flip](keyword_flip.md)

@@ -17,5 +17,5 @@ forced play,control,
 ## Reference
 
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
-- [Keyword: forced play](keyword_forced play.md)
+- [Keyword: forced play](keyword_forced_play.md)
 - [Keyword: control](keyword_control.md)

@@ -19,4 +19,4 @@ draw,swap,cards in hand,
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: draw](keyword_draw.md)
 - [Keyword: swap](keyword_swap.md)
-- [Keyword: cards in hand](keyword_cards in hand.md)
+- [Keyword: cards in hand](keyword_cards_in_hand.md)

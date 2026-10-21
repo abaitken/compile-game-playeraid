@@ -17,4 +17,4 @@ delete thiers and yours,
 ## Reference
 
 - [Set: Compile AUX 01 (AX01)](set_AX01.md)
-- [Keyword: delete thiers and yours](keyword_delete thiers and yours.md)
+- [Keyword: delete thiers and yours](keyword_delete_thiers_and_yours.md)

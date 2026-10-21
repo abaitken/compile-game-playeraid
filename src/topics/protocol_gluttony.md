@@ -18,5 +18,5 @@ draw,clear cache,delete,
 
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: draw](keyword_draw.md)
-- [Keyword: clear cache](keyword_clear cache.md)
+- [Keyword: clear cache](keyword_clear_cache.md)
 - [Keyword: delete](keyword_delete.md)

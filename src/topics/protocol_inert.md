@@ -17,5 +17,5 @@ negate face-up,symmetrical,
 ## Reference
 
 - [Set: Compile AUX 03 (AX03)](set_AX03.md)
-- [Keyword: negate face-up](keyword_negate face-up.md)
+- [Keyword: negate face-up](keyword_negate_face-up.md)
 - [Keyword: symmetrical](keyword_symmetrical.md)

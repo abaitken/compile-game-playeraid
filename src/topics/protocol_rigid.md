@@ -17,5 +17,5 @@ play face-down,prevent,
 ## Reference
 
 - [Set: Compile AUX 03 (AX03)](set_AX03.md)
-- [Keyword: play face-down](keyword_play face-down.md)
+- [Keyword: play face-down](keyword_play_face-down.md)
 - [Keyword: prevent](keyword_prevent.md)

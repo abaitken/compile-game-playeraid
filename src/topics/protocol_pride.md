@@ -17,6 +17,6 @@ stay ahead,shift,draw,
 ## Reference
 
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
-- [Keyword: stay ahead](keyword_stay ahead.md)
+- [Keyword: stay ahead](keyword_stay_ahead.md)
 - [Keyword: shift](keyword_shift.md)
 - [Keyword: draw](keyword_draw.md)

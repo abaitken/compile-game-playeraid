@@ -18,4 +18,4 @@ discard,repeating effects,
 
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: discard](keyword_discard.md)
-- [Keyword: repeating effects](keyword_repeating effects.md)
+- [Keyword: repeating effects](keyword_repeating_effects.md)

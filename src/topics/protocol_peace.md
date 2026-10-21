@@ -17,5 +17,5 @@ mutual discard,draw,
 ## Reference
 
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
-- [Keyword: mutual discard](keyword_mutual discard.md)
+- [Keyword: mutual discard](keyword_mutual_discard.md)
 - [Keyword: draw](keyword_draw.md)

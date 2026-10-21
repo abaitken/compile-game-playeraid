@@ -17,4 +17,4 @@ flip face-down,
 ## Reference
 
 - [Set: Compile AUX 01 (AX01)](set_AX01.md)
-- [Keyword: flip face-down](keyword_flip face-down.md)
+- [Keyword: flip face-down](keyword_flip_face-down.md)

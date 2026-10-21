@@ -17,5 +17,5 @@ play face-down,win more,
 ## Reference
 
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
-- [Keyword: play face-down](keyword_play face-down.md)
-- [Keyword: win more](keyword_win more.md)
+- [Keyword: play face-down](keyword_play_face-down.md)
+- [Keyword: win more](keyword_win_more.md)

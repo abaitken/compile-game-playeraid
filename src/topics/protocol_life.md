@@ -18,5 +18,5 @@ flip,top deck play,draw,
 
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: flip](keyword_flip.md)
-- [Keyword: top deck play](keyword_top deck play.md)
+- [Keyword: top deck play](keyword_top_deck_play.md)
 - [Keyword: draw](keyword_draw.md)

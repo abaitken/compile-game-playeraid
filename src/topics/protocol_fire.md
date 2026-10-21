@@ -17,4 +17,4 @@ discard for effect,
 ## Reference
 
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
-- [Keyword: discard for effect](keyword_discard for effect.md)
+- [Keyword: discard for effect](keyword_discard_for_effect.md)

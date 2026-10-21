@@ -17,5 +17,5 @@ after compile,draw,
 ## Reference
 
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
-- [Keyword: after compile](keyword_after compile.md)
+- [Keyword: after compile](keyword_after_compile.md)
 - [Keyword: draw](keyword_draw.md)
