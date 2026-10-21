@@ -48,6 +48,9 @@ export class FAQViewModel {
     }
     
     navigationChanged(hash) {
+        if(!hash) {
+            hash = '#index';
+        }
         this.loadtopic(hash.replace("#", ""));
     }
 
