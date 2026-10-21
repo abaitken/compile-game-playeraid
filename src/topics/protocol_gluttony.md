@@ -2,7 +2,7 @@
 
 **More!**
 
-draw,clear cache,delete,
+draw,clear cache,delete
 
 ## Cards
 

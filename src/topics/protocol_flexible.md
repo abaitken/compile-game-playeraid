@@ -2,7 +2,7 @@
 
 **Always fitting**
 
-choice,shift,draw,
+choice,shift,draw
 
 ## Cards
 

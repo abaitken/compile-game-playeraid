@@ -2,7 +2,7 @@
 
 **Everything everywhere all at once**
 
-play face-down,win more,
+play face-down,win more
 
 ## Cards
 

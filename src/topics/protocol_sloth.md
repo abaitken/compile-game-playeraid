@@ -2,7 +2,7 @@
 
 **Maybe later**
 
-discard,flip,
+discard,flip
 
 ## Cards
 

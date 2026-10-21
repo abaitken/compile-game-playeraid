@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-draw,reveal,
+draw,reveal
 
 ## Cards
 

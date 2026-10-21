@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-draw,gift,exchange,
+draw,gift,exchange
 
 ## Cards
 

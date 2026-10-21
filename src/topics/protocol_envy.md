@@ -2,7 +2,7 @@
 
 **I want what you have**
 
-catch up,flip,
+catch up,flip
 
 ## Cards
 

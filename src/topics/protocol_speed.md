@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-draw,play,shift,
+draw,play,shift
 
 ## Cards
 

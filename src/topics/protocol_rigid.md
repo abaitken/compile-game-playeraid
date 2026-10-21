@@ -2,7 +2,7 @@
 
 **Stiff and uncompromising**
 
-play face-down,prevent,
+play face-down,prevent
 
 ## Cards
 

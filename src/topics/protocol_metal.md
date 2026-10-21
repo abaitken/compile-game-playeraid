@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-prevent,draw,flip,
+prevent,draw,flip
 
 ## Cards
 

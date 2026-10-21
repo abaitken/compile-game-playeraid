@@ -2,7 +2,7 @@
 
 **Devastating critical mass**
 
-stack size,shift,rearrange,
+stack size,shift,rearrange
 
 ## Cards
 

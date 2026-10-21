@@ -2,7 +2,7 @@
 
 **I deserve that**
 
-discard,repeating effects,
+discard,repeating effects
 
 ## Cards
 

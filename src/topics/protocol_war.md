@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-react,discard,
+react,discard
 
 ## Cards
 

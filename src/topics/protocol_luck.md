@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-random,delete,play,
+random,delete,play
 
 ## Cards
 

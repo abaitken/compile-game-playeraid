@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-discard,trash,
+discard,trash
 
 ## Cards
 

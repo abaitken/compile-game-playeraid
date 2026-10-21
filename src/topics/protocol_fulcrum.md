@@ -2,7 +2,7 @@
 
 **Balanced on a point**
 
-draw,swap,cards in hand,
+draw,swap,cards in hand
 
 ## Cards
 

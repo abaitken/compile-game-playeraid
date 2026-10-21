@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-exhange,play,
+exhange,play
 
 ## Cards
 

@@ -2,7 +2,7 @@
 
 **Vengeful anger**
 
-delete,face-down,
+delete,face-down
 
 ## Cards
 

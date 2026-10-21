@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-delete,draw,
+delete,draw
 
 ## Cards
 

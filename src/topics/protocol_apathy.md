@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-flip face-down,
+flip face-down
 
 ## Cards
 

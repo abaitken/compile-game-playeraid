@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-conver,flip,compile,
+conver,flip,compile
 
 ## Cards
 

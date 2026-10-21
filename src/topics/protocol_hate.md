@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-delete thiers and yours,
+delete thiers and yours
 
 ## Cards
 

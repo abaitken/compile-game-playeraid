@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-discard for effect,
+discard for effect
 
 ## Cards
 

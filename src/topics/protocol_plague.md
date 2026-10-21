@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-forced discard,flip,
+forced discard,flip
 
 ## Cards
 

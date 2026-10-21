@@ -2,7 +2,7 @@
 
 **P = mass * velocity**
 
-after compile,draw,
+after compile,draw
 
 ## Cards
 

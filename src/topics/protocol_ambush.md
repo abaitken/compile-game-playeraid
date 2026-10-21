@@ -2,7 +2,7 @@
 
 **From the shadows**
 
-flip,draw,face-down,
+flip,draw,face-down
 
 ## Cards
 

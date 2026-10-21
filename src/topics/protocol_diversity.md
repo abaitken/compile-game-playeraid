@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-play,compare,compile,
+play,compare,compile
 
 ## Cards
 

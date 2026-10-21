@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-draw,compare,
+draw,compare
 
 ## Cards
 

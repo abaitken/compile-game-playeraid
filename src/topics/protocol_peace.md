@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-mutual discard,draw,
+mutual discard,draw
 
 ## Cards
 

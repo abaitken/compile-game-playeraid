@@ -2,7 +2,7 @@
 
 **Come here**
 
-forced play,control,
+forced play,control
 
 ## Cards
 

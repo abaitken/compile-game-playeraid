@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-flip,top deck play,draw,
+flip,top deck play,draw
 
 ## Cards
 

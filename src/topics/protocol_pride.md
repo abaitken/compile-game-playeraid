@@ -2,7 +2,7 @@
 
 **Only the best**
 
-stay ahead,shift,draw,
+stay ahead,shift,draw
 
 ## Cards
 

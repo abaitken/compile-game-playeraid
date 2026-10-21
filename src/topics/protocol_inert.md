@@ -2,7 +2,7 @@
 
 **Is this thing on?**
 
-negate face-up,symmetrical,
+negate face-up,symmetrical
 
 ## Cards
 

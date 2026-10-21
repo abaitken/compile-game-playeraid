@@ -2,7 +2,7 @@
 
 ** TAGLINE MISSING **
 
-draw,rearrange,covered,
+draw,rearrange,covered
 
 ## Cards
 
