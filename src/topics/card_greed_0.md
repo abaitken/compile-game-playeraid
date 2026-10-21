@@ -18,9 +18,12 @@ Discard your hand. Delete 1 card.
 **After you delete cards:** Draw 1 card.
 ```
 
-## Keywords
+## Reference
 
-discard,delete,draw,
+- [Protocol: Greed](protocol_greed)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: delete](keyword_delete.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Greed](protocol_greed)
-Set: [Compile Main 3](set_MN03.md)
+

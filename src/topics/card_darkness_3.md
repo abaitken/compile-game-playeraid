@@ -18,9 +18,11 @@ Play 1 card face-down in another line.
 
 ```
 
-## Keywords
+## Reference
 
-play,facedown,
+- [Protocol: Darkness](protocol_darkness)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: play](keyword_play.md)
+- [Keyword: facedown](keyword_facedown.md)
 
-Protocol: [Darkness](protocol_darkness)
-Set: [Compile Main 1](set_MN01.md)
+

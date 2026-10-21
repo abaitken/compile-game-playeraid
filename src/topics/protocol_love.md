@@ -1,7 +1,8 @@
 # Protocol: Love
 
-Set: [Compile AUX 01](set_AX01.md)
-[draw](keyword_draw.md),[gift](keyword_gift.md),[exchange](keyword_exchange.md),
+** TAGLINE MISSING **
+
+draw,gift,exchange,
 
 ## Cards
 
@@ -11,3 +12,11 @@ Set: [Compile AUX 01](set_AX01.md)
 - [4](card_love_4.md)
 - [5](card_love_5.md)
 - [6](card_love_6.md)
+
+
+## Reference
+
+- [Set: Compile AUX 01 (AX01)](set_AX01.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: gift](keyword_gift.md)
+- [Keyword: exchange](keyword_exchange.md)

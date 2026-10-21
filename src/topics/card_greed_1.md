@@ -18,9 +18,10 @@
 **End:** Compile a line where you have at least 10 value and a higher total value than your opponent.
 ```
 
-## Keywords
+## Reference
 
-compile,
+- [Protocol: Greed](protocol_greed)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: compile](keyword_compile.md)
 
-Protocol: [Greed](protocol_greed)
-Set: [Compile Main 3](set_MN03.md)
+

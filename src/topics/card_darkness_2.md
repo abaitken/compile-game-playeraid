@@ -18,9 +18,11 @@ You may flip 1 covered card in this line.
 
 ```
 
-## Keywords
+## Reference
 
-flip,facedown,
+- [Protocol: Darkness](protocol_darkness)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: facedown](keyword_facedown.md)
 
-Protocol: [Darkness](protocol_darkness)
-Set: [Compile Main 1](set_MN01.md)
+

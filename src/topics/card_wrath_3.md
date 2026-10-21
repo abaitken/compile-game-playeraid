@@ -18,9 +18,10 @@ Flip 1 face-up card.
 
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Wrath](protocol_wrath)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Wrath](protocol_wrath)
-Set: [Compile Main 3](set_MN03.md)
+

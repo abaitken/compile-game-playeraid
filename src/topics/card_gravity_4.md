@@ -18,9 +18,11 @@ Shift 1 face-down card to this line.
 
 ```
 
-## Keywords
+## Reference
 
-shift,facedown,
+- [Protocol: Gravity](protocol_gravity)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: shift](keyword_shift.md)
+- [Keyword: facedown](keyword_facedown.md)
 
-Protocol: [Gravity](protocol_gravity)
-Set: [Compile Main 1](set_MN01.md)
+

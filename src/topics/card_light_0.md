@@ -18,15 +18,17 @@ Flip 1 card. Draw cards equal to that card's value.
 
 ```
 
-## Keywords
-
-draw,flip,
-
 ## Rules/FAQ
 
 {%include/rule_clari_light_0.md%}
 {%include/rule_ruling_light_0.md%}
 
 
-Protocol: [Light](protocol_light)
-Set: [Compile Main 1](set_MN01.md)
+## Reference
+
+- [Protocol: Light](protocol_light)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: flip](keyword_flip.md)
+
+

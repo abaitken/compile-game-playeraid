@@ -18,9 +18,11 @@ If your opponent has control, you may flip 1 card.
 **Start:** If your opponent has control, gain control.
 ```
 
-## Keywords
+## Reference
 
-control,flip,
+- [Protocol: Envy](protocol_envy)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: control](keyword_control.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Envy](protocol_envy)
-Set: [Compile Main 3](set_MN03.md)
+

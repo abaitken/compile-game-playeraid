@@ -1,9 +1,8 @@
 # Protocol: Pride
 
-Set: [Compile Main 3](set_MN03.md)
 **Only the best**
 
-[stay ahead](keyword_stay ahead.md),[shift](keyword_shift.md),[draw](keyword_draw.md),
+stay ahead,shift,draw,
 
 ## Cards
 
@@ -13,3 +12,11 @@ Set: [Compile Main 3](set_MN03.md)
 - [4](card_pride_4.md)
 - [5](card_pride_5.md)
 - [6](card_pride_6.md)
+
+
+## Reference
+
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: stay ahead](keyword_stay ahead.md)
+- [Keyword: shift](keyword_shift.md)
+- [Keyword: draw](keyword_draw.md)

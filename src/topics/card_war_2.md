@@ -18,9 +18,12 @@ Flip 1 card.
 **After your opponent compiles:** Your opponent discards their hand.
 ```
 
-## Keywords
+## Reference
 
-flip,discard,compile,
+- [Protocol: War](protocol_war)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: compile](keyword_compile.md)
 
-Protocol: [War](protocol_war)
-Set: [Compile Main 2](set_MN02.md)
+

@@ -1,7 +1,8 @@
 # Protocol: Ice
 
-Set: [Compile Main 2](set_MN02.md)
-[shift](keyword_shift.md),[prevent](keyword_prevent.md),
+** TAGLINE MISSING **
+
+shift,prevent,
 
 ## Cards
 
@@ -11,3 +12,10 @@ Set: [Compile Main 2](set_MN02.md)
 - [4](card_ice_4.md)
 - [5](card_ice_5.md)
 - [6](card_ice_6.md)
+
+
+## Reference
+
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: shift](keyword_shift.md)
+- [Keyword: prevent](keyword_prevent.md)

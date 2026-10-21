@@ -18,9 +18,11 @@ Your opponent revels 1 random card from this hand. Play that card face-down on t
 **End:** You may lose control. If you did, flip 1 card.
 ```
 
-## Keywords
+## Reference
 
-play,flip,
+- [Protocol: Lust](protocol_lust)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: play](keyword_play.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Lust](protocol_lust)
-Set: [Compile Main 3](set_MN03.md)
+

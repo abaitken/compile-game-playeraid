@@ -18,9 +18,10 @@ Flip 1 covered or uncovered face-up card in a different line.
 
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Inert](protocol_inert)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Inert](protocol_inert)
-Set: [Compile AUX 03](set_AX03.md)
+

@@ -18,9 +18,11 @@ Discard 1 card. If you do, delete 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-delete,discard,
+- [Protocol: Fire](protocol_fire)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: delete](keyword_delete.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Fire](protocol_fire)
-Set: [Compile Main 1](set_MN01.md)
+

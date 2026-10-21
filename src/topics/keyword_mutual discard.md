@@ -1,3 +1,3 @@
 # Keyword: mutual discard
 
-- [Peace](protocol_peace)
+- [Protocol: Peace](protocol_peace)

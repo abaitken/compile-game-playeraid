@@ -18,9 +18,11 @@ Return or shift 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-return,shift,
+- [Protocol: Flexible](protocol_flexible)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: return](keyword_return.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Flexible](protocol_flexible)
-Set: [Compile AUX 03](set_AX03.md)
+

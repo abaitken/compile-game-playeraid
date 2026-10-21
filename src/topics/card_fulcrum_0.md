@@ -18,9 +18,10 @@ If you have exactly 0 cards in hand, your opponent discards 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-discard,
+- [Protocol: Fulcrum](protocol_fulcrum)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Fulcrum](protocol_fulcrum)
-Set: [Compile Main 3](set_MN03.md)
+

@@ -18,9 +18,10 @@ Play 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-play,
+- [Protocol: Speed](protocol_speed)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Speed](protocol_speed)
-Set: [Compile Main 1](set_MN01.md)
+

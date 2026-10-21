@@ -18,9 +18,11 @@ You may discard 1 card. Flip 1 card thas has a value greater than the number of 
 
 ```
 
-## Keywords
+## Reference
 
-discard,flip,
+- [Protocol: Peace](protocol_peace)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Peace](protocol_peace)
-Set: [Compile Main 2](set_MN02.md)
+

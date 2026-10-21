@@ -18,9 +18,11 @@ Return 1 other card. If the returned card is one of your cards, refresh.
 **After you refresh:** Play the top card of your deck face-down in this stack.
 ```
 
-## Keywords
+## Reference
 
-return,play,
+- [Protocol: Sloth](protocol_sloth)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: return](keyword_return.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Sloth](protocol_sloth)
-Set: [Compile Main 3](set_MN03.md)
+

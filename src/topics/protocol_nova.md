@@ -1,9 +1,8 @@
 # Protocol: Nova
 
-Set: [Compile Main 3](set_MN03.md)
 **Devastating critical mass**
 
-[stack size](keyword_stack size.md),[shift](keyword_shift.md),[rearrange](keyword_rearrange.md),
+stack size,shift,rearrange,
 
 ## Cards
 
@@ -13,3 +12,11 @@ Set: [Compile Main 3](set_MN03.md)
 - [3](card_nova_3.md)
 - [4](card_nova_4.md)
 - [5](card_nova_5.md)
+
+
+## Reference
+
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: stack size](keyword_stack size.md)
+- [Keyword: shift](keyword_shift.md)
+- [Keyword: rearrange](keyword_rearrange.md)

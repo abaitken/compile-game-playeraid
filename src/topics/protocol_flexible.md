@@ -1,9 +1,8 @@
 # Protocol: Flexible
 
-Set: [Compile AUX 03](set_AX03.md)
 **Always fitting**
 
-[choice](keyword_choice.md),[shift](keyword_shift.md),[draw](keyword_draw.md),
+choice,shift,draw,
 
 ## Cards
 
@@ -13,3 +12,11 @@ Set: [Compile AUX 03](set_AX03.md)
 - [3](card_flexible_3.md)
 - [4](card_flexible_4.md)
 - [5](card_flexible_5.md)
+
+
+## Reference
+
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: choice](keyword_choice.md)
+- [Keyword: shift](keyword_shift.md)
+- [Keyword: draw](keyword_draw.md)

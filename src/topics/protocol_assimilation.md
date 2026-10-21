@@ -1,7 +1,8 @@
 # Protocol: Assimilation
 
-Set: [Compile AUX 02](set_AX02.md)
-[exhange](keyword_exhange.md),[play](keyword_play.md),
+** TAGLINE MISSING **
+
+exhange,play,
 
 ## Cards
 
@@ -11,3 +12,10 @@ Set: [Compile AUX 02](set_AX02.md)
 - [4](card_assimilation_4.md)
 - [5](card_assimilation_5.md)
 - [6](card_assimilation_6.md)
+
+
+## Reference
+
+- [Set: Compile AUX 02 (AX02)](set_AX02.md)
+- [Keyword: exhange](keyword_exhange.md)
+- [Keyword: play](keyword_play.md)

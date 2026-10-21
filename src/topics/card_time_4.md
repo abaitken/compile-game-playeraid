@@ -18,9 +18,11 @@ Draw 2 cards. Discard 2 cards.
 
 ```
 
-## Keywords
+## Reference
 
-draw,discard,
+- [Protocol: Time](protocol_time)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Time](protocol_time)
-Set: [Compile Main 2](set_MN02.md)
+

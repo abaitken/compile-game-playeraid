@@ -18,9 +18,13 @@
 **After your opponent draws cards:** You may delete 1 card.
 ```
 
-## Keywords
+## Reference
 
-refresh,flip,draw,delete,
+- [Protocol: War](protocol_war)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: refresh](keyword_refresh.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: delete](keyword_delete.md)
 
-Protocol: [War](protocol_war)
-Set: [Compile Main 2](set_MN02.md)
+

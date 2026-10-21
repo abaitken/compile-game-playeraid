@@ -1,7 +1,8 @@
 # Protocol: Fire
 
-Set: [Compile Main 1](set_MN01.md)
-[discard for effect](keyword_discard for effect.md),
+** TAGLINE MISSING **
+
+discard for effect,
 
 ## Cards
 
@@ -11,3 +12,9 @@ Set: [Compile Main 1](set_MN01.md)
 - [3](card_fire_3.md)
 - [4](card_fire_4.md)
 - [5](card_fire_5.md)
+
+
+## Reference
+
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: discard for effect](keyword_discard for effect.md)

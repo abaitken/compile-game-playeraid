@@ -18,9 +18,11 @@ If this card is covering a Nova card, you may rearrange your protocols. Else, ga
 **After you rearrange protocols:** You may shift 1 face-down card.
 ```
 
-## Keywords
+## Reference
 
-rearrange,shift,
+- [Protocol: Nova](protocol_nova)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: rearrange](keyword_rearrange.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Nova](protocol_nova)
-Set: [Compile Main 3](set_MN03.md)
+

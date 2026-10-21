@@ -1,7 +1,8 @@
 # Protocol: Hate
 
-Set: [Compile AUX 01](set_AX01.md)
-[delete thiers and yours](keyword_delete thiers and yours.md),
+** TAGLINE MISSING **
+
+delete thiers and yours,
 
 ## Cards
 
@@ -11,3 +12,9 @@ Set: [Compile AUX 01](set_AX01.md)
 - [3](card_hate_3.md)
 - [4](card_hate_4.md)
 - [5](card_hate_5.md)
+
+
+## Reference
+
+- [Set: Compile AUX 01 (AX01)](set_AX01.md)
+- [Keyword: delete thiers and yours](keyword_delete thiers and yours.md)

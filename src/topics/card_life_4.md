@@ -18,9 +18,10 @@ If this card is covering a card, draw 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-draw,
+- [Protocol: Life](protocol_life)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Life](protocol_life)
-Set: [Compile Main 1](set_MN01.md)
+

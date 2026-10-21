@@ -18,9 +18,10 @@ Your opponent discards 2 cards.
 All other cards in this line have no bottom command.
 ```
 
-## Keywords
+## Reference
 
-discard,
+- [Protocol: Inert](protocol_inert)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Inert](protocol_inert)
-Set: [Compile AUX 03](set_AX03.md)
+

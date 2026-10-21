@@ -1,9 +1,8 @@
 # Protocol: Inert
 
-Set: [Compile AUX 03](set_AX03.md)
 **Is this thing on?**
 
-[negate face-up](keyword_negate face-up.md),[symmetrical](keyword_symmetrical.md),
+negate face-up,symmetrical,
 
 ## Cards
 
@@ -13,3 +12,10 @@ Set: [Compile AUX 03](set_AX03.md)
 - [3](card_inert_3.md)
 - [4](card_inert_4.md)
 - [5](card_inert_5.md)
+
+
+## Reference
+
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: negate face-up](keyword_negate face-up.md)
+- [Keyword: symmetrical](keyword_symmetrical.md)

@@ -1,9 +1,8 @@
 # Protocol: Rigid
 
-Set: [Compile AUX 03](set_AX03.md)
 **Stiff and uncompromising**
 
-[play face-down](keyword_play face-down.md),[prevent](keyword_prevent.md),
+play face-down,prevent,
 
 ## Cards
 
@@ -13,3 +12,10 @@ Set: [Compile AUX 03](set_AX03.md)
 - [4](card_rigid_4.md)
 - [5](card_rigid_5.md)
 - [7](card_rigid_7.md)
+
+
+## Reference
+
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: play face-down](keyword_play face-down.md)
+- [Keyword: prevent](keyword_prevent.md)

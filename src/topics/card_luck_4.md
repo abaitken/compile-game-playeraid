@@ -18,9 +18,11 @@ Discard the top card of your deck. Delete 1 covered or uncovered card that share
 
 ```
 
-## Keywords
+## Reference
 
-discard,delete,
+- [Protocol: Luck](protocol_luck)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: delete](keyword_delete.md)
 
-Protocol: [Luck](protocol_luck)
-Set: [Compile Main 2](set_MN02.md)
+

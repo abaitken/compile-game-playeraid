@@ -18,9 +18,11 @@ Shift 1 of your opponent's cards or swap 2 of your protocols.
 
 ```
 
-## Keywords
+## Reference
 
-shift,swap,
+- [Protocol: Flexible](protocol_flexible)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: shift](keyword_shift.md)
+- [Keyword: swap](keyword_swap.md)
 
-Protocol: [Flexible](protocol_flexible)
-Set: [Compile AUX 03](set_AX03.md)
+

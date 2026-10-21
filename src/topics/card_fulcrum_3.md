@@ -18,9 +18,11 @@ Draw 1 card. Swap the positions of your left and right protocols.
 
 ```
 
-## Keywords
+## Reference
 
-draw,swap,
+- [Protocol: Fulcrum](protocol_fulcrum)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: swap](keyword_swap.md)
 
-Protocol: [Fulcrum](protocol_fulcrum)
-Set: [Compile Main 3](set_MN03.md)
+

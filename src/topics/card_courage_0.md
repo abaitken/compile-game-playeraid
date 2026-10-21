@@ -18,9 +18,11 @@ Draw 1 card.
 **End:** You may discard 1 card. If you do, your opponent discards 1 card.
 ```
 
-## Keywords
+## Reference
 
-draw,discard,
+- [Protocol: Courage](protocol_courage)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Courage](protocol_courage)
-Set: [Compile Main 2](set_MN02.md)
+

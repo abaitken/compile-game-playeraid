@@ -1,3 +1,3 @@
 # Keyword: cards in hand
 
-- [Fulcrum](protocol_fulcrum)
+- [Protocol: Fulcrum](protocol_fulcrum)

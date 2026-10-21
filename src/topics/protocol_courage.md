@@ -1,7 +1,8 @@
 # Protocol: Courage
 
-Set: [Compile Main 2](set_MN02.md)
-[draw](keyword_draw.md),[compare](keyword_compare.md),
+** TAGLINE MISSING **
+
+draw,compare,
 
 ## Cards
 
@@ -11,3 +12,10 @@ Set: [Compile Main 2](set_MN02.md)
 - [3](card_courage_3.md)
 - [5](card_courage_5.md)
 - [6](card_courage_6.md)
+
+
+## Reference
+
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: compare](keyword_compare.md)

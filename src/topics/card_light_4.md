@@ -18,9 +18,10 @@ Your opponent reveals their hand.
 
 ```
 
-## Keywords
+## Reference
 
-reveal,
+- [Protocol: Light](protocol_light)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: reveal](keyword_reveal.md)
 
-Protocol: [Light](protocol_light)
-Set: [Compile Main 1](set_MN01.md)
+

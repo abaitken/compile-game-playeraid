@@ -18,9 +18,10 @@ Play the top card of your deck face-down in each line with a compiled protocol.
 
 ```
 
-## Keywords
+## Reference
 
-play,
+- [Protocol: Momentum](protocol_momentum)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Momentum](protocol_momentum)
-Set: [Compile Main 3](set_MN03.md)
+

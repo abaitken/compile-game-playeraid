@@ -18,9 +18,12 @@ You may shift this card.
 **After your opponent plays a card in this line:** Your opponent discards 1 card.
 ```
 
-## Keywords
+## Reference
 
-shift,play,discard,
+- [Protocol: Ice](protocol_ice)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: shift](keyword_shift.md)
+- [Keyword: play](keyword_play.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Ice](protocol_ice)
-Set: [Compile Main 2](set_MN02.md)
+

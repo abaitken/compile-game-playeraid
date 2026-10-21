@@ -18,9 +18,10 @@ You may flip 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Spirit](protocol_spirit)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Spirit](protocol_spirit)
-Set: [Compile Main 1](set_MN01.md)
+

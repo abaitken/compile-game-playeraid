@@ -18,9 +18,10 @@ Discard 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-discard,
+- [Protocol: Overwhelm](protocol_overwhelm)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Overwhelm](protocol_overwhelm)
-Set: [Compile Main 3](set_MN03.md)
+

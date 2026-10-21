@@ -18,9 +18,10 @@ Play 1 card face-down in each other line. Your opponent plays 1 card face-down i
 
 ```
 
-## Keywords
+## Reference
 
-play,
+- [Protocol: Inert](protocol_inert)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Inert](protocol_inert)
-Set: [Compile AUX 03](set_AX03.md)
+

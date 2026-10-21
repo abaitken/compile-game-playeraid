@@ -18,9 +18,11 @@ Flip 1 of your cards. You may shift that card.
 
 ```
 
-## Keywords
+## Reference
 
-flip,shift,
+- [Protocol: Smoke](protocol_smoke)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Smoke](protocol_smoke)
-Set: [Compile Main 2](set_MN02.md)
+

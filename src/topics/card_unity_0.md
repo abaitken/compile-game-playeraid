@@ -18,9 +18,11 @@ If there is another Unity card in the field, either flip 1 card or draw 1 card.
 **When this card would be covered by a Unity card:** First, either flip 1 card or draw 1 card.
 ```
 
-## Keywords
+## Reference
 
-discard,flip,
+- [Protocol: Unity](protocol_unity)
+- [Set: Compile AUX 02 (AX02)](set_AX02.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Unity](protocol_unity)
-Set: [Compile AUX 02](set_AX02.md)
+

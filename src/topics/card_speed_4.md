@@ -18,9 +18,11 @@ Shift 1 of your opponent's face-down cards.
 
 ```
 
-## Keywords
+## Reference
 
-shift,facedown,
+- [Protocol: Speed](protocol_speed)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: shift](keyword_shift.md)
+- [Keyword: facedown](keyword_facedown.md)
 
-Protocol: [Speed](protocol_speed)
-Set: [Compile Main 1](set_MN01.md)
+

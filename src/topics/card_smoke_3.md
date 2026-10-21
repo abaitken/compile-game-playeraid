@@ -18,14 +18,16 @@ Play 1 card face-down in a line with a face-down card.
 
 ```
 
-## Keywords
-
-play,facedown,
-
 ## Rules/FAQ
 
 {%include/rule_clari_smoke_3.md%}
 
 
-Protocol: [Smoke](protocol_smoke)
-Set: [Compile Main 2](set_MN02.md)
+## Reference
+
+- [Protocol: Smoke](protocol_smoke)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: play](keyword_play.md)
+- [Keyword: facedown](keyword_facedown.md)
+
+

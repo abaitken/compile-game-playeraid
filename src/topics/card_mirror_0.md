@@ -18,9 +18,9 @@ Your total value in this line is increased by 1 for each of your opponent's card
 
 ```
 
-## Keywords
+## Reference
+
+- [Protocol: Mirror](protocol_mirror)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
 
 
-
-Protocol: [Mirror](protocol_mirror)
-Set: [Compile Main 2](set_MN02.md)

@@ -18,9 +18,9 @@ If there are 6 different protocols on cards in the field, flip the Diversity pro
 **End:** You may play 1 non-Diversity card in this line.
 ```
 
-## Keywords
+## Reference
+
+- [Protocol: Diversity](protocol_diversity)
+- [Set: Compile AUX 02 (AX02)](set_AX02.md)
 
 
-
-Protocol: [Diversity](protocol_diversity)
-Set: [Compile AUX 02](set_AX02.md)

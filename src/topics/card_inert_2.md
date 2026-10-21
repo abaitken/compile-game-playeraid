@@ -18,9 +18,10 @@ Flip all face-up cards in a line that have the highest value in that line.
 
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Inert](protocol_inert)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Inert](protocol_inert)
-Set: [Compile AUX 03](set_AX03.md)
+

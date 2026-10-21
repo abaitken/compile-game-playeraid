@@ -1,3 +1,3 @@
 # Keyword: forced play
 
-- [Lust](protocol_lust)
+- [Protocol: Lust](protocol_lust)

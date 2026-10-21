@@ -18,9 +18,10 @@ Shift your lowest value covered card.
 
 ```
 
-## Keywords
+## Reference
 
-shift,
+- [Protocol: Ambush](protocol_ambush)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Ambush](protocol_ambush)
-Set: [Compile Main 3](set_MN03.md)
+

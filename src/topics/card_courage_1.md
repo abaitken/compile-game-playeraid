@@ -18,9 +18,10 @@ Delete 1 of your opponent's cards in a line where they have a highter total valu
 
 ```
 
-## Keywords
+## Reference
 
-delete,
+- [Protocol: Courage](protocol_courage)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: delete](keyword_delete.md)
 
-Protocol: [Courage](protocol_courage)
-Set: [Compile Main 2](set_MN02.md)
+

@@ -18,9 +18,10 @@ Draw 2 cards.
 
 ```
 
-## Keywords
+## Reference
 
-draw,
+- [Protocol: Speed](protocol_speed)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Speed](protocol_speed)
-Set: [Compile Main 1](set_MN01.md)
+

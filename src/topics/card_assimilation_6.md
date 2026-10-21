@@ -18,9 +18,9 @@
 **End:** Play the top card of your deck face-down on your opponent's side.
 ```
 
-## Keywords
+## Reference
+
+- [Protocol: Assimilation](protocol_assimilation)
+- [Set: Compile AUX 02 (AX02)](set_AX02.md)
 
 
-
-Protocol: [Assimilation](protocol_assimilation)
-Set: [Compile AUX 02](set_AX02.md)

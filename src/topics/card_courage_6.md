@@ -18,9 +18,9 @@
 
 ```
 
-## Keywords
+## Reference
+
+- [Protocol: Courage](protocol_courage)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
 
 
-
-Protocol: [Courage](protocol_courage)
-Set: [Compile Main 2](set_MN02.md)

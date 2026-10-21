@@ -18,14 +18,16 @@ Both players discard their hand.
 **End:** If your hand is empty, draw 1 card.
 ```
 
-## Keywords
-
-discard,draw,
-
 ## Rules/FAQ
 
 {%include/rule_clari_peace_1.md%}
 
 
-Protocol: [Peace](protocol_peace)
-Set: [Compile Main 2](set_MN02.md)
+## Reference
+
+- [Protocol: Peace](protocol_peace)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: draw](keyword_draw.md)
+
+

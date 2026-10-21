@@ -1,7 +1,8 @@
 # Protocol: Plague
 
-Set: [Compile Main 1](set_MN01.md)
-[forced discard](keyword_forced discard.md),[flip](keyword_flip.md),
+** TAGLINE MISSING **
+
+forced discard,flip,
 
 ## Cards
 
@@ -11,3 +12,10 @@ Set: [Compile Main 1](set_MN01.md)
 - [3](card_plague_3.md)
 - [4](card_plague_4.md)
 - [5](card_plague_5.md)
+
+
+## Reference
+
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: forced discard](keyword_forced discard.md)
+- [Keyword: flip](keyword_flip.md)

@@ -18,9 +18,10 @@ If your opponent has more compiled protocols than you do, flip 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Envy](protocol_envy)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Envy](protocol_envy)
-Set: [Compile Main 3](set_MN03.md)
+

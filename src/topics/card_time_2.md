@@ -18,9 +18,11 @@ If there are any cards in your trash, you may shuffle your trash into your deck.
 
 ```
 
-## Keywords
+## Reference
 
-draw,shift,
+- [Protocol: Time](protocol_time)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Time](protocol_time)
-Set: [Compile Main 2](set_MN02.md)
+

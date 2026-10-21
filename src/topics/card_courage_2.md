@@ -18,9 +18,10 @@ Draw 1 card.
 **End:** If your opponent has a highter total value than you do in this line, draw 1 card.
 ```
 
-## Keywords
+## Reference
 
-draw,
+- [Protocol: Courage](protocol_courage)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Courage](protocol_courage)
-Set: [Compile Main 2](set_MN02.md)
+

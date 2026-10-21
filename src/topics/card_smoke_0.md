@@ -18,14 +18,16 @@ Play the top card of your deck face-down in each line with a face-down card.
 
 ```
 
-## Keywords
-
-play,facedown,
-
 ## Rules/FAQ
 
 {%include/rule_clari_smoke_0.md%}
 
 
-Protocol: [Smoke](protocol_smoke)
-Set: [Compile Main 2](set_MN02.md)
+## Reference
+
+- [Protocol: Smoke](protocol_smoke)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: play](keyword_play.md)
+- [Keyword: facedown](keyword_facedown.md)
+
+

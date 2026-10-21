@@ -1,3 +1,3 @@
 # Keyword: react
 
-- [War](protocol_war)
+- [Protocol: War](protocol_war)

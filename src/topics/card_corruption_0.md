@@ -18,9 +18,11 @@
 You may play this card in any line on either player's side.
 ```
 
-## Keywords
+## Reference
 
-flip,play,
+- [Protocol: Corruption](protocol_corruption)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Corruption](protocol_corruption)
-Set: [Compile Main 2](set_MN02.md)
+

@@ -18,9 +18,10 @@ Flip 1 card with a value less than the number of cards in this stack.
 
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Nova](protocol_nova)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Nova](protocol_nova)
-Set: [Compile Main 3](set_MN03.md)
+

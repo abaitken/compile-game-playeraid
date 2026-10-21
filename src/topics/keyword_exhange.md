@@ -1,3 +1,3 @@
 # Keyword: exhange
 
-- [Assimilation](protocol_assimilation)
+- [Protocol: Assimilation](protocol_assimilation)

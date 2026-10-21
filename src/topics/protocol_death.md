@@ -1,7 +1,8 @@
 # Protocol: Death
 
-Set: [Compile Main 1](set_MN01.md)
-[delete](keyword_delete.md),[draw](keyword_draw.md),
+** TAGLINE MISSING **
+
+delete,draw,
 
 ## Cards
 
@@ -11,3 +12,10 @@ Set: [Compile Main 1](set_MN01.md)
 - [3](card_death_3.md)
 - [4](card_death_4.md)
 - [5](card_death_5.md)
+
+
+## Reference
+
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: delete](keyword_delete.md)
+- [Keyword: draw](keyword_draw.md)

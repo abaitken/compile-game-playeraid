@@ -18,9 +18,12 @@ Draw 2 cards.
 **Start:** Either discard 1 card or flip this card.
 ```
 
-## Keywords
+## Reference
 
-discard,draw,flip,
+- [Protocol: Spirit](protocol_spirit)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Spirit](protocol_spirit)
-Set: [Compile Main 1](set_MN01.md)
+

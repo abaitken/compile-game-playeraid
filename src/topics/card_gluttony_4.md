@@ -18,9 +18,10 @@
 **After you refresh:** Draw 1 card.
 ```
 
-## Keywords
+## Reference
 
-draw,
+- [Protocol: Gluttony](protocol_gluttony)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Gluttony](protocol_gluttony)
-Set: [Compile Main 3](set_MN03.md)
+

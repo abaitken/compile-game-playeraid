@@ -1,9 +1,8 @@
 # Protocol: Lust
 
-Set: [Compile Main 3](set_MN03.md)
 **Come here**
 
-[forced play](keyword_forced play.md),[control](keyword_control.md),
+forced play,control,
 
 ## Cards
 
@@ -13,3 +12,10 @@ Set: [Compile Main 3](set_MN03.md)
 - [4](card_lust_4.md)
 - [5](card_lust_5.md)
 - [6](card_lust_6.md)
+
+
+## Reference
+
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: forced play](keyword_forced play.md)
+- [Keyword: control](keyword_control.md)

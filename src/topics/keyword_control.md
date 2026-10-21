@@ -1,6 +1,6 @@
 # Keyword: control
 
-- [Lust](protocol_lust)
-- [0](card_lust_0.md)
-- [4](card_pride_4.md)
-- [4](card_wrath_4.md)
+- [Card: Lust 0](card_lust_0.md)
+- [Protocol: Lust](protocol_lust)
+- [Card: Pride 4](card_pride_4.md)
+- [Card: Wrath 4](card_wrath_4.md)

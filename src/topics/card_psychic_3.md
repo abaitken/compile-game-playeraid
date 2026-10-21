@@ -18,9 +18,11 @@ Your opponent discards 1 card. Shift 1 of their cards.
 
 ```
 
-## Keywords
+## Reference
 
-discard,shift,
+- [Protocol: Psychic](protocol_psychic)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Psychic](protocol_psychic)
-Set: [Compile Main 1](set_MN01.md)
+

@@ -1,3 +1,3 @@
 # Keyword: top deck play
 
-- [Life](protocol_life)
+- [Protocol: Life](protocol_life)

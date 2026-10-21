@@ -18,9 +18,10 @@ Discard your deck. Your opponent discards thier deck.
 
 ```
 
-## Keywords
+## Reference
 
-discard,
+- [Protocol: Inert](protocol_inert)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Inert](protocol_inert)
-Set: [Compile AUX 03](set_AX03.md)
+

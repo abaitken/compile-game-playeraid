@@ -1,9 +1,8 @@
 # Protocol: Sloth
 
-Set: [Compile Main 3](set_MN03.md)
 **Maybe later**
 
-[discard](keyword_discard.md),[flip](keyword_flip.md),
+discard,flip,
 
 ## Cards
 
@@ -13,3 +12,10 @@ Set: [Compile Main 3](set_MN03.md)
 - [3](card_sloth_3.md)
 - [4](card_sloth_4.md)
 - [5](card_sloth_5.md)
+
+
+## Reference
+
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: flip](keyword_flip.md)

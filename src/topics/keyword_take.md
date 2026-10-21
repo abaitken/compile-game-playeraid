@@ -1,3 +1,3 @@
 # Keyword: take
 
-- [3](card_love_3.md)
+- [Card: Love 3](card_love_3.md)

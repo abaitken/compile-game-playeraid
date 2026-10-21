@@ -18,9 +18,10 @@ Play 1 card from your trash. Shuffle your trash into your deck.
 
 ```
 
-## Keywords
+## Reference
 
-play,
+- [Protocol: Time](protocol_time)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Time](protocol_time)
-Set: [Compile Main 2](set_MN02.md)
+

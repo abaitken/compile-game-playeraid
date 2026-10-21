@@ -18,9 +18,10 @@ Flip 1 of your covered cards.
 **Start:** You may put 1 card from your hand on the bottom of your deck.
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Sloth](protocol_sloth)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Sloth](protocol_sloth)
-Set: [Compile Main 3](set_MN03.md)
+

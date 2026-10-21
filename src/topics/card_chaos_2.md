@@ -18,9 +18,10 @@ Shift 1 of your covered cards.
 
 ```
 
-## Keywords
+## Reference
 
-shift,
+- [Protocol: Chaos](protocol_chaos)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Chaos](protocol_chaos)
-Set: [Compile Main 2](set_MN02.md)
+

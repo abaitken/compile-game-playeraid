@@ -18,9 +18,11 @@ Draw 2 cards.
 **After a player clears cache:** Delete 1 card.
 ```
 
-## Keywords
+## Reference
 
-draw,delete,
+- [Protocol: Gluttony](protocol_gluttony)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: delete](keyword_delete.md)
 
-Protocol: [Gluttony](protocol_gluttony)
-Set: [Compile Main 3](set_MN03.md)
+

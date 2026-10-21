@@ -1,7 +1,8 @@
 # Protocol: Apathy
 
-Set: [Compile AUX 01](set_AX01.md)
-[flip face-down](keyword_flip face-down.md),
+** TAGLINE MISSING **
+
+flip face-down,
 
 ## Cards
 
@@ -11,3 +12,9 @@ Set: [Compile AUX 01](set_AX01.md)
 - [3](card_apathy_3.md)
 - [4](card_apathy_4.md)
 - [5](card_apathy_5.md)
+
+
+## Reference
+
+- [Set: Compile AUX 01 (AX01)](set_AX01.md)
+- [Keyword: flip face-down](keyword_flip face-down.md)

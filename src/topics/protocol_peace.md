@@ -1,7 +1,8 @@
 # Protocol: Peace
 
-Set: [Compile Main 2](set_MN02.md)
-[mutual discard](keyword_mutual discard.md),[draw](keyword_draw.md),
+** TAGLINE MISSING **
+
+mutual discard,draw,
 
 ## Cards
 
@@ -11,3 +12,10 @@ Set: [Compile Main 2](set_MN02.md)
 - [4](card_peace_4.md)
 - [5](card_peace_5.md)
 - [6](card_peace_6.md)
+
+
+## Reference
+
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: mutual discard](keyword_mutual discard.md)
+- [Keyword: draw](keyword_draw.md)

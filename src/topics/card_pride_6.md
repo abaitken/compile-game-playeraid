@@ -18,9 +18,10 @@ If your opponent has control, flip this card
 
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Pride](protocol_pride)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Pride](protocol_pride)
-Set: [Compile Main 3](set_MN03.md)
+

@@ -18,9 +18,11 @@
 **End:** You may return 1 of your opponent's cards. If you do, flip this card.
 ```
 
-## Keywords
+## Reference
 
-flip,return,
+- [Protocol: Psychic](protocol_psychic)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: return](keyword_return.md)
 
-Protocol: [Psychic](protocol_psychic)
-Set: [Compile Main 1](set_MN01.md)
+

@@ -18,9 +18,11 @@ Flip or shift 1 of your cards
 
 ```
 
-## Keywords
+## Reference
 
-flip,shift,
+- [Protocol: Flexible](protocol_flexible)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Flexible](protocol_flexible)
-Set: [Compile AUX 03](set_AX03.md)
+

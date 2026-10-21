@@ -18,9 +18,11 @@ Discard 1 card. If you do, return 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-discard,return,
+- [Protocol: Fire](protocol_fire)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: return](keyword_return.md)
 
-Protocol: [Fire](protocol_fire)
-Set: [Compile Main 1](set_MN01.md)
+

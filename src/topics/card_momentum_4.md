@@ -18,9 +18,10 @@ Rearrange your protocols.
 
 ```
 
-## Keywords
+## Reference
 
-rearrange,
+- [Protocol: Momentum](protocol_momentum)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: rearrange](keyword_rearrange.md)
 
-Protocol: [Momentum](protocol_momentum)
-Set: [Compile Main 3](set_MN03.md)
+

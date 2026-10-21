@@ -1,3 +1,3 @@
 # Keyword: negate face-up
 
-- [Inert](protocol_inert)
+- [Protocol: Inert](protocol_inert)

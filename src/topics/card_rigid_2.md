@@ -18,9 +18,10 @@
 **After you use your action to play a card face-down:** Play the top card of your deck face-down in the same stack.
 ```
 
-## Keywords
+## Reference
 
-play,
+- [Protocol: Rigid](protocol_rigid)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Rigid](protocol_rigid)
-Set: [Compile AUX 03](set_AX03.md)
+

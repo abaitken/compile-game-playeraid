@@ -18,9 +18,10 @@ Gain control.
 Your opponent can't compile if you have control.
 ```
 
-## Keywords
+## Reference
 
-control,
+- [Protocol: Lust](protocol_lust)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: control](keyword_control.md)
 
-Protocol: [Lust](protocol_lust)
-Set: [Compile Main 3](set_MN03.md)
+

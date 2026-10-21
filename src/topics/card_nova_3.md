@@ -18,9 +18,10 @@ Shift 1 card with a value less than the number of cards in this stack.
 
 ```
 
-## Keywords
+## Reference
 
-shift,
+- [Protocol: Nova](protocol_nova)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Nova](protocol_nova)
-Set: [Compile Main 3](set_MN03.md)
+

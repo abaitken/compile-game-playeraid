@@ -18,9 +18,10 @@ Play 1 card face-down directly under this card.
 
 ```
 
-## Keywords
+## Reference
 
-play,
+- [Protocol: Rigid](protocol_rigid)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Rigid](protocol_rigid)
-Set: [Compile AUX 03](set_AX03.md)
+

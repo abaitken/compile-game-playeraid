@@ -18,9 +18,11 @@ Draw 2 cards. Shift 1 card either to or from this line.
 
 ```
 
-## Keywords
+## Reference
 
-draw,shift,
+- [Protocol: Gravity](protocol_gravity)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Gravity](protocol_gravity)
-Set: [Compile Main 1](set_MN01.md)
+

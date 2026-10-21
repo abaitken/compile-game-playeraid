@@ -1,3 +1,3 @@
 # Keyword: exchange
 
-- [Love](protocol_love)
+- [Protocol: Love](protocol_love)

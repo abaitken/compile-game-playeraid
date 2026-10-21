@@ -18,9 +18,12 @@ Draw 1 card.
 **End:** Lose control. If you did, delete 1 face-up card.
 ```
 
-## Keywords
+## Reference
 
-draw,control,delete,
+- [Protocol: Wrath](protocol_wrath)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: control](keyword_control.md)
+- [Keyword: delete](keyword_delete.md)
 
-Protocol: [Wrath](protocol_wrath)
-Set: [Compile Main 3](set_MN03.md)
+

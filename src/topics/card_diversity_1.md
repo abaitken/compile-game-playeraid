@@ -18,9 +18,9 @@ Shift 1 card. Draw cards equal to the number of different protocols in this line
 
 ```
 
-## Keywords
+## Reference
+
+- [Protocol: Diversity](protocol_diversity)
+- [Set: Compile AUX 02 (AX02)](set_AX02.md)
 
 
-
-Protocol: [Diversity](protocol_diversity)
-Set: [Compile AUX 02](set_AX02.md)

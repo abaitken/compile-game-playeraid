@@ -18,14 +18,16 @@ In each line, flip 1 covered card.
 **Start:** Draw the top card of your opponent's deck. Your opponent draws the top card of your deck.
 ```
 
-## Keywords
-
-flip,draw,
-
 ## Rules/FAQ
 
 {%include/rule_clari_chaos_0.md%}
 
 
-Protocol: [Chaos](protocol_chaos)
-Set: [Compile Main 2](set_MN02.md)
+## Reference
+
+- [Protocol: Chaos](protocol_chaos)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: draw](keyword_draw.md)
+
+

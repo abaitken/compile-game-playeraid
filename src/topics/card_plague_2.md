@@ -18,9 +18,10 @@ Dicard 1 or more cards. Your opponent discards the amount of cards discarded plu
 
 ```
 
-## Keywords
+## Reference
 
-discard,
+- [Protocol: Plague](protocol_plague)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Plague](protocol_plague)
-Set: [Compile Main 1](set_MN01.md)
+

@@ -18,9 +18,11 @@ Flip 1 covered card. Discard your entire deck.
 
 ```
 
-## Keywords
+## Reference
 
-flip,discard,
+- [Protocol: Time](protocol_time)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Time](protocol_time)
-Set: [Compile Main 2](set_MN02.md)
+

@@ -18,9 +18,10 @@ Your opponent discards 1 random card.
 
 ```
 
-## Keywords
+## Reference
 
-discard,
+- [Protocol: Fear](protocol_fear)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Fear](protocol_fear)
-Set: [Compile Main 2](set_MN02.md)
+

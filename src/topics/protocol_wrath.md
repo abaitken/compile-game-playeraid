@@ -1,9 +1,8 @@
 # Protocol: Wrath
 
-Set: [Compile Main 3](set_MN03.md)
 **Vengeful anger**
 
-[delete](keyword_delete.md),[face-down](keyword_face-down.md),
+delete,face-down,
 
 ## Cards
 
@@ -13,3 +12,10 @@ Set: [Compile Main 3](set_MN03.md)
 - [3](card_wrath_3.md)
 - [4](card_wrath_4.md)
 - [5](card_wrath_5.md)
+
+
+## Reference
+
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: delete](keyword_delete.md)
+- [Keyword: face-down](keyword_face-down.md)

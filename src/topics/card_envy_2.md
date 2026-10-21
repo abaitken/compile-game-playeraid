@@ -18,9 +18,10 @@ Draw cards equal to the number of cards in your opponent's hand.
 
 ```
 
-## Keywords
+## Reference
 
-draw,
+- [Protocol: Envy](protocol_envy)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Envy](protocol_envy)
-Set: [Compile Main 3](set_MN03.md)
+

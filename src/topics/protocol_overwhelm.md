@@ -1,9 +1,8 @@
 # Protocol: Overwhelm
 
-Set: [Compile Main 3](set_MN03.md)
 **Everything everywhere all at once**
 
-[play face-down](keyword_play face-down.md),[win more](keyword_win more.md),
+play face-down,win more,
 
 ## Cards
 
@@ -13,3 +12,10 @@ Set: [Compile Main 3](set_MN03.md)
 - [4](card_overwhelm_4.md)
 - [5](card_overwhelm_5.md)
 - [6](card_overwhelm_6.md)
+
+
+## Reference
+
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: play face-down](keyword_play face-down.md)
+- [Keyword: win more](keyword_win more.md)

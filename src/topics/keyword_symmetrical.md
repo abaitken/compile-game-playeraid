@@ -1,3 +1,3 @@
 # Keyword: symmetrical
 
-- [Inert](protocol_inert)
+- [Protocol: Inert](protocol_inert)

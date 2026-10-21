@@ -1,3 +1,3 @@
 # Keyword: clear cache
 
-- [Gluttony](protocol_gluttony)
+- [Protocol: Gluttony](protocol_gluttony)

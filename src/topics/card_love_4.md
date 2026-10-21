@@ -18,9 +18,11 @@ Reveal 1 card from your hand. Flip 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-flip,reveal,
+- [Protocol: Love](protocol_love)
+- [Set: Compile AUX 01 (AX01)](set_AX01.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: reveal](keyword_reveal.md)
 
-Protocol: [Love](protocol_love)
-Set: [Compile AUX 01](set_AX01.md)
+

@@ -18,9 +18,12 @@ If there are 5 or more Unity cards in the field, flip the Unity protocol to the 
 Unity cards may be played face-up in this line.
 ```
 
-## Keywords
+## Reference
 
-shift,compile,faceup,
+- [Protocol: Unity](protocol_unity)
+- [Set: Compile AUX 02 (AX02)](set_AX02.md)
+- [Keyword: shift](keyword_shift.md)
+- [Keyword: compile](keyword_compile.md)
+- [Keyword: faceup](keyword_faceup.md)
 
-Protocol: [Unity](protocol_unity)
-Set: [Compile AUX 02](set_AX02.md)
+

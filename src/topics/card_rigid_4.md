@@ -18,9 +18,10 @@
 **When this card would be covered by a face-down card:** First, draw 1 card.
 ```
 
-## Keywords
+## Reference
 
-draw,
+- [Protocol: Rigid](protocol_rigid)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Rigid](protocol_rigid)
-Set: [Compile AUX 03](set_AX03.md)
+

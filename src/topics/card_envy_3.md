@@ -18,9 +18,10 @@
 **After your opponent plays a card in this line:** Play the top card of your deck face-down in this line.
 ```
 
-## Keywords
+## Reference
 
-play,
+- [Protocol: Envy](protocol_envy)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Envy](protocol_envy)
-Set: [Compile Main 3](set_MN03.md)
+

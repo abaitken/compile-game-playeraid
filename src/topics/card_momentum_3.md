@@ -18,9 +18,10 @@ Draw 2 cards.
 
 ```
 
-## Keywords
+## Reference
 
-draw,
+- [Protocol: Momentum](protocol_momentum)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Momentum](protocol_momentum)
-Set: [Compile Main 3](set_MN03.md)
+

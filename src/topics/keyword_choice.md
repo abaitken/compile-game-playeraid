@@ -1,3 +1,3 @@
 # Keyword: choice
 
-- [Flexible](protocol_flexible)
+- [Protocol: Flexible](protocol_flexible)

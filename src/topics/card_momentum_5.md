@@ -18,9 +18,10 @@ Discard 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-discard,
+- [Protocol: Momentum](protocol_momentum)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Momentum](protocol_momentum)
-Set: [Compile Main 3](set_MN03.md)
+

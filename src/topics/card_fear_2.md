@@ -18,9 +18,10 @@ Return 1 of your opponent's cards.
 
 ```
 
-## Keywords
+## Reference
 
-return,
+- [Protocol: Fear](protocol_fear)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: return](keyword_return.md)
 
-Protocol: [Fear](protocol_fear)
-Set: [Compile Main 2](set_MN02.md)
+

@@ -18,9 +18,10 @@ Draw cards equal to the number of lines where you have a lower total value than 
 
 ```
 
-## Keywords
+## Reference
 
-draw,
+- [Protocol: Sloth](protocol_sloth)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Sloth](protocol_sloth)
-Set: [Compile Main 3](set_MN03.md)
+

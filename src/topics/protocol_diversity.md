@@ -1,7 +1,8 @@
 # Protocol: Diversity
 
-Set: [Compile AUX 02](set_AX02.md)
-[play](keyword_play.md),[compare](keyword_compare.md),[compile](keyword_compile.md),
+** TAGLINE MISSING **
+
+play,compare,compile,
 
 ## Cards
 
@@ -11,3 +12,11 @@ Set: [Compile AUX 02](set_AX02.md)
 - [4](card_diversity_4.md)
 - [5](card_diversity_5.md)
 - [6](card_diversity_6.md)
+
+
+## Reference
+
+- [Set: Compile AUX 02 (AX02)](set_AX02.md)
+- [Keyword: play](keyword_play.md)
+- [Keyword: compare](keyword_compare.md)
+- [Keyword: compile](keyword_compile.md)

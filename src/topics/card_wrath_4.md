@@ -18,9 +18,11 @@ Lose control. If you did, your opponent discards 2 cards.
 
 ```
 
-## Keywords
+## Reference
 
-discard,control,
+- [Protocol: Wrath](protocol_wrath)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: control](keyword_control.md)
 
-Protocol: [Wrath](protocol_wrath)
-Set: [Compile Main 3](set_MN03.md)
+

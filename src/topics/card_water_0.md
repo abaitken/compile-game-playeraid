@@ -18,9 +18,10 @@ Flip 1 other card. Flip this card.
 
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Water](protocol_water)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Water](protocol_water)
-Set: [Compile Main 1](set_MN01.md)
+

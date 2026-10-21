@@ -1,9 +1,8 @@
 # Protocol: Greed
 
-Set: [Compile Main 3](set_MN03.md)
 **I deserve that**
 
-[discard](keyword_discard.md),[repeating effects](keyword_repeating effects.md),
+discard,repeating effects,
 
 ## Cards
 
@@ -13,3 +12,10 @@ Set: [Compile Main 3](set_MN03.md)
 - [3](card_greed_3.md)
 - [4](card_greed_4.md)
 - [5](card_greed_5.md)
+
+
+## Reference
+
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: repeating effects](keyword_repeating effects.md)

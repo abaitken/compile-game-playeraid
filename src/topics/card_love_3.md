@@ -18,9 +18,11 @@ Take 1 random card from your opponent's hand. Give 1 card from your hand to your
 
 ```
 
-## Keywords
+## Reference
 
-give,take,
+- [Protocol: Love](protocol_love)
+- [Set: Compile AUX 01 (AX01)](set_AX01.md)
+- [Keyword: give](keyword_give.md)
+- [Keyword: take](keyword_take.md)
 
-Protocol: [Love](protocol_love)
-Set: [Compile AUX 01](set_AX01.md)
+

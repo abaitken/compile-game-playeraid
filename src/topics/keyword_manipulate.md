@@ -1,4 +1,4 @@
 # Keyword: manipulate
 
-- [Darkness](protocol_darkness)
-- [Psychic](protocol_psychic)
+- [Protocol: Darkness](protocol_darkness)
+- [Protocol: Psychic](protocol_psychic)

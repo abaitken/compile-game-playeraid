@@ -1,4 +1,4 @@
 # Keyword: play face-down
 
-- [Overwhelm](protocol_overwhelm)
-- [Rigid](protocol_rigid)
+- [Protocol: Overwhelm](protocol_overwhelm)
+- [Protocol: Rigid](protocol_rigid)

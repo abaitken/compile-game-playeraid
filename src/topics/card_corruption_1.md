@@ -18,9 +18,10 @@ Return 1 card.
 **When a card would be returned to your opponent's hand:** Put that card on top of their deck face-down instead.
 ```
 
-## Keywords
+## Reference
 
-return,
+- [Protocol: Corruption](protocol_corruption)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: return](keyword_return.md)
 
-Protocol: [Corruption](protocol_corruption)
-Set: [Compile Main 2](set_MN02.md)
+

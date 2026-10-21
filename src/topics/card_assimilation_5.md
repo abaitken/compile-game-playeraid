@@ -18,14 +18,15 @@ You discard 1 card.
 
 ```
 
-## Keywords
-
-discard,
-
 ## Rules/FAQ
 
 {%include/rule_you_discard.md%}
 
 
-Protocol: [Assimilation](protocol_assimilation)
-Set: [Compile AUX 02](set_AX02.md)
+## Reference
+
+- [Protocol: Assimilation](protocol_assimilation)
+- [Set: Compile AUX 02 (AX02)](set_AX02.md)
+- [Keyword: discard](keyword_discard.md)
+
+

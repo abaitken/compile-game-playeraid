@@ -1,3 +1,3 @@
 # Keyword: covered
 
-- [Chaos](protocol_chaos)
+- [Protocol: Chaos](protocol_chaos)

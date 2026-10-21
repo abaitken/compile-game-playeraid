@@ -18,14 +18,16 @@ Refresh. Draw 1 card.
 Skip your check cache phase.
 ```
 
-## Keywords
-
-draw,refresh,
-
 ## Rules/FAQ
 
 {%include/rule_clari_spirit_0.md%}
 
 
-Protocol: [Spirit](protocol_spirit)
-Set: [Compile Main 1](set_MN01.md)
+## Reference
+
+- [Protocol: Spirit](protocol_spirit)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: refresh](keyword_refresh.md)
+
+

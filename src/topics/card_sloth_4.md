@@ -18,9 +18,10 @@
 **When this card would be covered:** First, flip 1 face-up card.
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Sloth](protocol_sloth)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Sloth](protocol_sloth)
-Set: [Compile Main 3](set_MN03.md)
+

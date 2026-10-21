@@ -18,9 +18,12 @@ Your opponent reveals their hand.
 **When this card would be covered:** First, draw 3 cards.
 ```
 
-## Keywords
+## Reference
 
-discard,reveal,draw,
+- [Protocol: Clarity](protocol_clarity)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: reveal](keyword_reveal.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Clarity](protocol_clarity)
-Set: [Compile Main 2](set_MN02.md)
+

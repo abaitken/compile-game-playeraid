@@ -18,9 +18,11 @@ Reveal 1 card from your trash. Play it face-down in another line.
 
 ```
 
-## Keywords
+## Reference
 
-reveal,facedown,
+- [Protocol: Time](protocol_time)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: reveal](keyword_reveal.md)
+- [Keyword: facedown](keyword_facedown.md)
 
-Protocol: [Time](protocol_time)
-Set: [Compile Main 2](set_MN02.md)
+

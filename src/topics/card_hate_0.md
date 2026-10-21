@@ -18,9 +18,10 @@ Delete 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-delete,
+- [Protocol: Hate](protocol_hate)
+- [Set: Compile AUX 01 (AX01)](set_AX01.md)
+- [Keyword: delete](keyword_delete.md)
 
-Protocol: [Hate](protocol_hate)
-Set: [Compile AUX 01](set_AX01.md)
+

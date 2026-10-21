@@ -18,9 +18,10 @@ You total value in this line is increased by the value of your opponent's highes
 
 ```
 
-## Keywords
+## Reference
 
-opponent,
+- [Protocol: Envy](protocol_envy)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: opponent](keyword_opponent.md)
 
-Protocol: [Envy](protocol_envy)
-Set: [Compile Main 3](set_MN03.md)
+

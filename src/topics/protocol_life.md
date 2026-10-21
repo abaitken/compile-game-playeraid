@@ -1,7 +1,8 @@
 # Protocol: Life
 
-Set: [Compile Main 1](set_MN01.md)
-[flip](keyword_flip.md),[top deck play](keyword_top deck play.md),[draw](keyword_draw.md),
+** TAGLINE MISSING **
+
+flip,top deck play,draw,
 
 ## Cards
 
@@ -11,3 +12,11 @@ Set: [Compile Main 1](set_MN01.md)
 - [3](card_life_3.md)
 - [4](card_life_4.md)
 - [5](card_life_5.md)
+
+
+## Reference
+
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: top deck play](keyword_top deck play.md)
+- [Keyword: draw](keyword_draw.md)

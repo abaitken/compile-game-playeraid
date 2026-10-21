@@ -1,7 +1,8 @@
 # Protocol: War
 
-Set: [Compile Main 2](set_MN02.md)
-[react](keyword_react.md),[discard](keyword_discard.md),
+** TAGLINE MISSING **
+
+react,discard,
 
 ## Cards
 
@@ -11,3 +12,10 @@ Set: [Compile Main 2](set_MN02.md)
 - [3](card_war_3.md)
 - [4](card_war_4.md)
 - [5](card_war_5.md)
+
+
+## Reference
+
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: react](keyword_react.md)
+- [Keyword: discard](keyword_discard.md)

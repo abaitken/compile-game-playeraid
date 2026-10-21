@@ -18,9 +18,11 @@ Reveal your hand. Your opponent loses control.
 **After your opponent gains control:** Draw 1 card.
 ```
 
-## Keywords
+## Reference
 
-control,draw,
+- [Protocol: Lust](protocol_lust)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: control](keyword_control.md)
+- [Keyword: draw](keyword_draw.md)
 
-Protocol: [Lust](protocol_lust)
-Set: [Compile Main 3](set_MN03.md)
+

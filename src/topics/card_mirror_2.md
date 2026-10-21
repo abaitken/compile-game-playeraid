@@ -18,14 +18,15 @@ Swap all of your cards in one of your stacks with another one of your stacks.
 
 ```
 
-## Keywords
-
-swap,
-
 ## Rules/FAQ
 
 {%include/rule_clari_mirror_2.md%}
 
 
-Protocol: [Mirror](protocol_mirror)
-Set: [Compile Main 2](set_MN02.md)
+## Reference
+
+- [Protocol: Mirror](protocol_mirror)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: swap](keyword_swap.md)
+
+

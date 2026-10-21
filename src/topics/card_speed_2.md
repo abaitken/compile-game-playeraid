@@ -18,14 +18,15 @@
 
 ```
 
-## Keywords
-
-shift,
-
 ## Rules/FAQ
 
 {%include/rule_clari_speed_2.md%}
 
 
-Protocol: [Speed](protocol_speed)
-Set: [Compile Main 1](set_MN01.md)
+## Reference
+
+- [Protocol: Speed](protocol_speed)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: shift](keyword_shift.md)
+
+

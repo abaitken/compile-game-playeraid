@@ -18,9 +18,10 @@ If you have more cards in play than your opponent, delete your opponent's lowest
 
 ```
 
-## Keywords
+## Reference
 
-delete,
+- [Protocol: Overwhelm](protocol_overwhelm)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: delete](keyword_delete.md)
 
-Protocol: [Overwhelm](protocol_overwhelm)
-Set: [Compile Main 3](set_MN03.md)
+

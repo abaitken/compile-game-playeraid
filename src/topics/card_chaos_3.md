@@ -18,9 +18,10 @@
 This card may be played without matching protocols.
 ```
 
-## Keywords
+## Reference
 
-play,
+- [Protocol: Chaos](protocol_chaos)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Chaos](protocol_chaos)
-Set: [Compile Main 2](set_MN02.md)
+

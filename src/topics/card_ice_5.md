@@ -18,14 +18,15 @@ You discard 1 card.
 
 ```
 
-## Keywords
-
-discard,
-
 ## Rules/FAQ
 
 {%include/rule_you_discard.md%}
 
 
-Protocol: [Ice](protocol_ice)
-Set: [Compile Main 2](set_MN02.md)
+## Reference
+
+- [Protocol: Ice](protocol_ice)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: discard](keyword_discard.md)
+
+

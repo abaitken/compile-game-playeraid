@@ -18,9 +18,10 @@ Discard 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-discard,
+- [Protocol: Nova](protocol_nova)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: discard](keyword_discard.md)
 
-Protocol: [Nova](protocol_nova)
-Set: [Compile Main 3](set_MN03.md)
+

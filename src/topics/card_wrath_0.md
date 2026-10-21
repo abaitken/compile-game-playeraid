@@ -18,9 +18,10 @@ Play the top card of your deck face-down in this stack.
 
 ```
 
-## Keywords
+## Reference
 
-play,
+- [Protocol: Wrath](protocol_wrath)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Wrath](protocol_wrath)
-Set: [Compile Main 3](set_MN03.md)
+

@@ -18,9 +18,12 @@
 **After a player rearranges protocols:** Discard 1 card. Draw 1 card.
 ```
 
-## Keywords
+## Reference
 
-discard,draw,play,
+- [Protocol: Momentum](protocol_momentum)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Momentum](protocol_momentum)
-Set: [Compile Main 3](set_MN03.md)
+

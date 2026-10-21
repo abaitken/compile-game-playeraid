@@ -18,9 +18,10 @@ Return 1 of your cards.
 
 ```
 
-## Keywords
+## Reference
 
-return,
+- [Protocol: Water](protocol_water)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: return](keyword_return.md)
 
-Protocol: [Water](protocol_water)
-Set: [Compile Main 1](set_MN01.md)
+

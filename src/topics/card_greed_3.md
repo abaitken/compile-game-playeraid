@@ -18,9 +18,10 @@ Shift 1 of your covered cards in this stack.
 
 ```
 
-## Keywords
+## Reference
 
-shift,
+- [Protocol: Greed](protocol_greed)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: shift](keyword_shift.md)
 
-Protocol: [Greed](protocol_greed)
-Set: [Compile Main 3](set_MN03.md)
+

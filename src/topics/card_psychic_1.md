@@ -18,9 +18,11 @@ Your opponent can only play cards face-down.
 **Start:** Flip this card.
 ```
 
-## Keywords
+## Reference
 
-flip,facedown,
+- [Protocol: Psychic](protocol_psychic)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: flip](keyword_flip.md)
+- [Keyword: facedown](keyword_facedown.md)
 
-Protocol: [Psychic](protocol_psychic)
-Set: [Compile Main 1](set_MN01.md)
+

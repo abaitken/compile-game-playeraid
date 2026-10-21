@@ -18,15 +18,16 @@
 
 ```
 
-## Keywords
-
-delete,
-
 ## Rules/FAQ
 
 {%include/rule_clari_metal_6_0.md%}
 {%include/rule_clari_metal_6_1.md%}
 
 
-Protocol: [Metal](protocol_metal)
-Set: [Compile Main 1](set_MN01.md)
+## Reference
+
+- [Protocol: Metal](protocol_metal)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: delete](keyword_delete.md)
+
+

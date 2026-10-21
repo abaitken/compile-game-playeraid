@@ -18,9 +18,11 @@
 **After your opponent refreshes:** Discard any number of cards. Refresh.
 ```
 
-## Keywords
+## Reference
 
-discard,refresh,
+- [Protocol: War](protocol_war)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: refresh](keyword_refresh.md)
 
-Protocol: [War](protocol_war)
-Set: [Compile Main 2](set_MN02.md)
+

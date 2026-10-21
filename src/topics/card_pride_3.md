@@ -18,9 +18,10 @@ Flip 1 of your face-down cards.
 
 ```
 
-## Keywords
+## Reference
 
-flip,
+- [Protocol: Pride](protocol_pride)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Pride](protocol_pride)
-Set: [Compile Main 3](set_MN03.md)
+

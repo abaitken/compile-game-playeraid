@@ -18,9 +18,11 @@ Flip all of your other cards with a value of 0 and 1. Draw 1 card for each card 
 
 ```
 
-## Keywords
+## Reference
 
-draw,flip,
+- [Protocol: Ambush](protocol_ambush)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Ambush](protocol_ambush)
-Set: [Compile Main 3](set_MN03.md)
+

@@ -18,9 +18,11 @@ Flip 1 other card. Draw 2 cards.
 **When this card would be covered:** First, draw 1 card.Then, flip 1 other card.
 ```
 
-## Keywords
+## Reference
 
-draw,flip,
+- [Protocol: Fire](protocol_fire)
+- [Set: Compile Main 1 (MN01)](set_MN01.md)
+- [Keyword: draw](keyword_draw.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Fire](protocol_fire)
-Set: [Compile Main 1](set_MN01.md)
+

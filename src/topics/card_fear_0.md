@@ -18,9 +18,11 @@ Shift or flip 1 card.
 
 ```
 
-## Keywords
+## Reference
 
-shift,flip,
+- [Protocol: Fear](protocol_fear)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: shift](keyword_shift.md)
+- [Keyword: flip](keyword_flip.md)
 
-Protocol: [Fear](protocol_fear)
-Set: [Compile Main 2](set_MN02.md)
+

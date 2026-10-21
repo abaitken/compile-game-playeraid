@@ -18,9 +18,11 @@ Discard 1 card.
 This card cannot be flipped or shifted.
 ```
 
-## Keywords
+## Reference
 
-discard,play,
+- [Protocol: Rigid](protocol_rigid)
+- [Set: Compile AUX 03 (AX03)](set_AX03.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: play](keyword_play.md)
 
-Protocol: [Rigid](protocol_rigid)
-Set: [Compile AUX 03](set_AX03.md)
+

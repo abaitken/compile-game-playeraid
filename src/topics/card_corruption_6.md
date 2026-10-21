@@ -18,14 +18,16 @@
 
 ```
 
-## Keywords
-
-discard,delete,
-
 ## Rules/FAQ
 
 {%include/rule_clari_corruption_6.md%}
 
 
-Protocol: [Corruption](protocol_corruption)
-Set: [Compile Main 2](set_MN02.md)
+## Reference
+
+- [Protocol: Corruption](protocol_corruption)
+- [Set: Compile Main 2 (MN02)](set_MN02.md)
+- [Keyword: discard](keyword_discard.md)
+- [Keyword: delete](keyword_delete.md)
+
+

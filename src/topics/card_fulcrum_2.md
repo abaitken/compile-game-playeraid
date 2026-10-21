@@ -18,9 +18,10 @@ If you have exactly 2 cards in hand, delete 1 of your opponent's cards.
 
 ```
 
-## Keywords
+## Reference
 
-delete,
+- [Protocol: Fulcrum](protocol_fulcrum)
+- [Set: Compile Main 3 (MN03)](set_MN03.md)
+- [Keyword: delete](keyword_delete.md)
 
-Protocol: [Fulcrum](protocol_fulcrum)
-Set: [Compile Main 3](set_MN03.md)
+

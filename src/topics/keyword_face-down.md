@@ -1,7 +1,7 @@
 # Keyword: face-down
 
-- [Smoke](protocol_smoke)
-- [Wrath](protocol_wrath)
-- [Ambush](protocol_ambush)
-- [0](card_ambush_0.md)
-- [4](card_ambush_4.md)
+- [Protocol: Smoke](protocol_smoke)
+- [Protocol: Wrath](protocol_wrath)
+- [Card: Ambush 0](card_ambush_0.md)
+- [Card: Ambush 4](card_ambush_4.md)
+- [Protocol: Ambush](protocol_ambush)

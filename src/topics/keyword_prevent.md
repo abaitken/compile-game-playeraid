@@ -1,5 +1,5 @@
 # Keyword: prevent
 
-- [Metal](protocol_metal)
-- [Ice](protocol_ice)
-- [Rigid](protocol_rigid)
+- [Protocol: Metal](protocol_metal)
+- [Protocol: Ice](protocol_ice)
+- [Protocol: Rigid](protocol_rigid)

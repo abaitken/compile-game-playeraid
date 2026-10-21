@@ -1,3 +1,3 @@
 # Keyword: delete thiers and yours
 
-- [Hate](protocol_hate)
+- [Protocol: Hate](protocol_hate)

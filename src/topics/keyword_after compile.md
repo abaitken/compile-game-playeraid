@@ -1,3 +1,3 @@
 # Keyword: after compile
 
-- [Momentum](protocol_momentum)
+- [Protocol: Momentum](protocol_momentum)
