@@ -20,7 +20,7 @@ Draw 3 cards. Shift 1 of your opponent's covered cards.
 
 ## Reference
 
-- [Protocol: Darkness](protocol_darkness)
+- [Protocol: Darkness](protocol_darkness.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: draw](keyword_draw.md)
 - [Keyword: shift](keyword_shift.md)

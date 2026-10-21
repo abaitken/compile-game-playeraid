@@ -20,7 +20,7 @@ Draw 1 card. Discard 1 card.
 
 ## Reference
 
-- [Protocol: Corruption](protocol_corruption)
+- [Protocol: Corruption](protocol_corruption.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: discard](keyword_discard.md)
 - [Keyword: draw](keyword_draw.md)

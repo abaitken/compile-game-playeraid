@@ -20,7 +20,7 @@ Unity cards may be played face-up in this line.
 
 ## Reference
 
-- [Protocol: Unity](protocol_unity)
+- [Protocol: Unity](protocol_unity.md)
 - [Set: Compile AUX 02 (AX02)](set_AX02.md)
 - [Keyword: shift](keyword_shift.md)
 - [Keyword: compile](keyword_compile.md)

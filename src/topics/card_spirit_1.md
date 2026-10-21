@@ -20,7 +20,7 @@ Draw 2 cards.
 
 ## Reference
 
-- [Protocol: Spirit](protocol_spirit)
+- [Protocol: Spirit](protocol_spirit.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: discard](keyword_discard.md)
 - [Keyword: draw](keyword_draw.md)

@@ -1,3 +1,3 @@
 # Keyword: forced discard
 
-- [Protocol: Plague](protocol_plague)
+- [Protocol: Plague](protocol_plague.md)

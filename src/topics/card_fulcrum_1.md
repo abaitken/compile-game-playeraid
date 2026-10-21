@@ -20,7 +20,7 @@ Flip each other face-up card. Swap your left stack with your right stack.
 
 ## Reference
 
-- [Protocol: Fulcrum](protocol_fulcrum)
+- [Protocol: Fulcrum](protocol_fulcrum.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: flip](keyword_flip.md)
 - [Keyword: swap](keyword_swap.md)

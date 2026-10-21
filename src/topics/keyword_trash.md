@@ -1,3 +1,3 @@
 # Keyword: trash
 
-- [Protocol: Time](protocol_time)
+- [Protocol: Time](protocol_time.md)

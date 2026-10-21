@@ -20,7 +20,7 @@ If this card is covering a Nova card, you may rearrange your protocols. Else, ga
 
 ## Reference
 
-- [Protocol: Nova](protocol_nova)
+- [Protocol: Nova](protocol_nova.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: rearrange](keyword_rearrange.md)
 - [Keyword: shift](keyword_shift.md)

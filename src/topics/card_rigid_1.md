@@ -20,7 +20,7 @@ Flip 1 of your opponent's face-up cards.
 
 ## Reference
 
-- [Protocol: Rigid](protocol_rigid)
+- [Protocol: Rigid](protocol_rigid.md)
 - [Set: Compile AUX 03 (AX03)](set_AX03.md)
 - [Keyword: flip](keyword_flip.md)
 - [Keyword: play](keyword_play.md)

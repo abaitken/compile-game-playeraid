@@ -20,7 +20,7 @@ Draw 2 cards.
 
 ## Reference
 
-- [Protocol: Gluttony](protocol_gluttony)
+- [Protocol: Gluttony](protocol_gluttony.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: draw](keyword_draw.md)
 - [Keyword: delete](keyword_delete.md)

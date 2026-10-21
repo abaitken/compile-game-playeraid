@@ -20,7 +20,7 @@ The player with control swaps the positions of 2 of your protocols.
 
 ## Reference
 
-- [Protocol: Nova](protocol_nova)
+- [Protocol: Nova](protocol_nova.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: delete](keyword_delete.md)
 - [Keyword: swap](keyword_swap.md)

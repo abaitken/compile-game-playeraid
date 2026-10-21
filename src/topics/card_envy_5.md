@@ -20,7 +20,7 @@ Discard 1 card.
 
 ## Reference
 
-- [Protocol: Envy](protocol_envy)
+- [Protocol: Envy](protocol_envy.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: discard](keyword_discard.md)
 

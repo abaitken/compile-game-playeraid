@@ -1,3 +1,3 @@
 # Keyword: stay ahead
 
-- [Protocol: Pride](protocol_pride)
+- [Protocol: Pride](protocol_pride.md)

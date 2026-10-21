@@ -1,4 +1,4 @@
 # Keyword: compare
 
-- [Protocol: Courage](protocol_courage)
-- [Protocol: Diversity](protocol_diversity)
+- [Protocol: Courage](protocol_courage.md)
+- [Protocol: Diversity](protocol_diversity.md)

@@ -25,7 +25,7 @@ In each line, flip 1 covered card.
 
 ## Reference
 
-- [Protocol: Chaos](protocol_chaos)
+- [Protocol: Chaos](protocol_chaos.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: flip](keyword_flip.md)
 - [Keyword: draw](keyword_draw.md)

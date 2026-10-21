@@ -20,7 +20,7 @@
 
 ## Reference
 
-- [Protocol: Rigid](protocol_rigid)
+- [Protocol: Rigid](protocol_rigid.md)
 - [Set: Compile AUX 03 (AX03)](set_AX03.md)
 - [Keyword: draw](keyword_draw.md)
 

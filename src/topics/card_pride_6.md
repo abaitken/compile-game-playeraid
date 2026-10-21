@@ -20,7 +20,7 @@ If your opponent has control, flip this card
 
 ## Reference
 
-- [Protocol: Pride](protocol_pride)
+- [Protocol: Pride](protocol_pride.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: flip](keyword_flip.md)
 

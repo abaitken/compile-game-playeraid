@@ -20,7 +20,7 @@ Flip your opponent's highest value face-up covered card.
 
 ## Reference
 
-- [Protocol: Ambush](protocol_ambush)
+- [Protocol: Ambush](protocol_ambush.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: flip](keyword_flip.md)
 - [Keyword: opponent](keyword_opponent.md)

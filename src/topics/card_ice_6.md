@@ -25,7 +25,7 @@ If you have any cards in your hand, you cannot draw cards.
 
 ## Reference
 
-- [Protocol: Ice](protocol_ice)
+- [Protocol: Ice](protocol_ice.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 
 

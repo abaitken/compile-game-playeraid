@@ -20,7 +20,7 @@ Draw 1 card. Play 1 card face-down.
 
 ## Reference
 
-- [Protocol: Peace](protocol_peace)
+- [Protocol: Peace](protocol_peace.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: play](keyword_play.md)
 - [Keyword: facedown](keyword_facedown.md)

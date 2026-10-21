@@ -25,7 +25,7 @@ Flip 1 of your cards. Flip 1 of your opponent's cards in the same line.
 
 ## Reference
 
-- [Protocol: Mirror](protocol_mirror)
+- [Protocol: Mirror](protocol_mirror.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: flip](keyword_flip.md)
 

@@ -20,7 +20,7 @@ Draw cards equal to the number of lines where you have a lower total value than 
 
 ## Reference
 
-- [Protocol: Sloth](protocol_sloth)
+- [Protocol: Sloth](protocol_sloth.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: draw](keyword_draw.md)
 

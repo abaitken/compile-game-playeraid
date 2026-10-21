@@ -1,3 +1,3 @@
 # Keyword: discard for effect
 
-- [Protocol: Fire](protocol_fire)
+- [Protocol: Fire](protocol_fire.md)

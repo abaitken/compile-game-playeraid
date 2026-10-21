@@ -20,7 +20,7 @@
 
 ## Reference
 
-- [Protocol: Greed](protocol_greed)
+- [Protocol: Greed](protocol_greed.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: compile](keyword_compile.md)
 

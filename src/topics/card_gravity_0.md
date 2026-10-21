@@ -25,7 +25,7 @@ For every 2 cards in this line, play the top card of your deck face-down under t
 
 ## Reference
 
-- [Protocol: Gravity](protocol_gravity)
+- [Protocol: Gravity](protocol_gravity.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: play](keyword_play.md)
 - [Keyword: facedown](keyword_facedown.md)

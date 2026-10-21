@@ -25,7 +25,7 @@
 
 ## Reference
 
-- [Protocol: Corruption](protocol_corruption)
+- [Protocol: Corruption](protocol_corruption.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: discard](keyword_discard.md)
 - [Keyword: delete](keyword_delete.md)

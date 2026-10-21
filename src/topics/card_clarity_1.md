@@ -20,7 +20,7 @@ Your opponent reveals their hand.
 
 ## Reference
 
-- [Protocol: Clarity](protocol_clarity)
+- [Protocol: Clarity](protocol_clarity.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: discard](keyword_discard.md)
 - [Keyword: reveal](keyword_reveal.md)

@@ -1,3 +1,3 @@
 # Keyword: flip face-down
 
-- [Protocol: Apathy](protocol_apathy)
+- [Protocol: Apathy](protocol_apathy.md)

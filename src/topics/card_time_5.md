@@ -25,7 +25,7 @@ You discard 1 card.
 
 ## Reference
 
-- [Protocol: Time](protocol_time)
+- [Protocol: Time](protocol_time.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: discard](keyword_discard.md)
 

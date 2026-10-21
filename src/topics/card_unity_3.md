@@ -20,7 +20,7 @@ If there is another Unity card in the field, you may flip 1 face-up card.
 
 ## Reference
 
-- [Protocol: Unity](protocol_unity)
+- [Protocol: Unity](protocol_unity.md)
 - [Set: Compile AUX 02 (AX02)](set_AX02.md)
 - [Keyword: flip](keyword_flip.md)
 

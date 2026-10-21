@@ -20,7 +20,7 @@ Your total value in this line is increased by 1 for each face-down card in this 
 
 ## Reference
 
-- [Protocol: Smoke](protocol_smoke)
+- [Protocol: Smoke](protocol_smoke.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: facedown](keyword_facedown.md)
 

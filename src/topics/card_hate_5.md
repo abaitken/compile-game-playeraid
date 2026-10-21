@@ -25,7 +25,7 @@ You discard 1 card.
 
 ## Reference
 
-- [Protocol: Hate](protocol_hate)
+- [Protocol: Hate](protocol_hate.md)
 - [Set: Compile AUX 01 (AX01)](set_AX01.md)
 - [Keyword: discard](keyword_discard.md)
 

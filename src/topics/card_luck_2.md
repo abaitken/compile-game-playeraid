@@ -20,7 +20,7 @@ Discard the top card of your deck. Draw cards equal to the value of the discarde
 
 ## Reference
 
-- [Protocol: Luck](protocol_luck)
+- [Protocol: Luck](protocol_luck.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: discard](keyword_discard.md)
 - [Keyword: draw](keyword_draw.md)

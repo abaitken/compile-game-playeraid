@@ -20,7 +20,7 @@ Flip 1 face-up card.
 
 ## Reference
 
-- [Protocol: Wrath](protocol_wrath)
+- [Protocol: Wrath](protocol_wrath.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: flip](keyword_flip.md)
 

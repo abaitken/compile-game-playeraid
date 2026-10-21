@@ -20,7 +20,7 @@ Your opponent discards 1 random card.
 
 ## Reference
 
-- [Protocol: Fear](protocol_fear)
+- [Protocol: Fear](protocol_fear.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: discard](keyword_discard.md)
 

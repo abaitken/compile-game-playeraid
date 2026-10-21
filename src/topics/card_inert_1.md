@@ -20,7 +20,7 @@ All other cards in this line have no bottom command.
 
 ## Reference
 
-- [Protocol: Inert](protocol_inert)
+- [Protocol: Inert](protocol_inert.md)
 - [Set: Compile AUX 03 (AX03)](set_AX03.md)
 - [Keyword: discard](keyword_discard.md)
 

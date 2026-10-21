@@ -20,7 +20,7 @@ Draw cards equal to the number of lines where you have a total value that your o
 
 ## Reference
 
-- [Protocol: Pride](protocol_pride)
+- [Protocol: Pride](protocol_pride.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: draw](keyword_draw.md)
 

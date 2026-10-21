@@ -26,7 +26,7 @@ Flip 1 card. Draw cards equal to that card's value.
 
 ## Reference
 
-- [Protocol: Light](protocol_light)
+- [Protocol: Light](protocol_light.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: draw](keyword_draw.md)
 - [Keyword: flip](keyword_flip.md)

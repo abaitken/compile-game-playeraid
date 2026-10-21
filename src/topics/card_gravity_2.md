@@ -25,7 +25,7 @@ Flip 1 card. Shift that card to this line.
 
 ## Reference
 
-- [Protocol: Gravity](protocol_gravity)
+- [Protocol: Gravity](protocol_gravity.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: flip](keyword_flip.md)
 - [Keyword: shift](keyword_shift.md)

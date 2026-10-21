@@ -25,7 +25,7 @@ Rearrange your protocols. Rearrange your opponent's protocols.
 
 ## Reference
 
-- [Protocol: Chaos](protocol_chaos)
+- [Protocol: Chaos](protocol_chaos.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: rearrange](keyword_rearrange.md)
 

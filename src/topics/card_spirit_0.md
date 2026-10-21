@@ -25,7 +25,7 @@ Skip your check cache phase.
 
 ## Reference
 
-- [Protocol: Spirit](protocol_spirit)
+- [Protocol: Spirit](protocol_spirit.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: draw](keyword_draw.md)
 - [Keyword: refresh](keyword_refresh.md)

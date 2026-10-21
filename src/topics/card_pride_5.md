@@ -20,7 +20,7 @@ Discard 1 card.
 
 ## Reference
 
-- [Protocol: Pride](protocol_pride)
+- [Protocol: Pride](protocol_pride.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: discard](keyword_discard.md)
 

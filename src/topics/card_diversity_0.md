@@ -20,7 +20,7 @@ If there are 6 different protocols on cards in the field, flip the Diversity pro
 
 ## Reference
 
-- [Protocol: Diversity](protocol_diversity)
+- [Protocol: Diversity](protocol_diversity.md)
 - [Set: Compile AUX 02 (AX02)](set_AX02.md)
 
 

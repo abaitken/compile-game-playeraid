@@ -1,3 +1,3 @@
 # Keyword: catch up
 
-- [Protocol: Envy](protocol_envy)
+- [Protocol: Envy](protocol_envy.md)

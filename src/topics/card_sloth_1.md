@@ -20,7 +20,7 @@ Return 1 other card. If the returned card is one of your cards, refresh.
 
 ## Reference
 
-- [Protocol: Sloth](protocol_sloth)
+- [Protocol: Sloth](protocol_sloth.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: return](keyword_return.md)
 - [Keyword: play](keyword_play.md)

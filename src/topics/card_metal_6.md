@@ -26,7 +26,7 @@
 
 ## Reference
 
-- [Protocol: Metal](protocol_metal)
+- [Protocol: Metal](protocol_metal.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: delete](keyword_delete.md)
 

@@ -20,7 +20,7 @@ Play 1 card face-down in another line.
 
 ## Reference
 
-- [Protocol: Darkness](protocol_darkness)
+- [Protocol: Darkness](protocol_darkness.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: play](keyword_play.md)
 - [Keyword: facedown](keyword_facedown.md)

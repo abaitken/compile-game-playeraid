@@ -20,7 +20,7 @@ Draw 1 card.
 
 ## Reference
 
-- [Protocol: Courage](protocol_courage)
+- [Protocol: Courage](protocol_courage.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: draw](keyword_draw.md)
 

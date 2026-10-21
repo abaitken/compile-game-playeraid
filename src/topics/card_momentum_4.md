@@ -20,7 +20,7 @@ Rearrange your protocols.
 
 ## Reference
 
-- [Protocol: Momentum](protocol_momentum)
+- [Protocol: Momentum](protocol_momentum.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: rearrange](keyword_rearrange.md)
 

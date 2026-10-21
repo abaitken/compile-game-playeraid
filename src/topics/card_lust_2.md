@@ -20,7 +20,7 @@ Your cards may be played in this stack without matching protocols.
 
 ## Reference
 
-- [Protocol: Lust](protocol_lust)
+- [Protocol: Lust](protocol_lust.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: shift](keyword_shift.md)
 

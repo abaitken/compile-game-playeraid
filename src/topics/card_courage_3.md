@@ -25,7 +25,7 @@
 
 ## Reference
 
-- [Protocol: Courage](protocol_courage)
+- [Protocol: Courage](protocol_courage.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: shift](keyword_shift.md)
 

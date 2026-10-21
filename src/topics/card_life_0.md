@@ -26,7 +26,7 @@ Play the top card of your deck face-down in each line where you have a card.
 
 ## Reference
 
-- [Protocol: Life](protocol_life)
+- [Protocol: Life](protocol_life.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: delete](keyword_delete.md)
 - [Keyword: play](keyword_play.md)

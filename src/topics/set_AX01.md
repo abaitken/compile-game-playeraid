@@ -2,6 +2,6 @@
 
 ## Protocols
 
-- [Apathy](protocol_apathy.md)
-- [Hate](protocol_hate.md)
-- [Love](protocol_love.md)
+- [Apathy](protocol_apathy.md.md)
+- [Hate](protocol_hate.md.md)
+- [Love](protocol_love.md.md)

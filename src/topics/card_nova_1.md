@@ -20,7 +20,7 @@ Your opponent discards cards equal to the number of cards in this stack.
 
 ## Reference
 
-- [Protocol: Nova](protocol_nova)
+- [Protocol: Nova](protocol_nova.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: discard](keyword_discard.md)
 

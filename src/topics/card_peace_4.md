@@ -20,7 +20,7 @@
 
 ## Reference
 
-- [Protocol: Peace](protocol_peace)
+- [Protocol: Peace](protocol_peace.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: discard](keyword_discard.md)
 - [Keyword: draw](keyword_draw.md)

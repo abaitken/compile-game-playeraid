@@ -20,7 +20,7 @@ Draw cards equal to the number of cards in your hand.
 
 ## Reference
 
-- [Protocol: Gluttony](protocol_gluttony)
+- [Protocol: Gluttony](protocol_gluttony.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: draw](keyword_draw.md)
 

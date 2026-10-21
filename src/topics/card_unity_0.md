@@ -20,7 +20,7 @@ If there is another Unity card in the field, either flip 1 card or draw 1 card.
 
 ## Reference
 
-- [Protocol: Unity](protocol_unity)
+- [Protocol: Unity](protocol_unity.md)
 - [Set: Compile AUX 02 (AX02)](set_AX02.md)
 - [Keyword: discard](keyword_discard.md)
 - [Keyword: flip](keyword_flip.md)

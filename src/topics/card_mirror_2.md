@@ -25,7 +25,7 @@ Swap all of your cards in one of your stacks with another one of your stacks.
 
 ## Reference
 
-- [Protocol: Mirror](protocol_mirror)
+- [Protocol: Mirror](protocol_mirror.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: swap](keyword_swap.md)
 

@@ -25,7 +25,7 @@ State a number. Draw 3 cards. Reveal 1 card drawn with the face-up value of your
 
 ## Reference
 
-- [Protocol: Luck](protocol_luck)
+- [Protocol: Luck](protocol_luck.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: draw](keyword_draw.md)
 - [Keyword: reveal](keyword_reveal.md)

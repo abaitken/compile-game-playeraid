@@ -20,7 +20,7 @@ Shift 1 card with a value less than the number of cards in this stack.
 
 ## Reference
 
-- [Protocol: Nova](protocol_nova)
+- [Protocol: Nova](protocol_nova.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: shift](keyword_shift.md)
 

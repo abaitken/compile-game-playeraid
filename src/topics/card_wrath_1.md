@@ -20,7 +20,7 @@ Draw 1 card.
 
 ## Reference
 
-- [Protocol: Wrath](protocol_wrath)
+- [Protocol: Wrath](protocol_wrath.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: draw](keyword_draw.md)
 - [Keyword: control](keyword_control.md)

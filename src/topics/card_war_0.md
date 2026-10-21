@@ -20,7 +20,7 @@
 
 ## Reference
 
-- [Protocol: War](protocol_war)
+- [Protocol: War](protocol_war.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: refresh](keyword_refresh.md)
 - [Keyword: flip](keyword_flip.md)

@@ -20,7 +20,7 @@ Discard 1 card.
 
 ## Reference
 
-- [Protocol: Rigid](protocol_rigid)
+- [Protocol: Rigid](protocol_rigid.md)
 - [Set: Compile AUX 03 (AX03)](set_AX03.md)
 - [Keyword: discard](keyword_discard.md)
 

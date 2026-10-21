@@ -20,7 +20,7 @@
 
 ## Reference
 
-- [Protocol: Plague](protocol_plague)
+- [Protocol: Plague](protocol_plague.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: delete](keyword_delete.md)
 - [Keyword: flip](keyword_flip.md)

@@ -20,7 +20,7 @@ You may flip 1 covered card in this line.
 
 ## Reference
 
-- [Protocol: Darkness](protocol_darkness)
+- [Protocol: Darkness](protocol_darkness.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: flip](keyword_flip.md)
 - [Keyword: facedown](keyword_facedown.md)

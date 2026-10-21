@@ -20,7 +20,7 @@ If there are any cards in your trash, you may shuffle your trash into your deck.
 
 ## Reference
 
-- [Protocol: Time](protocol_time)
+- [Protocol: Time](protocol_time.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: draw](keyword_draw.md)
 - [Keyword: shift](keyword_shift.md)

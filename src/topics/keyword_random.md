@@ -1,3 +1,3 @@
 # Keyword: random
 
-- [Protocol: Luck](protocol_luck)
+- [Protocol: Luck](protocol_luck.md)

@@ -20,7 +20,7 @@ Flip 1 card.
 
 ## Reference
 
-- [Protocol: Metal](protocol_metal)
+- [Protocol: Metal](protocol_metal.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: flip](keyword_flip.md)
 

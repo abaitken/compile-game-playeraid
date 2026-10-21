@@ -20,7 +20,7 @@ Flip 1 card with a value less than the number of different protocols on cards in
 
 ## Reference
 
-- [Protocol: Diversity](protocol_diversity)
+- [Protocol: Diversity](protocol_diversity.md)
 - [Set: Compile AUX 02 (AX02)](set_AX02.md)
 - [Keyword: flip](keyword_flip.md)
 

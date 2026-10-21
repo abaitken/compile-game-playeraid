@@ -1,3 +1,3 @@
 # Keyword: repeating effects
 
-- [Protocol: Greed](protocol_greed)
+- [Protocol: Greed](protocol_greed.md)

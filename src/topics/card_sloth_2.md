@@ -20,7 +20,7 @@ Flip 1 of your covered cards.
 
 ## Reference
 
-- [Protocol: Sloth](protocol_sloth)
+- [Protocol: Sloth](protocol_sloth.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: flip](keyword_flip.md)
 

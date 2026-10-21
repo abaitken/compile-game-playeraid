@@ -20,7 +20,7 @@ Reveal your deck. Draw 1 card with a value of 5 revealed this way. Shuffle your 
 
 ## Reference
 
-- [Protocol: Clarity](protocol_clarity)
+- [Protocol: Clarity](protocol_clarity.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: reveal](keyword_reveal.md)
 - [Keyword: draw](keyword_draw.md)

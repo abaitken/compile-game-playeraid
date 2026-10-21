@@ -20,7 +20,7 @@ Draw 2 cards. Rearrange your protocols.
 
 ## Reference
 
-- [Protocol: Water](protocol_water)
+- [Protocol: Water](protocol_water.md)
 - [Set: Compile Main 1 (MN01)](set_MN01.md)
 - [Keyword: draw](keyword_draw.md)
 - [Keyword: rearrange](keyword_rearrange.md)

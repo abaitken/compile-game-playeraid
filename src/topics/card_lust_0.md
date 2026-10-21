@@ -20,7 +20,7 @@ Your opponent can't compile if you have control.
 
 ## Reference
 
-- [Protocol: Lust](protocol_lust)
+- [Protocol: Lust](protocol_lust.md)
 - [Set: Compile Main 3 (MN03)](set_MN03.md)
 - [Keyword: control](keyword_control.md)
 

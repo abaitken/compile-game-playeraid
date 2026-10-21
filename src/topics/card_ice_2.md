@@ -20,7 +20,7 @@ Shift 1 other card.
 
 ## Reference
 
-- [Protocol: Ice](protocol_ice)
+- [Protocol: Ice](protocol_ice.md)
 - [Set: Compile Main 2 (MN02)](set_MN02.md)
 - [Keyword: shift](keyword_shift.md)
 
