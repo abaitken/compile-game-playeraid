@@ -1,4 +1,3 @@
-import { FAQModal } from "./FAQModal.js";
 import { ProtocolModel } from "./ProtocolModel.js";
 
 export class CardListViewModel {
@@ -13,12 +12,6 @@ export class CardListViewModel {
 
             return data.protocols.map(item => new ProtocolModel(item, data.sets, this.selectionHandler));
         }, this);
-
-        this.faqModal = new FAQModal(this.data);
-    }
-
-    showFAQ(args) {
-        this.faqModal.open(args);
     }
 
     init() {
