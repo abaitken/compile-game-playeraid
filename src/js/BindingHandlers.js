@@ -1,4 +1,4 @@
-import { marked } from 'https://cdnjs.cloudflare.com/ajax/libs/marked/16.3.0/lib/marked.esm.min.js';
+import { marked } from 'https://cdnjs.cloudflare.com/ajax/libs/marked/18.1.1/lib/marked.esm.min.js';
 import { TooltipHandler } from './TooltipHandler.js';
 
 export class BindingHandlers {
