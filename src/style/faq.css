@@ -25,3 +25,9 @@ h1.page-title {
     margin: 0px;
     padding: 0px;
 }
+
+.error {
+    color: white;
+    font-weight: bold;
+    background-color: red;
+}

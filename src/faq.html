@@ -15,6 +15,9 @@
 <body>
   <h1 class="page-title">Compile Player Aid - FAQ</h1>
   <div class="navigation"><a href="#index">Index</a></div>
+  <!-- ko if: error().length != 0 -->
+  <div class="error" data-bind="text: error"></div>
+  <!-- /ko -->
   <div class="content-panel" data-bind="markdown: topicContent"></div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js" type="text/javascript"></script>

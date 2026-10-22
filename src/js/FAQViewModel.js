@@ -7,6 +7,7 @@ export class FAQViewModel {
         this.topicContent = ko.observable(`
 # No topic loaded
         `);
+        this.error = ko.observable('');
     }
     
     // NOTE : Couldn't get the markdown renderer to work
@@ -19,7 +20,8 @@ export class FAQViewModel {
             const file = match[1].trim();
 
             const content = await fetch(TOPIC_ROOT + file)
-                .then(r => r.text());
+                .then(r => r.text())
+                .catch(err => 'Error loading: ' + err);
 
             subject = subject.replace(match[0], content + '\n');
         }
@@ -29,6 +31,7 @@ export class FAQViewModel {
     
     loadtopic(id) {
         let self = this;
+        self.error('');
         fetch(`${TOPIC_ROOT}${id}.md`)
             .then(response => {
                 if (!response.ok) {
@@ -43,7 +46,8 @@ export class FAQViewModel {
                 this.topicContent(data);
             })
             .catch(err => {
-                console.error('Failed to load JSON:', err);
+                self.error('Failed to load topic:' + err);
+                console.error('Failed to load topic:', err);
             });
     }
     
