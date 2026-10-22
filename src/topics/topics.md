@@ -321,6 +321,7 @@
 - [Keyword: take](keyword_take.md)
 - [Keyword: top deck play](keyword_top_deck_play.md)
 - [Keyword: trash](keyword_trash.md)
+- [Keyword: uncovered](keyword_uncovered.md)
 - [Keyword: win more](keyword_win_more.md)
 - [Keywords](keywords.md)
 - [Protocol: Ambush](protocol_ambush.md)

@@ -42,14 +42,14 @@ def sort_markdown_list(filename):
 
     print(f"Sorted list items {start + 1}-{end + 1} in {filename}")
 
-def regenerate_all_topics():
+def regenerate_topics(file_name, title, filter):
     topics_dir = Path("../src/topics")
-    output_file = Path("../src/topics/topics.md")
+    output_file = Path(file_name)
 
     with output_file.open("w", encoding="utf-8") as out:
-        out.write(f"# All topics\n\n")
+        out.write(f"# {title}\n\n")
         
-        for md_file in sorted(topics_dir.glob("*.md")):
+        for md_file in sorted(topics_dir.glob(filter)):
             if md_file.name == output_file.name:
                 continue
             
@@ -68,11 +68,19 @@ def main():
         print(file_path)
         sort_markdown_list(file_path)
         
+    regenerate_topics("../src/topics/keywords.md", "Keywords", "keyword_*.md")
+        
     for file_path in Path("../src/topics/").glob("keywords.md"):
         print(file_path)
         sort_markdown_list(file_path)
+        
+    regenerate_topics("../src/topics/protocols.md", "Protocols", "protocol_*.md")
+        
+    for file_path in Path("../src/topics/").glob("protocols.md"):
+        print(file_path)
+        sort_markdown_list(file_path)
 
-    regenerate_all_topics()
+    regenerate_topics("../src/topics/topics.md", "All topics", "*.md")
         
     for file_path in Path("../src/topics/").glob("topics.md"):
         print(file_path)
