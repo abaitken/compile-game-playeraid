@@ -82,7 +82,7 @@ export class FAQViewModel {
         };
         
         ko.applyBindings(this);
-        this.loadtopic('index');
+        this.navigationChanged(window.location.hash);
     }
 }
 
