@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw the top card of your opponent's deck.
-```
 
 ### Bottom
 
-```
 **End:** You may give 1 card from your hand to your opponent. If you do, draw 2 cards.
-```
 
 ## Reference
 

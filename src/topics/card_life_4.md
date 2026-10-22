@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 If this card is covering a card, draw 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Discard 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 Your opponent cannot play cards face-down in this line.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

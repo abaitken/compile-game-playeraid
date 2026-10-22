@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **After you discard cards:** Your opponent discards 1 card.
-```
 
 ### Middle
 
-```
 Draw 1 card. Discard 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

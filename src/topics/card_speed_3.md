@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Shift 1 of your other cards.
-```
 
 ### Bottom
 
-```
 **End:** You may shift 1 of your cards. If you do, flip this card.
-```
 
 ## Reference
 

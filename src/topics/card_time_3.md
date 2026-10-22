@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Reveal 1 card from your trash. Play it face-down in another line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

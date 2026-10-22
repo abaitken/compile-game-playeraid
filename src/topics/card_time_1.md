@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip 1 covered card. Discard your entire deck.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

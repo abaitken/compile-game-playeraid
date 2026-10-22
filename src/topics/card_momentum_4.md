@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Rearrange your protocols.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

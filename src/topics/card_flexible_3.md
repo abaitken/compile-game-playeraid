@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Shift 1 of your opponent's cards or swap 2 of your protocols.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

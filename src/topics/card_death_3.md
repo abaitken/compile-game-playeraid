@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Delete 1 face-down card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

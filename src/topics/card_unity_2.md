@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw cards equal to the number of Unity cards in the field.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

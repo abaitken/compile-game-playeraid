@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **After you clear cache:** Draw 1 card.
-```
 
 ### Middle
 
-```
 Draw 2 cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

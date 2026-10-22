@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 2 cards. Your opponent discards 2 cards, then reveals their hand.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

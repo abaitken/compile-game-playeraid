@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **End:** You may resolve the middle command of 1 of your opponent's cards as if it were on this card.
-```
 
 ## Rules/FAQ
 

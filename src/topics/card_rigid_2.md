@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **After you use your action to play a card face-down:** Play the top card of your deck face-down in the same stack.
-```
 
 ## Reference
 

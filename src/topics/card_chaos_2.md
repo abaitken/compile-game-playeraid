@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Shift 1 of your covered cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

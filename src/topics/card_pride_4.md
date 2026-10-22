@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 If you have control, you may shift 1 of your opponent's cards to this line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

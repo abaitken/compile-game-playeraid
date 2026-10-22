@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Lose control. If you did, your opponent discards 2 cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

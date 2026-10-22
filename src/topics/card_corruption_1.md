@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Return 1 card.
-```
 
 ### Bottom
 
-```
 **When a card would be returned to your opponent's hand:** Put that card on top of their deck face-down instead.
-```
 
 ## Reference
 

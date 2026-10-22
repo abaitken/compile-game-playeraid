@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Play 1 card face-down directly under this card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

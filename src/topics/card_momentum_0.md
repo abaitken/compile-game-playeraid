@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Play the top card of your deck face-down in each line with a compiled protocol.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Swap the positions of 2 of your protocols
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 Your total value in this line is increased by 1 for each card in your hand.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

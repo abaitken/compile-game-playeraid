@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 If you have more then 1 card in your hand, flip this card
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

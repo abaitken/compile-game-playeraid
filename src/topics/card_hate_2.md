@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Delete your highest value uncovered card. Delete your opponent's highest value uncovered card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

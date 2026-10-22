@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Put 1 of your opponent's covered or uncovered face-down cards into your hand.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

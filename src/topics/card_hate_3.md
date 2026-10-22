@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **After you delete cards:** Draw 1 card.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 You may shift this card.
-```
 
 ### Bottom
 
-```
 **After your opponent plays a card in this line:** Your opponent discards 1 card.
-```
 
 ## Reference
 

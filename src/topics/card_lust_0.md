@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 Each player's total value in this line is increased by 10.
-```
 
 ### Middle
 
-```
 Gain control.
-```
 
 ### Bottom
 
-```
 Your opponent can't compile if you have control.
-```
 
 ## Reference
 

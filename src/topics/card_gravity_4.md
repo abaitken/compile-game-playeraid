@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Shift 1 face-down card to this line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

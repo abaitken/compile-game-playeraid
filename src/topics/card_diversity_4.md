@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip 1 card with a value less than the number of different protocols on cards in the field.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

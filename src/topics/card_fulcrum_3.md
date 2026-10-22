@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 1 card. Swap the positions of your left and right protocols.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

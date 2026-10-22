@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Delete all cards in 1 line with values of 1 or 2.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

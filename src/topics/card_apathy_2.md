@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 Ignore all middle commands of cards in this line.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **When this card would be covered:** First, flip this card.
-```
 
 ## Reference
 

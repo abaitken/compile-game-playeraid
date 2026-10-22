@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip 1 card. Draw cards equal to that card's value.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

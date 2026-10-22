@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 When you play cards face-up, they may be played without matching protocols.
-```
 
 ### Middle
 
-```
 Draw 2 cards.
-```
 
 ### Bottom
 
-```
 **Start:** Either discard 1 card or flip this card.
-```
 
 ## Reference
 

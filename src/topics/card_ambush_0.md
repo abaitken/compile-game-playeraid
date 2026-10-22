@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 3 cards. Flip 1 of your face-down cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

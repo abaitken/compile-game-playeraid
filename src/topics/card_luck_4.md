@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Discard the top card of your deck. Delete 1 covered or uncovered card that shares a value with the discarded card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

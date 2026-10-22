@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip each other face-up card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

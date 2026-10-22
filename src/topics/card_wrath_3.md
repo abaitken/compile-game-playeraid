@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip 1 face-up card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

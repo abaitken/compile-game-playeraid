@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 3 cards. Shift 1 of your opponent's covered cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

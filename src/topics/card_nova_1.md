@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent discards cards equal to the number of cards in this stack.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 Your opponent's total value in this line is reduced by 2.
-```
 
 ### Middle
 
-```
 Flip 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

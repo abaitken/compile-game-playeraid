@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw the top card of your opponent's deck. Your opponent draws the top card of your deck.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

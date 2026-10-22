@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 2 cards. Your opponent cannot compile on their next turn.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

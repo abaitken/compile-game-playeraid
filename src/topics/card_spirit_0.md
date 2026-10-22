@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Refresh. Draw 1 card.
-```
 
 ### Bottom
 
-```
 Skip your check cache phase.
-```
 
 ## Rules/FAQ
 

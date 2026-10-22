@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip each other face-up card. Swap your left stack with your right stack.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

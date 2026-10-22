@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 1 card.
-```
 
 ### Bottom
 
-```
 **After your opponent discards cards:** You may play 1 card face-down.
-```
 
 ## Reference
 

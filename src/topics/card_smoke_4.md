@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Shift 1 covered face-down card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

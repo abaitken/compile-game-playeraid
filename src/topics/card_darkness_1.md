@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip 1 of your opponent's cards. You may shift that card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

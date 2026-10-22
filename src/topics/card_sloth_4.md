@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **When this card would be covered:** First, flip 1 face-up card.
-```
 
 ## Reference
 

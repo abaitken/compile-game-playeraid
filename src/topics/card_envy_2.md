@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw cards equal to the number of cards in your opponent's hand.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 You may shuffle your trash into your deck.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

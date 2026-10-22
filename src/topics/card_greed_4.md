@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 You may discard your hand. If you did, flip 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

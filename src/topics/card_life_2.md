@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 1 card. You may flip 1 face-down card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **End:** If this card is covered by a face-up card, delete that card.
-```
 
 ### Middle
 
-```
 Draw 2 cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

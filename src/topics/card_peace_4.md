@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **After you discard cards during your opponent's turn:** Draw 1 card.
-```
 
 ## Reference
 

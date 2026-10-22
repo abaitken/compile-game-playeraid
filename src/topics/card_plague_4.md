@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **End:** Your opponent deletes 1 of their face-down cards. You may flip this card.
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **After your opponent gains control:** Flip this card
-```
 
 ### Middle
 
-```
 If your opponent has control, flip this card
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

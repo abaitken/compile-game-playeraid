@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 All face-down cards in this stack have a value of 4.
-```
 
 ### Middle
 
-```
 You may flip 1 covered card in this line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

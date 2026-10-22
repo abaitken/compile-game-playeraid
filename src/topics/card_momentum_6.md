@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **After a player compiles:** Delete this card.
-```
 
 ### Middle
 
-```
 Discard 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

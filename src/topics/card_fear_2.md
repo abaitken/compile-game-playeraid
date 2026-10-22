@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Return 1 of your opponent's cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

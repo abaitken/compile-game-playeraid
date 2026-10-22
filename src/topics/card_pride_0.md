@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **After you compile:** Refresh
-```
 
 ### Middle
 
-```
 If you have control, shift 1 other card. Else, shift 1 of your cards
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

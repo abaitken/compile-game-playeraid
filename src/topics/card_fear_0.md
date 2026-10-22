@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 During your turn, your opponent's cards do not have middle commands.
-```
 
 ### Middle
 
-```
 Shift or flip 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Discard your deck. Your opponent discards thier deck.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

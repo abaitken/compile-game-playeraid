@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Delete 1 card from each other line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

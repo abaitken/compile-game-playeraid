@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Play 1 card from your trash. Shuffle your trash into your deck.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

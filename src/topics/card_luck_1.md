@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Play the top card of your deck face-down. Flip that card, ignoring its middle commands.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

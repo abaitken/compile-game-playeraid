@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 You may shift 1 of your opponent's covered cards to this line.
-```
 
 ### Bottom
 
-```
 Your cards may be played in this stack without matching protocols.
-```
 
 ## Reference
 

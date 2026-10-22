@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip your opponent's highest value face-up covered card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

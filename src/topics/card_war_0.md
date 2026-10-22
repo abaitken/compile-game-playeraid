@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **After you refresh:** You may flip this card.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **After your opponent draws cards:** You may delete 1 card.
-```
 
 ## Reference
 

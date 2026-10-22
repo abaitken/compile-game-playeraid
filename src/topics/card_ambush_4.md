@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 1 card if you have an uncovered face-down card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

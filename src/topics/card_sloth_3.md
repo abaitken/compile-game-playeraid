@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent dicards 2 cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

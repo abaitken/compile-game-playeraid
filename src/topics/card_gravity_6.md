@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent plays the top card of their deck face-down in this line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

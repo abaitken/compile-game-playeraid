@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **When this card would be covered by a face-down card:** First, draw 1 card.
-```
 
 ## Reference
 

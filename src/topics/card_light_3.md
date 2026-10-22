@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Shift all face-down cards in this line to another line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

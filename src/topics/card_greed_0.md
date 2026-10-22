@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Discard your hand. Delete 1 card.
-```
 
 ### Bottom
 
-```
 **After you delete cards:** Draw 1 card.
-```
 
 ## Reference
 

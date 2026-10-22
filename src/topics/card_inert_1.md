@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent discards 2 cards.
-```
 
 ### Bottom
 
-```
 All other cards in this line have no bottom command.
-```
 
 ## Reference
 

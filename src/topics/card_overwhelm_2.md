@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **End:** Play the top card of your deck face-down in each line. Flip this card.
-```
 
 ### Middle
 
-```
 Your opponent plays the top card of thier deck face-down in each line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

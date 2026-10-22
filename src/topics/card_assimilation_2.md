@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **End:** Play the top card of your opponent's deck face down in this stack.  
-```
 
 ## Reference
 

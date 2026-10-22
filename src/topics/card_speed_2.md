@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **When this card would be deleted by compiling:** Shift this card, even if this card is covered.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

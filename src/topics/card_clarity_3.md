@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Reveal your deck. Draw 1 card with a value of 5 revealed this way. Shuffle your deck.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

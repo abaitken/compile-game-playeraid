@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent draws 2 cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

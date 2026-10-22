@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **After you clear cache:** Play the top card of your deck face-down.
-```
 
 ### Middle
 
-```
 Return 1 other card. Draw 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

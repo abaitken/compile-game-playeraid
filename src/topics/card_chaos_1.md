@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Rearrange your protocols. Rearrange your opponent's protocols.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

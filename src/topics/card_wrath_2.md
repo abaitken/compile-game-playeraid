@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip all face-up cards in a line with the most cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

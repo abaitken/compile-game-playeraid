@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 State a number. Draw 3 cards. Reveal 1 card drawn with the face-up value of your stated number. You may play it.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

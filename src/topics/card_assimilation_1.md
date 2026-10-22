@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Discard 1 card. Refresh.
-```
 
 ### Bottom
 
-```
 **After a player refreshes:** Draw the top card of your opponent's deck. Discard 1 card into their trash.
-```
 
 ## Reference
 

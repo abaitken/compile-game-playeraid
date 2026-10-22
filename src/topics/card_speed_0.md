@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Play 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

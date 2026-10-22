@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Shift 1 other card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

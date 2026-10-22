@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Play 1 card face-down in each other line. Your opponent plays 1 card face-down in this line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

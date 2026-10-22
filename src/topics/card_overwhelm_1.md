@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Play the top card of your deck face-down in each line where you have a higher total value then your opponent.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

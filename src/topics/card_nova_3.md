@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Shift 1 card with a value less than the number of cards in this stack.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

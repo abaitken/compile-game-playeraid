@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **End:** You may discard 1 card. If you do, flip 1 card.
-```
 
 ## Reference
 

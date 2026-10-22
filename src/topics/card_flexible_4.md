@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **End:** You may draw 2 cards. If you do, flip this card.
-```
 
 ## Reference
 

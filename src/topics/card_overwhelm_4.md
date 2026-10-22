@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 If you have more cards in play than your opponent, delete your opponent's lowest value covered card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

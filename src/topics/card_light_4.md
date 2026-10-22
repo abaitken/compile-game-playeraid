@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent reveals their hand.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

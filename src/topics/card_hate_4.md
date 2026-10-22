@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **When this card would be covered:** First, delete the lowest value covered card in this line.
-```
 
 ## Reference
 

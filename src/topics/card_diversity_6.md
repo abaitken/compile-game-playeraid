@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **End:** If there are not at least 3 different protocols on cards in the field, delete this card.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

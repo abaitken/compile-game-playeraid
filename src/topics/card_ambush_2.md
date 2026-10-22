@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Shift your lowest value covered card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

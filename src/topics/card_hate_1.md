@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Discard 3 cards. Delete 1 card. Delete 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

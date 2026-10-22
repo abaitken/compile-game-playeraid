@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **After your opponent draws cards:** Draw 1 card.
-```
 
 ## Reference
 

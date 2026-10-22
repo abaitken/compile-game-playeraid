@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 All other cards in this line have no top commands.
-```
 
 ### Middle
 
-```
 Flip 1 covered or uncovered face-up card in a different line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

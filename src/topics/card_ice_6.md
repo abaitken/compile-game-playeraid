@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 If you have any cards in your hand, you cannot draw cards.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

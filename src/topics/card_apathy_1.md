@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip all other face-up cards in this line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

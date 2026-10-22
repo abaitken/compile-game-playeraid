@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **When this card would be covered or flipped:** First, delete this card.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

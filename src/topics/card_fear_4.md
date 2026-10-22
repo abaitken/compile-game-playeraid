@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent discards 1 random card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Dicard 1 or more cards. Your opponent discards the amount of cards discarded plus 1.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

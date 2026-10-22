@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 State a protocol. Discard the top card of your opponent's deck. If the discarded card matches the stated protocol, delete 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

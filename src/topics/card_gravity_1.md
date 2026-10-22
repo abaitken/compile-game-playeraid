@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 2 cards. Shift 1 card either to or from this line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

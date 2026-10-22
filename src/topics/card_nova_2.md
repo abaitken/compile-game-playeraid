@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 If this card is covering a Nova card, you may rearrange your protocols. Else, game control.
-```
 
 ### Bottom
 
-```
 **After you rearrange protocols:** You may shift 1 face-down card.
-```
 
 ## Reference
 

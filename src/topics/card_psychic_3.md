@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent discards 1 card. Shift 1 of their cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

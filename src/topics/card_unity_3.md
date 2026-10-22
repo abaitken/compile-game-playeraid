@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 If there is another Unity card in the field, you may flip 1 face-up card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

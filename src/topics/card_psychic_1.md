@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 Your opponent can only play cards face-down.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **Start:** Flip this card.
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 All cards with the highest value in this line do not add to a player's total value in this line.
-```
 
 ### Middle
 
-```
 Play the top card of your deck face-down in this stack.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Swap all of your cards in one of your stacks with another one of your stacks.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

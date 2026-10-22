@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **End:** If this card is covered, delete this card.
-```
 
 ### Middle
 
-```
 Play the top card of your deck face-down in each line where you have a card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

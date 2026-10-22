@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 1 card. Delete all cards in 1 other line with 8 or more cards.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

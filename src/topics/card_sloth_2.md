@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip 1 of your covered cards.
-```
 
 ### Bottom
 
-```
 **Start:** You may put 1 card from your hand on the bottom of your deck.
-```
 
 ## Reference
 

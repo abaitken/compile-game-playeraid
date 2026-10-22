@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **End:** Either discard 1 card or delete this card.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 1 card.
-```
 
 ### Bottom
 
-```
 **End:** Lose control. If you did, delete 1 face-up card.
-```
 
 ## Reference
 

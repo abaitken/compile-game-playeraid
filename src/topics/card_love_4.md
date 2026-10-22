@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Reveal 1 card from your hand. Flip 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

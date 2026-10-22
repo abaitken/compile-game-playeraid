@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 If you have exactly 4 cards in hand, draw 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

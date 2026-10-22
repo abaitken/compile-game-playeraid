@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent draws 1 card. Refresh.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

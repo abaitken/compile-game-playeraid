@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Discard 1 card. If you do, return 1 card.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

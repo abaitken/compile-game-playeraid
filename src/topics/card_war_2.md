@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip 1 card.
-```
 
 ### Bottom
 
-```
 **After your opponent compiles:** Your opponent discards their hand.
-```
 
 ## Reference
 

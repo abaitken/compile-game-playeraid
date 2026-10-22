@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **End:** If this card is covered, you may shift it.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

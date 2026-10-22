@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Reveal your hand. Your opponent loses control.
-```
 
 ### Bottom
 
-```
 **After your opponent gains control:** Draw 1 card.
-```
 
 ## Reference
 

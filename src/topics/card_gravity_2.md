@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip 1 card. Shift that card to this line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Rules/FAQ
 

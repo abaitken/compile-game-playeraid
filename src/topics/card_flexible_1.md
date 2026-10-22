@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip or shift 1 of your cards
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

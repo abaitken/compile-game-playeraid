@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Delete 1 of your opponent's cards in a line where they have a highter total value than you do
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

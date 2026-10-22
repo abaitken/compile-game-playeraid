@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent discards 1 card.
-```
 
 ### Bottom
 
-```
 **Start:** You may return 1 of your cards.
-```
 
 ## Reference
 

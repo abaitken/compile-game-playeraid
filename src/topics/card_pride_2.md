@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw cards equal to the number of lines where you have a total value that your opponent.
-```
 
 ### Bottom
 
-```
 **Start:** If you have a higher total value than your opponent in this line, draw 1 card
-```
 
 ## Reference
 

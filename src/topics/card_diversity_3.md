@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 Your total value in this line is increased by 2 if there are any non-Diversity face-up cards in this stack.
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

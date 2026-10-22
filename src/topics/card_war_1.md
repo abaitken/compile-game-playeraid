@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 
-```
 
 ### Bottom
 
-```
 **After your opponent refreshes:** Discard any number of cards. Refresh.
-```
 
 ## Reference
 

@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Draw 2 cards. Rearrange your protocols.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

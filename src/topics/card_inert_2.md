@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Flip all face-up cards in a line that have the highest value in that line.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 

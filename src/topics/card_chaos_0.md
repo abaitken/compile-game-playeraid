@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 In each line, flip 1 covered card.
-```
 
 ### Bottom
 
-```
 **Start:** Draw the top card of your opponent's deck. Your opponent draws the top card of your deck.
-```
 
 ## Rules/FAQ
 

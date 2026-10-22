@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 If your opponent has control, you may flip 1 card.
-```
 
 ### Bottom
 
-```
 **Start:** If your opponent has control, gain control.
-```
 
 ## Reference
 

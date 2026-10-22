@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 **Start:** Reveal the top card of your deck. You may discard the top card of your deck.
-```
 
 ### Middle
 
-```
 Your opponent reveals their hand.
-```
 
 ### Bottom
 
-```
 **When this card would be covered:** First, draw 3 cards.
-```
 
 ## Reference
 

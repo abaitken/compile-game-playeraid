@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Both players discard their hand.
-```
 
 ### Bottom
 
-```
 **End:** If your hand is empty, draw 1 card.
-```
 
 ## Rules/FAQ
 

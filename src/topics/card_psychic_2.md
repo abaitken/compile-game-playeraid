@@ -4,21 +4,15 @@
 
 ### Top
 
-```
 
-```
 
 ### Middle
 
-```
 Your opponent discards 2 cards. Rearrange their protocols.
-```
 
 ### Bottom
 
-```
 
-```
 
 ## Reference
 
