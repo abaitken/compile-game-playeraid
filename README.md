@@ -14,4 +14,4 @@ Features card list, protocol lists, tools to allow players to randomly pick prot
 
 Just open index.html in your browser.
 
-Or, for partially supported Markdown you can use [FAQ Index](src/topics/index.html).
+Or, for partially supported Markdown you can use [FAQ Index](src/topics/index.md).
