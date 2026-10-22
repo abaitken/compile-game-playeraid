@@ -8,6 +8,7 @@ export class FAQViewModel {
 # No topic loaded
         `);
         this.error = ko.observable('');
+        this.loadTopics = true;
     }
     
     // NOTE : Couldn't get the markdown renderer to work
@@ -55,7 +56,19 @@ export class FAQViewModel {
         if(!hash) {
             hash = '#index';
         }
+        
+        if(hash === '#index') {
+            this.loadTopics = true;
+        }
+        
+        if(!this.loadTopics) {
+            return;
+        }
         this.loadtopic(hash.replace("#", ""));
+        
+        if(hash === '#complete') {
+            this.loadTopics = false;
+        }
     }
 
     init() {        

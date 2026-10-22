@@ -52,6 +52,8 @@ def regenerate_topics(file_name, title, filter):
         for md_file in sorted(topics_dir.glob(filter)):
             if md_file.name == output_file.name:
                 continue
+            if md_file.name == "complete.md":
+                continue
             
             with md_file.open("r", encoding="utf-8") as f:
                 first_line = f.readline().strip()
