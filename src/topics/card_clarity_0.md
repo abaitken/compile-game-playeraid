@@ -1,18 +1,20 @@
 # Card: Clarity 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 Your total value in this line is increased by 1 for each card in your hand.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

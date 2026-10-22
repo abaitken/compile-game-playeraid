@@ -1,18 +1,20 @@
 # Card: Smoke 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Play the top card of your deck face-down in each line with a face-down card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

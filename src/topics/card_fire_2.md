@@ -1,18 +1,20 @@
 # Card: Fire 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Discard 1 card. If you do, return 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Flexible 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** You may draw 2 cards. If you do, flip this card.

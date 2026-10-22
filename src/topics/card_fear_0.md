@@ -1,18 +1,20 @@
 # Card: Fear 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 During your turn, your opponent's cards do not have middle commands.
 ```
 
-## Middle
+### Middle
 
 ```
 Shift or flip 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

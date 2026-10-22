@@ -1,18 +1,20 @@
 # Card: Apathy 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 You may flip 1 of your face-up covered cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

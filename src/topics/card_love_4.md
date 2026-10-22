@@ -1,18 +1,20 @@
 # Card: Love 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Reveal 1 card from your hand. Flip 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

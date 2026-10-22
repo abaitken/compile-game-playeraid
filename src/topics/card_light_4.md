@@ -1,18 +1,20 @@
 # Card: Light 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent reveals their hand.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

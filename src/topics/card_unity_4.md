@@ -1,18 +1,20 @@
 # Card: Unity 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **Start:** If you hand is empty, reveal your deck, draw all Unity cards from it, and shuffle your deck.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

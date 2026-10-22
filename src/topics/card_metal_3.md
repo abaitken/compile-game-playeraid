@@ -1,18 +1,20 @@
 # Card: Metal 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card. Delete all cards in 1 other line with 8 or more cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

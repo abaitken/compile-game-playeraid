@@ -1,18 +1,20 @@
 # Card: Plague 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** Your opponent deletes 1 of their face-down cards. You may flip this card.

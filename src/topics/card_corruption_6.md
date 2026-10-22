@@ -1,18 +1,20 @@
 # Card: Corruption 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **End:** Either discard 1 card or delete this card.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

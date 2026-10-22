@@ -1,18 +1,20 @@
 # Card: Darkness 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Play 1 card face-down in another line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

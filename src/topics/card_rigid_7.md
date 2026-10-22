@@ -1,18 +1,20 @@
 # Card: Rigid 7
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **End:** Your opponent chooses to draw 1 card or play 1 card.
 ```
 
-## Middle
+### Middle
 
 ```
 Discard 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 This card cannot be flipped or shifted.

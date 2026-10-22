@@ -1,18 +1,20 @@
 # Card: Lust 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Discard 1 card. Your opponent plays 1 card face-down in this line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

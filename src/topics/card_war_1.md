@@ -1,18 +1,20 @@
 # Card: War 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After your opponent refreshes:** Discard any number of cards. Refresh.

@@ -1,18 +1,20 @@
 # Card: Rigid 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Play 1 card face-down directly under this card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

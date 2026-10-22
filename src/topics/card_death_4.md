@@ -1,18 +1,20 @@
 # Card: Death 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Delete a card with a value of 0 or 1.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

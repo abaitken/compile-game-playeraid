@@ -1,18 +1,20 @@
 # Card: Rigid 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **When this card would be covered by a face-down card:** First, draw 1 card.

@@ -1,18 +1,20 @@
 # Card: Wrath 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip all face-up cards in a line with the most cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

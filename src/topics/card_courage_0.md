@@ -1,18 +1,20 @@
 # Card: Courage 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **Start:** If you have no cards in hand, draw 1 card.
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** You may discard 1 card. If you do, your opponent discards 1 card.

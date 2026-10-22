@@ -1,18 +1,20 @@
 # Card: Fire 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** You may discard 1 card. If you do, flip 1 card.

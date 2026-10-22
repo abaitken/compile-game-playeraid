@@ -1,18 +1,20 @@
 # Card: Metal 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 2 cards. Your opponent cannot compile on their next turn.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

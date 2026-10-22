@@ -1,18 +1,20 @@
 # Card: Light 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift all face-down cards in this line to another line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

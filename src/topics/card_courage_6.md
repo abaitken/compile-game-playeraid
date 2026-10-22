@@ -1,18 +1,20 @@
 # Card: Courage 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **End:** If your opponent has a higher value in this line than you do, flip this card.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

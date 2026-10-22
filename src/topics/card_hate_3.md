@@ -1,18 +1,20 @@
 # Card: Hate 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **After you delete cards:** Draw 1 card.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

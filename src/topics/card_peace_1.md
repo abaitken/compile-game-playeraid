@@ -1,18 +1,20 @@
 # Card: Peace 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Both players discard their hand.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** If your hand is empty, draw 1 card.

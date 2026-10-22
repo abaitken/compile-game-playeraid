@@ -1,18 +1,20 @@
 # Card: Mirror 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Swap all of your cards in one of your stacks with another one of your stacks.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

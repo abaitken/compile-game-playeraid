@@ -1,18 +1,20 @@
 # Card: Fear 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 2 cards. Your opponent discards their hand and draws the amount of cards discarded minus 1.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

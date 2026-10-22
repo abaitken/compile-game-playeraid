@@ -1,18 +1,20 @@
 # Card: Plague 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip each other face-up card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

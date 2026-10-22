@@ -1,18 +1,20 @@
 # Card: Pride 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw cards equal to the number of lines where you have a total value that your opponent.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **Start:** If you have a higher total value than your opponent in this line, draw 1 card

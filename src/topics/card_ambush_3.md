@@ -1,18 +1,20 @@
 # Card: Ambush 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip your opponent's highest value face-up covered card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

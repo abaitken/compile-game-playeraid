@@ -1,18 +1,20 @@
 # Card: Hate 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **When this card would be covered:** First, delete the lowest value covered card in this line.

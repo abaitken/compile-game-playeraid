@@ -1,18 +1,20 @@
 # Card: Ice 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 You may shift this card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After your opponent plays a card in this line:** Your opponent discards 1 card.

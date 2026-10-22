@@ -1,18 +1,20 @@
 # Card: Love 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Take 1 random card from your opponent's hand. Give 1 card from your hand to your opponent.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

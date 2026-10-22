@@ -1,18 +1,20 @@
 # Card: Life 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **When this card would be covered:** First, play the top card of your deck face-down in another line.

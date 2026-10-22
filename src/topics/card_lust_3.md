@@ -1,18 +1,20 @@
 # Card: Lust 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent revels 1 random card from this hand. Play that card face-down on thier side.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** You may lose control. If you did, flip 1 card.

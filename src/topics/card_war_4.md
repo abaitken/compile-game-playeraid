@@ -1,18 +1,20 @@
 # Card: War 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent discards 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

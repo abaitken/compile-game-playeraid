@@ -1,18 +1,20 @@
 # Card: Hate 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Discard 3 cards. Delete 1 card. Delete 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

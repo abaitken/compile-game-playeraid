@@ -1,18 +1,20 @@
 # Card: Luck 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Discard the top card of your deck. Draw cards equal to the value of the discarded card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

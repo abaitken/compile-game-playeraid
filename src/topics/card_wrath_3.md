@@ -1,18 +1,20 @@
 # Card: Wrath 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 face-up card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

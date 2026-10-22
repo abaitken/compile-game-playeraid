@@ -1,18 +1,20 @@
 # Card: Apathy 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 Your total value in this line is increased by 1 for each face-down card in this line.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

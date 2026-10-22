@@ -1,18 +1,20 @@
 # Card: Flexible 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift 1 of your opponent's cards or swap 2 of your protocols.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

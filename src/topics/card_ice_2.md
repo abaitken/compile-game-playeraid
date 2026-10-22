@@ -1,18 +1,20 @@
 # Card: Ice 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift 1 other card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Metal 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 Your opponent's total value in this line is reduced by 2.
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

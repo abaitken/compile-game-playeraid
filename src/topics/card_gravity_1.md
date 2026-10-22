@@ -1,18 +1,20 @@
 # Card: Gravity 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 2 cards. Shift 1 card either to or from this line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

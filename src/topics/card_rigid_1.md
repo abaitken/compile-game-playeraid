@@ -1,18 +1,20 @@
 # Card: Rigid 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 of your opponent's face-up cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** Play 1 card face-down in each other line where your opponent's uncovered card is face-down.

@@ -1,18 +1,20 @@
 # Card: Metal 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **When this card would be covered or flipped:** First, delete this card.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

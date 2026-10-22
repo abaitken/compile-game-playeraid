@@ -1,18 +1,20 @@
 # Card: Envy 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 If your opponent has control, you may flip 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **Start:** If your opponent has control, gain control.

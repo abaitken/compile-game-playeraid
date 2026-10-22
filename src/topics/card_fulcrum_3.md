@@ -1,18 +1,20 @@
 # Card: Fulcrum 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card. Swap the positions of your left and right protocols.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

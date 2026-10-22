@@ -1,18 +1,20 @@
 # Card: Life 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card. You may flip 1 face-down card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

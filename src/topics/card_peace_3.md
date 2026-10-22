@@ -1,18 +1,20 @@
 # Card: Peace 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 You may discard 1 card. Flip 1 card thas has a value greater than the number of cards in your hand.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

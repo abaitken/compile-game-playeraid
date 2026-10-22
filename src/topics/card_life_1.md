@@ -1,18 +1,20 @@
 # Card: Life 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 card. Flip 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Unity 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 If there is another Unity card in the field, either flip 1 card or draw 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **When this card would be covered by a Unity card:** First, either flip 1 card or draw 1 card.

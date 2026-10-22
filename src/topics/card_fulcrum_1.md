@@ -1,18 +1,20 @@
 # Card: Fulcrum 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip each other face-up card. Swap your left stack with your right stack.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

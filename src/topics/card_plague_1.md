@@ -1,18 +1,20 @@
 # Card: Plague 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **After your opponent discards cards:** Draw 1 card.
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent discards 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

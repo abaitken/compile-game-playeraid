@@ -1,18 +1,20 @@
 # Card: Nova 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift 1 card with a value less than the number of cards in this stack.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

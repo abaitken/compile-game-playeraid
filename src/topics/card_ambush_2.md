@@ -1,18 +1,20 @@
 # Card: Ambush 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift your lowest value covered card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

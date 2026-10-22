@@ -1,18 +1,20 @@
 # Card: Fear 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent discards 1 random card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

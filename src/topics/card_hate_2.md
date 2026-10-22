@@ -1,18 +1,20 @@
 # Card: Hate 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Delete your highest value uncovered card. Delete your opponent's highest value uncovered card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

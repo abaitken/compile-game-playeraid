@@ -1,18 +1,20 @@
 # Card: Unity 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 If there is another Unity card in the field, you may flip 1 face-up card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Time 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 2 cards. Discard 2 cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

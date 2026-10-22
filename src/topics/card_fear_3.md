@@ -1,18 +1,20 @@
 # Card: Fear 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift 1 of your opponent's covered or uncovered cards in this line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

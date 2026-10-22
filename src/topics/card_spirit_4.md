@@ -1,18 +1,20 @@
 # Card: Spirit 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Swap the positions of 2 of your protocols
 ```
 
-## Bottom
+### Bottom
 
 ```
 

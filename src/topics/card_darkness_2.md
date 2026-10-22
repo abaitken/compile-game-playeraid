@@ -1,18 +1,20 @@
 # Card: Darkness 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 All face-down cards in this stack have a value of 4.
 ```
 
-## Middle
+### Middle
 
 ```
 You may flip 1 covered card in this line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Lust 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 Each player's total value in this line is increased by 10.
 ```
 
-## Middle
+### Middle
 
 ```
 Gain control.
 ```
 
-## Bottom
+### Bottom
 
 ```
 Your opponent can't compile if you have control.

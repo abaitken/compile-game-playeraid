@@ -1,18 +1,20 @@
 # Card: Pride 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **After your opponent gains control:** Flip this card
 ```
 
-## Middle
+### Middle
 
 ```
 If your opponent has control, flip this card
 ```
 
-## Bottom
+### Bottom
 
 ```
 

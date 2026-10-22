@@ -1,18 +1,20 @@
 # Card: Overwhelm 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **Start:** If your opponent has a higher total value in this line than you do, flip this card.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

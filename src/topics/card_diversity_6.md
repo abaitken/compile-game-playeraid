@@ -1,18 +1,20 @@
 # Card: Diversity 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **End:** If there are not at least 3 different protocols on cards in the field, delete this card.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

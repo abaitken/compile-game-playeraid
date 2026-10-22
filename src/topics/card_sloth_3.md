@@ -1,18 +1,20 @@
 # Card: Sloth 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent dicards 2 cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

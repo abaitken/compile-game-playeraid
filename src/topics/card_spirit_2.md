@@ -1,18 +1,20 @@
 # Card: Spirit 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 You may flip 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Clarity 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **Start:** Reveal the top card of your deck. You may discard the top card of your deck.
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent reveals their hand.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **When this card would be covered:** First, draw 3 cards.

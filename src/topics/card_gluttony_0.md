@@ -1,18 +1,20 @@
 # Card: Gluttony 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **After you clear cache:** Play the top card of your deck face-down.
 ```
 
-## Middle
+### Middle
 
 ```
 Return 1 other card. Draw 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

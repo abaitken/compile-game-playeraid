@@ -1,18 +1,20 @@
 # Card: Inert 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent discards 2 cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 All other cards in this line have no bottom command.

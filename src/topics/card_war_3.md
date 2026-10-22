@@ -1,18 +1,20 @@
 # Card: War 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After your opponent discards cards:** You may play 1 card face-down.

@@ -1,18 +1,20 @@
 # Card: Fulcrum 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **Start:** IF you have exactly 0 cards in hand, your opponent discards 2 cards.
 ```
 
-## Middle
+### Middle
 
 ```
 If you have exactly 0 cards in hand, your opponent discards 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

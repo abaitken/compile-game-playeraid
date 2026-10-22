@@ -1,18 +1,20 @@
 # Card: Psychic 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 Your opponent can only play cards face-down.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **Start:** Flip this card.

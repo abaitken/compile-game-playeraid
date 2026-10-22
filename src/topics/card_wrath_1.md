@@ -1,18 +1,20 @@
 # Card: Wrath 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** Lose control. If you did, delete 1 face-up card.

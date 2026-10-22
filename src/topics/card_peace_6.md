@@ -1,18 +1,20 @@
 # Card: Peace 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 If you have more then 1 card in your hand, flip this card
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Spirit 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 When you play cards face-up, they may be played without matching protocols.
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 2 cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **Start:** Either discard 1 card or flip this card.

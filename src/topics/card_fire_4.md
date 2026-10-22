@@ -1,18 +1,20 @@
 # Card: Fire 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Discard 1 or more cards. Draw the amount discarded plus 1.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

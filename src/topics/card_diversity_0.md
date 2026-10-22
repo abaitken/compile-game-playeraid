@@ -1,18 +1,20 @@
 # Card: Diversity 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 If there are 6 different protocols on cards in the field, flip the Diversity protocol to the compiled side.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** You may play 1 non-Diversity card in this line.

@@ -1,18 +1,20 @@
 # Card: Light 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 2 cards. Reveal 1 face-down card. You may shift or flip that card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

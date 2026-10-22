@@ -1,18 +1,20 @@
 # Card: Darkness 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 3 cards. Shift 1 of your opponent's covered cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Apathy 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip all other face-up cards in this line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

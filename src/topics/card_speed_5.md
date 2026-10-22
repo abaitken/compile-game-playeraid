@@ -1,18 +1,20 @@
 # Card: Speed 5
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 You discard 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

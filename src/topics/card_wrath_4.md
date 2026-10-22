@@ -1,18 +1,20 @@
 # Card: Wrath 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Lose control. If you did, your opponent discards 2 cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

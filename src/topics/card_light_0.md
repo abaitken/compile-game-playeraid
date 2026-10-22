@@ -1,18 +1,20 @@
 # Card: Light 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 card. Draw cards equal to that card's value.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

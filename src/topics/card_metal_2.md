@@ -1,18 +1,20 @@
 # Card: Metal 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 Your opponent cannot play cards face-down in this line.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Assimilation 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** Play the top card of your deck face-down on your opponent's side.

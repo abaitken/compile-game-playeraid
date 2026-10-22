@@ -1,18 +1,20 @@
 # Card: Momentum 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **After a player compiles:** Play the top card of your deck face-down in this stack.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After a player rearranges protocols:** Discard 1 card. Draw 1 card.

@@ -1,18 +1,20 @@
 # Card: Peace 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card. Play 1 card face-down.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

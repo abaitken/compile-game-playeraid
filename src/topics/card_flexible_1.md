@@ -1,18 +1,20 @@
 # Card: Flexible 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip or shift 1 of your cards
 ```
 
-## Bottom
+### Bottom
 
 ```
 

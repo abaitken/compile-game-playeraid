@@ -1,18 +1,20 @@
 # Card: Inert 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Discard your deck. Your opponent discards thier deck.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

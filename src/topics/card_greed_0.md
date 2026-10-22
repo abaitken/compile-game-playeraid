@@ -1,18 +1,20 @@
 # Card: Greed 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Discard your hand. Delete 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After you delete cards:** Draw 1 card.

@@ -1,18 +1,20 @@
 # Card: War 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After your opponent compiles:** Your opponent discards their hand.

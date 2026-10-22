@@ -1,18 +1,20 @@
 # Card: Psychic 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent discards 2 cards. Rearrange their protocols.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

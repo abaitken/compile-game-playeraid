@@ -1,18 +1,20 @@
 # Card: Greed 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift 1 of your covered cards in this stack.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

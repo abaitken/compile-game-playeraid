@@ -1,18 +1,20 @@
 # Card: Smoke 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Play 1 card face-down in a line with a face-down card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

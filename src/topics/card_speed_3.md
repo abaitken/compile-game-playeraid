@@ -1,18 +1,20 @@
 # Card: Speed 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift 1 of your other cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** You may shift 1 of your cards. If you do, flip this card.

@@ -1,18 +1,20 @@
 # Card: Corruption 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Return 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **When a card would be returned to your opponent's hand:** Put that card on top of their deck face-down instead.

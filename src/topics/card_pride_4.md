@@ -1,18 +1,20 @@
 # Card: Pride 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 If you have control, you may shift 1 of your opponent's cards to this line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

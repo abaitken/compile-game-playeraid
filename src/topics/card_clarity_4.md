@@ -1,18 +1,20 @@
 # Card: Clarity 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 You may shuffle your trash into your deck.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Assimilation 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Put 1 of your opponent's covered or uncovered face-down cards into your hand.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

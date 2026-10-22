@@ -1,18 +1,20 @@
 # Card: Darkness 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift 1 face-down card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

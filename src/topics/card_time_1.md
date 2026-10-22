@@ -1,18 +1,20 @@
 # Card: Time 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 covered card. Discard your entire deck.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

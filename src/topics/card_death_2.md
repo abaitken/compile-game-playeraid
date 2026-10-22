@@ -1,18 +1,20 @@
 # Card: Death 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Delete all cards in 1 line with values of 1 or 2.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

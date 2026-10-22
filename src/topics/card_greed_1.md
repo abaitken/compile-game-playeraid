@@ -1,18 +1,20 @@
 # Card: Greed 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** Compile a line where you have at least 10 value and a higher total value than your opponent.

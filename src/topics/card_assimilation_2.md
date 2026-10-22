@@ -1,18 +1,20 @@
 # Card: Assimilation 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** Play the top card of your opponent's deck face down in this stack.  

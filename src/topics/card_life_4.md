@@ -1,18 +1,20 @@
 # Card: Life 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 If this card is covering a card, draw 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

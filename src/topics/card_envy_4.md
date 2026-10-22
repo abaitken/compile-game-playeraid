@@ -1,18 +1,20 @@
 # Card: Envy 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 If your opponent has more compiled protocols than you do, flip 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

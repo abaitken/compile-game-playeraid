@@ -1,18 +1,20 @@
 # Card: Plague 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent discards 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 Your opponent cannot play cards in this line.

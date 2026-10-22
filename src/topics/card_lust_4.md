@@ -1,18 +1,20 @@
 # Card: Lust 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Reveal your hand. Your opponent loses control.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After your opponent gains control:** Draw 1 card.

@@ -1,18 +1,20 @@
 # Card: Love 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw the top card of your opponent's deck.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** You may give 1 card from your hand to your opponent. If you do, draw 2 cards.

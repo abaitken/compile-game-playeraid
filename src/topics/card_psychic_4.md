@@ -1,18 +1,20 @@
 # Card: Psychic 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** You may return 1 of your opponent's cards. If you do, flip this card.

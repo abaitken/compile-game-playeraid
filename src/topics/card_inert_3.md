@@ -1,18 +1,20 @@
 # Card: Inert 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Play 1 card face-down in each other line. Your opponent plays 1 card face-down in this line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

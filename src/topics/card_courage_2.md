@@ -1,18 +1,20 @@
 # Card: Courage 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** If your opponent has a highter total value than you do in this line, draw 1 card.

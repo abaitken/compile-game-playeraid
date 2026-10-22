@@ -1,18 +1,20 @@
 # Card: Apathy 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 Ignore all middle commands of cards in this line.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **When this card would be covered:** First, flip this card.

@@ -1,18 +1,20 @@
 # Card: Nova 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 If this card is covering a Nova card, you may rearrange your protocols. Else, game control.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After you rearrange protocols:** You may shift 1 face-down card.

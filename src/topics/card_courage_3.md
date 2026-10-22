@@ -1,18 +1,20 @@
 # Card: Courage 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** You may shift this card to the line where your opponent has their highest total value. 

@@ -1,18 +1,20 @@
 # Card: Envy 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 You total value in this line is increased by the value of your opponent's highest value card in this line.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

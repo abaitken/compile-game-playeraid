@@ -1,18 +1,20 @@
 # Card: Chaos 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift 1 of your covered cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Gravity 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 card. Shift that card to this line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

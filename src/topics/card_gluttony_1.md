@@ -1,18 +1,20 @@
 # Card: Gluttony 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 2 cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After a player clears cache:** Delete 1 card.

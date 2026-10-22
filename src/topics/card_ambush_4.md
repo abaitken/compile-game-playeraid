@@ -1,18 +1,20 @@
 # Card: Ambush 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card if you have an uncovered face-down card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

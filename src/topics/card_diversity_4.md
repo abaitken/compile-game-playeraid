@@ -1,18 +1,20 @@
 # Card: Diversity 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 card with a value less than the number of different protocols on cards in the field.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Clarity 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Reveal your deck. Draw 1 card with a value of 1 revealed this way. Shuffle your deck. Play 1 card with a value of 1.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

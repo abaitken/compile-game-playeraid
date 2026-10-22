@@ -1,18 +1,20 @@
 # Card: Mirror 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After your opponent draws cards:** Draw 1 card.

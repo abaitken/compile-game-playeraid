@@ -1,18 +1,20 @@
 # Card: Ambush 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip all of your other cards with a value of 0 and 1. Draw 1 card for each card flipped.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

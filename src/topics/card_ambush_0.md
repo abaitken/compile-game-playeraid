@@ -1,18 +1,20 @@
 # Card: Ambush 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 3 cards. Flip 1 of your face-down cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Corruption 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 You may flip 1 face-up covered card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

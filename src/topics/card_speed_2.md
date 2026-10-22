@@ -1,18 +1,20 @@
 # Card: Speed 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **When this card would be deleted by compiling:** Shift this card, even if this card is covered.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

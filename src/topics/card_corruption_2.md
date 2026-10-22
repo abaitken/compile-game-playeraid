@@ -1,18 +1,20 @@
 # Card: Corruption 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **After you discard cards:** Your opponent discards 1 card.
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card. Discard 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

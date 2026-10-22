@@ -1,18 +1,20 @@
 # Card: Pride 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **After you compile:** Refresh
 ```
 
-## Middle
+### Middle
 
 ```
 If you have control, shift 1 other card. Else, shift 1 of your cards
 ```
 
-## Bottom
+### Bottom
 
 ```
 

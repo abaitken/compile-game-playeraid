@@ -1,18 +1,20 @@
 # Card: Spirit 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Refresh. Draw 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 Skip your check cache phase.

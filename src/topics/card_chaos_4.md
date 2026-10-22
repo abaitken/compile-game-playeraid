@@ -1,18 +1,20 @@
 # Card: Chaos 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **End:** Discard your hand. Draw that many cards.

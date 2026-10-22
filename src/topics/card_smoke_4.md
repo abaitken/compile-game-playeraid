@@ -1,18 +1,20 @@
 # Card: Smoke 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Shift 1 covered face-down card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

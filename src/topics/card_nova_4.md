@@ -1,18 +1,20 @@
 # Card: Nova 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 card with a value less than the number of cards in this stack.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Assimilation 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw the top card of your opponent's deck. Your opponent draws the top card of your deck.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

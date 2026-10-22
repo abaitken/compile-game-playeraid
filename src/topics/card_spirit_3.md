@@ -1,18 +1,20 @@
 # Card: Spirit 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **After you draw cards:** You may shift this card, even if this card is covered.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

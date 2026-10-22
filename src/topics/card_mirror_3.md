@@ -1,18 +1,20 @@
 # Card: Mirror 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 of your cards. Flip 1 of your opponent's cards in the same line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

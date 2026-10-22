@@ -1,18 +1,20 @@
 # Card: Momentum 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **After a player compiles:** Delete this card.
 ```
 
-## Middle
+### Middle
 
 ```
 Discard 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

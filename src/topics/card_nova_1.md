@@ -1,18 +1,20 @@
 # Card: Nova 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent discards cards equal to the number of cards in this stack.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

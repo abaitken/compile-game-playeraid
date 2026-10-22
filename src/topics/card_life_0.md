@@ -1,18 +1,20 @@
 # Card: Life 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **End:** If this card is covered, delete this card.
 ```
 
-## Middle
+### Middle
 
 ```
 Play the top card of your deck face-down in each line where you have a card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

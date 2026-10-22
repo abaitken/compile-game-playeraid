@@ -1,18 +1,20 @@
 # Card: Diversity 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 Your total value in this line is increased by 2 if there are any non-Diversity face-up cards in this stack.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Death 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Delete 1 card from each other line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

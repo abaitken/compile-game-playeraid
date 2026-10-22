@@ -1,18 +1,20 @@
 # Card: Gluttony 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw cards equal to the number of cards in your hand.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

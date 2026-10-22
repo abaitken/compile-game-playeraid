@@ -1,18 +1,20 @@
 # Card: Greed 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 You may discard your hand. If you did, flip 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

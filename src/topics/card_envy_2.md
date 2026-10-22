@@ -1,18 +1,20 @@
 # Card: Envy 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw cards equal to the number of cards in your opponent's hand.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

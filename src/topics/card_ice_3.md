@@ -1,18 +1,20 @@
 # Card: Ice 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **End:** If this card is covered, you may shift it.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 

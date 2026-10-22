@@ -1,18 +1,20 @@
 # Card: Death 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Delete 1 face-down card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

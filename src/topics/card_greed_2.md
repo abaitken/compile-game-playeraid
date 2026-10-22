@@ -1,18 +1,20 @@
 # Card: Greed 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent discards 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **Start:** You may return 1 of your cards.

@@ -1,18 +1,20 @@
 # Card: Love 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent draws 2 cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Sloth 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **When this card would be covered:** First, flip 1 face-up card.

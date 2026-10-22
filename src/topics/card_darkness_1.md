@@ -1,18 +1,20 @@
 # Card: Darkness 1
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 of your opponent's cards. You may shift that card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

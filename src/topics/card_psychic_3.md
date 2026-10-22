@@ -1,18 +1,20 @@
 # Card: Psychic 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent discards 1 card. Shift 1 of their cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

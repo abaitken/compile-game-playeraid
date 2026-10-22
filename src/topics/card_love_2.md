@@ -1,18 +1,20 @@
 # Card: Love 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent draws 1 card. Refresh.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

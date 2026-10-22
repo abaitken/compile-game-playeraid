@@ -1,18 +1,20 @@
 # Card: Lust 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 You may shift 1 of your opponent's covered cards to this line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 Your cards may be played in this stack without matching protocols.

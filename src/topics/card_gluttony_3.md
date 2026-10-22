@@ -1,18 +1,20 @@
 # Card: Gluttony 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **End:** If this card is covered by a face-up card, delete that card.
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 2 cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

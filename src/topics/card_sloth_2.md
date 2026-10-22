@@ -1,18 +1,20 @@
 # Card: Sloth 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 of your covered cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **Start:** You may put 1 card from your hand on the bottom of your deck.

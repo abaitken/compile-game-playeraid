@@ -1,18 +1,20 @@
 # Card: Fire 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 other card. Draw 2 cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 **When this card would be covered:** First, draw 1 card.Then, flip 1 other card.

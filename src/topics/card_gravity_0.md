@@ -1,18 +1,20 @@
 # Card: Gravity 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 For every 2 cards in this line, play the top card of your deck face-down under this card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

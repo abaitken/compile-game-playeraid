@@ -1,18 +1,20 @@
 # Card: Pride 3
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Flip 1 of your face-down cards.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

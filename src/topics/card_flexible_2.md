@@ -1,18 +1,20 @@
 # Card: Flexible 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **End:** If this is covered by a face-down card, you may shift that card.
 ```
 
-## Middle
+### Middle
 
 ```
 Draw 1 card
 ```
 
-## Bottom
+### Bottom
 
 ```
 

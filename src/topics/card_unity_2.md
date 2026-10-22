@@ -1,18 +1,20 @@
 # Card: Unity 2
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Draw cards equal to the number of Unity cards in the field.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

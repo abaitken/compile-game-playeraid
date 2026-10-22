@@ -1,18 +1,20 @@
 # Card: Peace 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After you discard cards during your opponent's turn:** Draw 1 card.

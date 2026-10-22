@@ -1,18 +1,20 @@
 # Card: Fulcrum 4
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 If you have exactly 4 cards in hand, draw 1 card.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

@@ -1,18 +1,20 @@
 # Card: Time 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Play 1 card from your trash. Shuffle your trash into your deck.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

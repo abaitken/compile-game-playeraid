@@ -1,18 +1,20 @@
 # Card: Gravity 6
 
-## Top
+## Card Text
+
+### Top
 
 ```
 
 ```
 
-## Middle
+### Middle
 
 ```
 Your opponent plays the top card of their deck face-down in this line.
 ```
 
-## Bottom
+### Bottom
 
 ```
 

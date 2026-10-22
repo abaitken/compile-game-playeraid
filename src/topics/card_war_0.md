@@ -1,18 +1,20 @@
 # Card: War 0
 
-## Top
+## Card Text
+
+### Top
 
 ```
 **After you refresh:** You may flip this card.
 ```
 
-## Middle
+### Middle
 
 ```
 
 ```
 
-## Bottom
+### Bottom
 
 ```
 **After your opponent draws cards:** You may delete 1 card.
