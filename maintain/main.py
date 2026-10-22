@@ -67,6 +67,10 @@ def main():
     for file_path in Path("../src/topics/").glob("keyword_*.md"):
         print(file_path)
         sort_markdown_list(file_path)
+        
+    for file_path in Path("../src/topics/").glob("keywords.md"):
+        print(file_path)
+        sort_markdown_list(file_path)
 
     regenerate_all_topics()
         
