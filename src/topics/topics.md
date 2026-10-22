@@ -369,6 +369,7 @@
 - [Protocol: Water](protocol_water.md)
 - [Protocol: Wrath](protocol_wrath.md)
 - [Protocols](protocols.md)
+- [Rulings](rulings.md)
 - [Set: Compile AUX 01 (AX01)](set_AX01.md)
 - [Set: Compile AUX 02 (AX02)](set_AX02.md)
 - [Set: Compile AUX 03 (AX03)](set_AX03.md)
